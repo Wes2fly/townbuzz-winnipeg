@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-26T18:15:52.843526+00:00",
+  "updated_at": "2026-10-26T18:50:59.117079+00:00",
   "events": [
     {
       "id": "rZ7HnEZ1A4ZSad",
@@ -113,12 +113,12 @@
     },
     {
       "id": "rZ7HnEZ1AfG3A0",
-      "title": "Misfits Tribute | Metallica Tribute | Witchtrip",
+      "title": "*SOLD OUT* Misfits Tribute | Metallica Tribute | Witchtrip",
       "date": "2026-10-30",
       "time": "20:00",
       "venue": "Sidestage",
       "category": "music",
-      "url": "https://www.ticketweb.ca/event/misfits-tribute-metallica-tribute-sidestage-tickets/14312164",
+      "url": "https://www.ticketweb.ca/event/sold-out-misfits-tribute-sidestage-tickets/14312164",
       "source": "Ticketmaster",
       "price": "Check organizer for pricing"
     },
@@ -343,6 +343,28 @@
       "price": "Check organizer for pricing"
     },
     {
+      "id": "rZ7HnEZ1AfxfuK",
+      "title": "*SOLD OUT* John Muirhead: The Never Ending Road Tour",
+      "date": "2026-11-06",
+      "time": "19:00",
+      "venue": "Sidestage",
+      "category": "music",
+      "url": "https://www.ticketweb.ca/event/sold-out-john-muirhead-the-sidestage-tickets/14894353",
+      "source": "Ticketmaster",
+      "price": "Check organizer for pricing"
+    },
+    {
+      "id": "rZ7HnEZ1AfG7oV",
+      "title": "Fire In Fall",
+      "date": "2026-11-06",
+      "time": "19:00",
+      "venue": "The Park Theatre",
+      "category": "music",
+      "url": "https://www.ticketweb.ca/event/fire-in-fall-the-park-theatre-tickets/14304474",
+      "source": "Ticketmaster",
+      "price": "Check organizer for pricing"
+    },
+    {
       "id": "1AoZkf6GkegiBBy",
       "title": "Manitoba Moose vs. Toronto Marlies",
       "date": "2026-11-06",
@@ -361,28 +383,6 @@
       "venue": "Canada Life Centre",
       "category": "date",
       "url": "https://www.ticketmaster.com/event/Z7r9jZ1AAZfPA",
-      "source": "Ticketmaster",
-      "price": "Check organizer for pricing"
-    },
-    {
-      "id": "rZ7HnEZ1AfG7oV",
-      "title": "Fire In Fall",
-      "date": "2026-11-06",
-      "time": "19:00",
-      "venue": "The Park Theatre",
-      "category": "music",
-      "url": "https://www.ticketweb.ca/event/fire-in-fall-the-park-theatre-tickets/14304474",
-      "source": "Ticketmaster",
-      "price": "Check organizer for pricing"
-    },
-    {
-      "id": "rZ7HnEZ1AfxfuK",
-      "title": "John Muirhead: The Never Ending Road Tour",
-      "date": "2026-11-06",
-      "time": "19:00",
-      "venue": "Sidestage",
-      "category": "music",
-      "url": "https://www.ticketweb.ca/event/john-muirhead-the-never-ending-sidestage-tickets/14894353",
       "source": "Ticketmaster",
       "price": "Check organizer for pricing"
     },
@@ -420,17 +420,6 @@
       "price": "Check organizer for pricing"
     },
     {
-      "id": "1778v0G6CXpggwa",
-      "title": "Grandpa's Home Alone",
-      "date": "2026-11-07",
-      "time": "18:00",
-      "venue": "Destination Dinner Stage",
-      "category": "date",
-      "url": "https://www.ticketmaster.ca/grandpas-home-alone-winnipeg-manitoba-11-07-2026/event/110064EF96D75C89",
-      "source": "Ticketmaster",
-      "price": "Check organizer for pricing"
-    },
-    {
       "id": "1AoZkf6Gkeg11MI",
       "title": "Animal Rescue Night | Manitoba Moose vs. Toronto Marlies ",
       "date": "2026-11-07",
@@ -438,6 +427,17 @@
       "venue": "Canada Life Centre",
       "category": "date",
       "url": "https://www.ticketmaster.ca/animal-rescue-night-manitoba-moose-vs-winnipeg-manitoba-11-07-2026/event/11006507B528ADE8",
+      "source": "Ticketmaster",
+      "price": "Check organizer for pricing"
+    },
+    {
+      "id": "1778v0G6CXpggwa",
+      "title": "Grandpa's Home Alone",
+      "date": "2026-11-07",
+      "time": "18:00",
+      "venue": "Destination Dinner Stage",
+      "category": "date",
+      "url": "https://www.ticketmaster.ca/grandpas-home-alone-winnipeg-manitoba-11-07-2026/event/110064EF96D75C89",
       "source": "Ticketmaster",
       "price": "Check organizer for pricing"
     },
@@ -453,17 +453,6 @@
       "price": "Check organizer for pricing"
     },
     {
-      "id": "1Av7Z_kGkmoRJnQ",
-      "title": "Laura Ramoso: The Calm Down Tour",
-      "date": "2026-11-07",
-      "time": "19:00",
-      "venue": "Burton Cummings Theatre",
-      "category": "date",
-      "url": "https://www.ticketmaster.ca/laura-ramoso-the-calm-down-tour-winnipeg-manitoba-11-07-2026/event/1100646B91BE6A9A",
-      "source": "Ticketmaster",
-      "price": "Check organizer for pricing"
-    },
-    {
       "id": "rZ7HnEZ1AfuJ37",
       "title": "Colour By Numbers | Nagi | Grotoko",
       "date": "2026-11-07",
@@ -471,6 +460,17 @@
       "venue": "Sidestage",
       "category": "music",
       "url": "https://www.ticketweb.ca/event/colour-by-numbers-nagi-sidestage-tickets/14366484",
+      "source": "Ticketmaster",
+      "price": "Check organizer for pricing"
+    },
+    {
+      "id": "1Av7Z_kGkmoRJnQ",
+      "title": "Laura Ramoso: The Calm Down Tour",
+      "date": "2026-11-07",
+      "time": "19:00",
+      "venue": "Burton Cummings Theatre",
+      "category": "date",
+      "url": "https://www.ticketmaster.ca/laura-ramoso-the-calm-down-tour-winnipeg-manitoba-11-07-2026/event/1100646B91BE6A9A",
       "source": "Ticketmaster",
       "price": "Check organizer for pricing"
     },
@@ -530,17 +530,6 @@
       "price": "Check organizer for pricing"
     },
     {
-      "id": "1AoZkftGkd7wIHb",
-      "title": "Arkells - The Between Us Tour",
-      "date": "2026-11-10",
-      "time": "19:00",
-      "venue": "Sidestage",
-      "category": "music",
-      "url": "https://www.ticketmaster.ca/arkells-the-between-us-tour-winnipeg-manitoba-11-10-2026/event/11006529C4CA8F18",
-      "source": "Ticketmaster",
-      "price": "Check organizer for pricing"
-    },
-    {
       "id": "1AoZkfAGkd8kBHs",
       "title": "90s Night | Winnipeg Jets vs. New Jersey Devils",
       "date": "2026-11-10",
@@ -548,6 +537,17 @@
       "venue": "Canada Life Centre",
       "category": "date",
       "url": "https://www.ticketmaster.ca/90s-night-winnipeg-jets-vs-new-winnipeg-manitoba-11-10-2026/event/11006505D01BAF31",
+      "source": "Ticketmaster",
+      "price": "Check organizer for pricing"
+    },
+    {
+      "id": "1AoZkftGkd7wIHb",
+      "title": "Arkells - The Between Us Tour",
+      "date": "2026-11-10",
+      "time": "19:00",
+      "venue": "Sidestage",
+      "category": "music",
+      "url": "https://www.ticketmaster.ca/arkells-the-between-us-tour-winnipeg-manitoba-11-10-2026/event/11006529C4CA8F18",
       "source": "Ticketmaster",
       "price": "Check organizer for pricing"
     },
@@ -662,6 +662,17 @@
       "price": "Check organizer for pricing"
     },
     {
+      "id": "Z7r9jZ1AAZ_G8",
+      "title": "All-4-One",
+      "date": "2026-11-13",
+      "time": "19:00",
+      "venue": "Centennial Concert Hall",
+      "category": "music",
+      "url": "https://www.ticketmaster.ca/event/Z7r9jZ1AAZ_G8",
+      "source": "Ticketmaster",
+      "price": "Check organizer for pricing"
+    },
+    {
       "id": "1Av7Z_aGkBE4a99",
       "title": "DEAN BRODY& THE REKLAWS - with Guest Nate Haller",
       "date": "2026-11-13",
@@ -680,17 +691,6 @@
       "venue": "Canada Life Centre",
       "category": "date",
       "url": "https://www.ticketmaster.ca/disney-on-ice-presents-jump-in-winnipeg-manitoba-11-13-2026/event/110064F06FAF26E6",
-      "source": "Ticketmaster",
-      "price": "Check organizer for pricing"
-    },
-    {
-      "id": "Z7r9jZ1AAZ_G8",
-      "title": "All-4-One",
-      "date": "2026-11-13",
-      "time": "19:00",
-      "venue": "Centennial Concert Hall",
-      "category": "music",
-      "url": "https://www.ticketmaster.ca/event/Z7r9jZ1AAZ_G8",
       "source": "Ticketmaster",
       "price": "Check organizer for pricing"
     },
@@ -750,17 +750,6 @@
       "price": "Check organizer for pricing"
     },
     {
-      "id": "1778v0G6CXpMAw2",
-      "title": "Grandpa's Home Alone",
-      "date": "2026-11-14",
-      "time": "18:00",
-      "venue": "Destination Dinner Stage",
-      "category": "date",
-      "url": "https://www.ticketmaster.ca/grandpas-home-alone-winnipeg-manitoba-11-14-2026/event/110064EF96DC5C8F",
-      "source": "Ticketmaster",
-      "price": "Check organizer for pricing"
-    },
-    {
       "id": "1778v0G62vRRejo",
       "title": "Disney On Ice presents Jump In!",
       "date": "2026-11-14",
@@ -768,6 +757,17 @@
       "venue": "Canada Life Centre",
       "category": "date",
       "url": "https://www.ticketmaster.ca/disney-on-ice-presents-jump-in-winnipeg-manitoba-11-14-2026/event/110064F06FBC2711",
+      "source": "Ticketmaster",
+      "price": "Check organizer for pricing"
+    },
+    {
+      "id": "1778v0G6CXpMAw2",
+      "title": "Grandpa's Home Alone",
+      "date": "2026-11-14",
+      "time": "18:00",
+      "venue": "Destination Dinner Stage",
+      "category": "date",
+      "url": "https://www.ticketmaster.ca/grandpas-home-alone-winnipeg-manitoba-11-14-2026/event/110064EF96DC5C8F",
       "source": "Ticketmaster",
       "price": "Check organizer for pricing"
     },
@@ -1003,13 +1003,13 @@
       "price": "Check organizer for pricing"
     },
     {
-      "id": "1AoZkf6GkeM557p",
-      "title": "Soiree Francophone | Manitoba Moose vs. Rockford IceHogs",
+      "id": "rZ7HnEZ1AfGkGf",
+      "title": "Big Sociable 11",
       "date": "2026-11-20",
       "time": "19:00",
-      "venue": "Canada Life Centre",
-      "category": "date",
-      "url": "https://www.ticketmaster.ca/soiree-francophone-manitoba-moose-vs-rockford-winnipeg-manitoba-11-20-2026/event/11006507B72CB116",
+      "venue": "The Park Theatre",
+      "category": "music",
+      "url": "https://www.ticketweb.ca/event/big-sociable-11-the-park-theatre-tickets/14306314",
       "source": "Ticketmaster",
       "price": "Check organizer for pricing"
     },
@@ -1036,17 +1036,6 @@
       "price": "Check organizer for pricing"
     },
     {
-      "id": "rZ7HnEZ1AfGkGf",
-      "title": "Big Sociable 11",
-      "date": "2026-11-20",
-      "time": "19:00",
-      "venue": "The Park Theatre",
-      "category": "music",
-      "url": "https://www.ticketweb.ca/event/big-sociable-11-the-park-theatre-tickets/14306314",
-      "source": "Ticketmaster",
-      "price": "Check organizer for pricing"
-    },
-    {
       "id": "rZ7HnEZ1AfuO-0",
       "title": "Quinzy",
       "date": "2026-11-20",
@@ -1054,6 +1043,17 @@
       "venue": "Sidestage",
       "category": "music",
       "url": "https://www.ticketweb.ca/event/quinzy-sidestage-tickets/14360864",
+      "source": "Ticketmaster",
+      "price": "Check organizer for pricing"
+    },
+    {
+      "id": "1AoZkf6GkeM557p",
+      "title": "Soiree Francophone | Manitoba Moose vs. Rockford IceHogs",
+      "date": "2026-11-20",
+      "time": "19:00",
+      "venue": "Canada Life Centre",
+      "category": "date",
+      "url": "https://www.ticketmaster.ca/soiree-francophone-manitoba-moose-vs-rockford-winnipeg-manitoba-11-20-2026/event/11006507B72CB116",
       "source": "Ticketmaster",
       "price": "Check organizer for pricing"
     },
@@ -1091,17 +1091,6 @@
       "price": "Check organizer for pricing"
     },
     {
-      "id": "1av7Z_kuJfvZdG2k",
-      "title": "The Bros. Landreth",
-      "date": "2026-11-21",
-      "time": "20:00",
-      "venue": "Burton Cummings Theatre",
-      "category": "music",
-      "url": "https://www.ticketmaster.ca/the-bros-landreth-winnipeg-manitoba-11-21-2026/event/1100646366501BE5",
-      "source": "Ticketmaster",
-      "price": "Check organizer for pricing"
-    },
-    {
       "id": "rZ7HnEZ1Af1eZV",
       "title": "Cosmic Cat Presents: NRX — Celebrating Northern Royals’ 10 Year Anniversary",
       "date": "2026-11-21",
@@ -1113,13 +1102,13 @@
       "price": "Check organizer for pricing"
     },
     {
-      "id": "1AoZkf6GkegmQDd",
-      "title": "Teddy Bear Toss | Manitoba Moose vs. Rockford IceHogs",
-      "date": "2026-11-22",
-      "time": "14:00",
-      "venue": "Canada Life Centre",
-      "category": "date",
-      "url": "https://www.ticketmaster.ca/teddy-bear-toss-manitoba-moose-vs-winnipeg-manitoba-11-22-2026/event/11006507B5B9AEC3",
+      "id": "1av7Z_kuJfvZdG2k",
+      "title": "The Bros. Landreth",
+      "date": "2026-11-21",
+      "time": "20:00",
+      "venue": "Burton Cummings Theatre",
+      "category": "music",
+      "url": "https://www.ticketmaster.ca/the-bros-landreth-winnipeg-manitoba-11-21-2026/event/1100646366501BE5",
       "source": "Ticketmaster",
       "price": "Check organizer for pricing"
     },
@@ -1131,6 +1120,17 @@
       "venue": "Canada Life Centre",
       "category": "date",
       "url": "https://www.ticketmaster.com/event/Z7r9jZ1AAZfPF",
+      "source": "Ticketmaster",
+      "price": "Check organizer for pricing"
+    },
+    {
+      "id": "1AoZkf6GkegmQDd",
+      "title": "Teddy Bear Toss | Manitoba Moose vs. Rockford IceHogs",
+      "date": "2026-11-22",
+      "time": "14:00",
+      "venue": "Canada Life Centre",
+      "category": "date",
+      "url": "https://www.ticketmaster.ca/teddy-bear-toss-manitoba-moose-vs-winnipeg-manitoba-11-22-2026/event/11006507B5B9AEC3",
       "source": "Ticketmaster",
       "price": "Check organizer for pricing"
     },
@@ -1190,17 +1190,6 @@
       "price": "Check organizer for pricing"
     },
     {
-      "id": "1AoZkf6GkeMal75",
-      "title": "Project 11 School Day Game | Manitoba Moose vs Grand Rapids Griffins ",
-      "date": "2026-11-24",
-      "time": "10:30",
-      "venue": "Canada Life Centre",
-      "category": "date",
-      "url": "https://www.ticketmaster.ca/project-11-school-day-game-manitoba-winnipeg-manitoba-11-24-2026/event/11006507B726B10B",
-      "source": "Ticketmaster",
-      "price": "Check organizer for pricing"
-    },
-    {
       "id": "Z7r9jZ1AAZfPa",
       "title": "Manitoba Moose vs. Grand Rapids Griffins",
       "date": "2026-11-24",
@@ -1212,6 +1201,17 @@
       "price": "Check organizer for pricing"
     },
     {
+      "id": "1AoZkf6GkeMal75",
+      "title": "Project 11 School Day Game | Manitoba Moose vs Grand Rapids Griffins ",
+      "date": "2026-11-24",
+      "time": "10:30",
+      "venue": "Canada Life Centre",
+      "category": "date",
+      "url": "https://www.ticketmaster.ca/project-11-school-day-game-manitoba-winnipeg-manitoba-11-24-2026/event/11006507B726B10B",
+      "source": "Ticketmaster",
+      "price": "Check organizer for pricing"
+    },
+    {
       "id": "1AoZkf4GkeNBhyD",
       "title": "Boy Golden - Good Goddamn Another Tour",
       "date": "2026-11-24",
@@ -1219,17 +1219,6 @@
       "venue": "PARK THEATRE",
       "category": "music",
       "url": "https://www.ticketmaster.ca/boy-golden-good-goddamn-another-tour-winnipeg-manitoba-11-24-2026/event/11006515A3E9BE7B",
-      "source": "Ticketmaster",
-      "price": "Check organizer for pricing"
-    },
-    {
-      "id": "1778v0G6GWMjeVr",
-      "title": "The Tenors - Season of Hope Tour",
-      "date": "2026-11-25",
-      "time": "19:00",
-      "venue": "Club Regent Event Centre",
-      "category": "music",
-      "url": "https://www.ticketmaster.ca/the-tenors-season-of-hope-tour-winnipeg-manitoba-11-25-2026/event/110064CF77702D1E",
       "source": "Ticketmaster",
       "price": "Check organizer for pricing"
     },
@@ -1267,6 +1256,17 @@
       "price": "Check organizer for pricing"
     },
     {
+      "id": "1778v0G6GWMjeVr",
+      "title": "The Tenors - Season of Hope Tour",
+      "date": "2026-11-25",
+      "time": "19:00",
+      "venue": "Club Regent Event Centre",
+      "category": "music",
+      "url": "https://www.ticketmaster.ca/the-tenors-season-of-hope-tour-winnipeg-manitoba-11-25-2026/event/110064CF77702D1E",
+      "source": "Ticketmaster",
+      "price": "Check organizer for pricing"
+    },
+    {
       "id": "1778v0G6G1Ba_Ci",
       "title": "An Evening with Raine Maida & Chantal Kreviazuk",
       "date": "2026-11-25",
@@ -1289,17 +1289,6 @@
       "price": "Check organizer for pricing"
     },
     {
-      "id": "1778v0G6GCfTPc4",
-      "title": "Folsom Prison Revisited - The Music - Story - Legend of Johnny Cash",
-      "date": "2026-11-26",
-      "time": "19:00",
-      "venue": "Club Regent Event Centre",
-      "category": "music",
-      "url": "https://www.ticketmaster.ca/folsom-prison-revisited-the-music-story-winnipeg-manitoba-11-26-2026/event/110064C394FE5B55",
-      "source": "Ticketmaster",
-      "price": "Check organizer for pricing"
-    },
-    {
       "id": "1AoZkf4Gkexq5c5",
       "title": "Boy Golden - Good Goddamn Another Tour",
       "date": "2026-11-26",
@@ -1307,6 +1296,17 @@
       "venue": "PARK THEATRE",
       "category": "music",
       "url": "https://www.ticketmaster.ca/boy-golden-good-goddamn-another-tour-winnipeg-manitoba-11-26-2026/event/11006515A274BB4B",
+      "source": "Ticketmaster",
+      "price": "Check organizer for pricing"
+    },
+    {
+      "id": "1778v0G6GCfTPc4",
+      "title": "Folsom Prison Revisited - The Music - Story - Legend of Johnny Cash",
+      "date": "2026-11-26",
+      "time": "19:00",
+      "venue": "Club Regent Event Centre",
+      "category": "music",
+      "url": "https://www.ticketmaster.ca/folsom-prison-revisited-the-music-story-winnipeg-manitoba-11-26-2026/event/110064C394FE5B55",
       "source": "Ticketmaster",
       "price": "Check organizer for pricing"
     },
@@ -1355,17 +1355,6 @@
       "price": "Check organizer for pricing"
     },
     {
-      "id": "1AoZkf6GkegRnDG",
-      "title": "Military Appreciation | Manitoba Moose vs. Belleville Senators ",
-      "date": "2026-11-28",
-      "time": "14:00",
-      "venue": "Canada Life Centre",
-      "category": "date",
-      "url": "https://www.ticketmaster.ca/military-appreciation-manitoba-moose-vs-belleville-winnipeg-manitoba-11-28-2026/event/11006507B5BEAECC",
-      "source": "Ticketmaster",
-      "price": "Check organizer for pricing"
-    },
-    {
       "id": "Z7r9jZ1AAZfPo",
       "title": "Manitoba Moose vs. Belleville Senators",
       "date": "2026-11-28",
@@ -1373,6 +1362,17 @@
       "venue": "Canada Life Centre",
       "category": "date",
       "url": "https://www.ticketmaster.com/event/Z7r9jZ1AAZfPo",
+      "source": "Ticketmaster",
+      "price": "Check organizer for pricing"
+    },
+    {
+      "id": "1AoZkf6GkegRnDG",
+      "title": "Military Appreciation | Manitoba Moose vs. Belleville Senators ",
+      "date": "2026-11-28",
+      "time": "14:00",
+      "venue": "Canada Life Centre",
+      "category": "date",
+      "url": "https://www.ticketmaster.ca/military-appreciation-manitoba-moose-vs-belleville-winnipeg-manitoba-11-28-2026/event/11006507B5BEAECC",
       "source": "Ticketmaster",
       "price": "Check organizer for pricing"
     },
@@ -1476,17 +1476,6 @@
       "price": "Check organizer for pricing"
     },
     {
-      "id": "1778v0G6GC_wAX2",
-      "title": "Matt Dusk - A Very Sinatra Christmas",
-      "date": "2026-11-29",
-      "time": "19:00",
-      "venue": "Club Regent Event Centre",
-      "category": "music",
-      "url": "https://www.ticketmaster.ca/matt-dusk-a-very-sinatra-christmas-winnipeg-manitoba-11-29-2026/event/110064C399C85F8F",
-      "source": "Ticketmaster",
-      "price": "Check organizer for pricing"
-    },
-    {
       "id": "rZ7HnEZ1AfP94N",
       "title": "Jesse Roper - Presented by the Park Theatre",
       "date": "2026-11-29",
@@ -1494,6 +1483,17 @@
       "venue": "The Park Theatre",
       "category": "music",
       "url": "https://www.ticketweb.ca/event/jesse-roper-presented-the-park-theatre-tickets/14957563",
+      "source": "Ticketmaster",
+      "price": "Check organizer for pricing"
+    },
+    {
+      "id": "1778v0G6GC_wAX2",
+      "title": "Matt Dusk - A Very Sinatra Christmas",
+      "date": "2026-11-29",
+      "time": "19:00",
+      "venue": "Club Regent Event Centre",
+      "category": "music",
+      "url": "https://www.ticketmaster.ca/matt-dusk-a-very-sinatra-christmas-winnipeg-manitoba-11-29-2026/event/110064C399C85F8F",
       "source": "Ticketmaster",
       "price": "Check organizer for pricing"
     },
@@ -1586,17 +1586,6 @@
       "price": "Check organizer for pricing"
     },
     {
-      "id": "1778v0G6CXpBPwW",
-      "title": "Grandpa's Home Alone",
-      "date": "2026-12-05",
-      "time": "18:00",
-      "venue": "Destination Dinner Stage",
-      "category": "date",
-      "url": "https://www.ticketmaster.ca/grandpas-home-alone-winnipeg-manitoba-12-05-2026/event/110064EF96EA5CBD",
-      "source": "Ticketmaster",
-      "price": "Check organizer for pricing"
-    },
-    {
       "id": "1AoZk39GkesKD9M",
       "title": "Elmo's Got the Moves",
       "date": "2026-12-05",
@@ -1615,6 +1604,17 @@
       "venue": "Burton Cummings Theatre",
       "category": "date",
       "url": "https://www.ticketmaster.ca/elmos-got-the-moves-photo-experience-winnipeg-manitoba-12-05-2026/event/11006497B27AB80B",
+      "source": "Ticketmaster",
+      "price": "Check organizer for pricing"
+    },
+    {
+      "id": "1778v0G6CXpBPwW",
+      "title": "Grandpa's Home Alone",
+      "date": "2026-12-05",
+      "time": "18:00",
+      "venue": "Destination Dinner Stage",
+      "category": "date",
+      "url": "https://www.ticketmaster.ca/grandpas-home-alone-winnipeg-manitoba-12-05-2026/event/110064EF96EA5CBD",
       "source": "Ticketmaster",
       "price": "Check organizer for pricing"
     },
@@ -1674,17 +1674,6 @@
       "price": "Check organizer for pricing"
     },
     {
-      "id": "1Av7Z_8GktV_eSh",
-      "title": "George Canyon & Aaron Pritchett - An Acoustic Cowboy Christmas",
-      "date": "2026-12-08",
-      "time": "19:00",
-      "venue": "Club Regent Event Centre",
-      "category": "music",
-      "url": "https://www.ticketmaster.ca/george-canyon-aaron-pritchett-an-acoustic-winnipeg-manitoba-12-08-2026/event/1100650A74642CDB",
-      "source": "Ticketmaster",
-      "price": "Check organizer for pricing"
-    },
-    {
       "id": "1AoZkfAGkd8AQHI",
       "title": "Canadian Armed Forces Night | Winnipeg Jets vs. Philadelphia Flyers",
       "date": "2026-12-08",
@@ -1692,6 +1681,17 @@
       "venue": "Canada Life Centre",
       "category": "date",
       "url": "https://www.ticketmaster.ca/canadian-armed-forces-night-winnipeg-jets-winnipeg-manitoba-12-08-2026/event/11006505D015AF28",
+      "source": "Ticketmaster",
+      "price": "Check organizer for pricing"
+    },
+    {
+      "id": "1Av7Z_8GktV_eSh",
+      "title": "George Canyon & Aaron Pritchett - An Acoustic Cowboy Christmas",
+      "date": "2026-12-08",
+      "time": "19:00",
+      "venue": "Club Regent Event Centre",
+      "category": "music",
+      "url": "https://www.ticketmaster.ca/george-canyon-aaron-pritchett-an-acoustic-winnipeg-manitoba-12-08-2026/event/1100650A74642CDB",
       "source": "Ticketmaster",
       "price": "Check organizer for pricing"
     },
@@ -1795,17 +1795,6 @@
       "price": "Check organizer for pricing"
     },
     {
-      "id": "1AoZkf6GkegSBDO",
-      "title": "Team Poster Giveaway | Manitoba Moose vs. Iowa Wild ",
-      "date": "2026-12-13",
-      "time": "14:00",
-      "venue": "Canada Life Centre",
-      "category": "date",
-      "url": "https://www.ticketmaster.ca/team-poster-giveaway-manitoba-moose-vs-winnipeg-manitoba-12-13-2026/event/11006507B5CFAEE0",
-      "source": "Ticketmaster",
-      "price": "Check organizer for pricing"
-    },
-    {
       "id": "Z7r9jZ1A7JFC4",
       "title": "Manitoba Moose vs. Iowa Wild",
       "date": "2026-12-13",
@@ -1813,6 +1802,17 @@
       "venue": "Canada Life Centre",
       "category": "date",
       "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7JFC4",
+      "source": "Ticketmaster",
+      "price": "Check organizer for pricing"
+    },
+    {
+      "id": "1AoZkf6GkegSBDO",
+      "title": "Team Poster Giveaway | Manitoba Moose vs. Iowa Wild ",
+      "date": "2026-12-13",
+      "time": "14:00",
+      "venue": "Canada Life Centre",
+      "category": "date",
+      "url": "https://www.ticketmaster.ca/team-poster-giveaway-manitoba-moose-vs-winnipeg-manitoba-12-13-2026/event/11006507B5CFAEE0",
       "source": "Ticketmaster",
       "price": "Check organizer for pricing"
     },
@@ -1872,17 +1872,6 @@
       "price": "Check organizer for pricing"
     },
     {
-      "id": "1AoZkf6GkeMkDdV",
-      "title": "Project 11 School Day Game | Manitoba Moose vs. Rockford IceHogs ",
-      "date": "2026-12-16",
-      "time": "10:30",
-      "venue": "Canada Life Centre",
-      "category": "date",
-      "url": "https://www.ticketmaster.ca/project-11-school-day-game-manitoba-winnipeg-manitoba-12-16-2026/event/11006507B71BB0F4",
-      "source": "Ticketmaster",
-      "price": "Check organizer for pricing"
-    },
-    {
       "id": "Z7r9jZ1A7JFC9",
       "title": "Manitoba Moose vs. Rockford IceHogs",
       "date": "2026-12-16",
@@ -1890,6 +1879,17 @@
       "venue": "Canada Life Centre",
       "category": "date",
       "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7JFC9",
+      "source": "Ticketmaster",
+      "price": "Check organizer for pricing"
+    },
+    {
+      "id": "1AoZkf6GkeMkDdV",
+      "title": "Project 11 School Day Game | Manitoba Moose vs. Rockford IceHogs ",
+      "date": "2026-12-16",
+      "time": "10:30",
+      "venue": "Canada Life Centre",
+      "category": "date",
+      "url": "https://www.ticketmaster.ca/project-11-school-day-game-manitoba-winnipeg-manitoba-12-16-2026/event/11006507B71BB0F4",
       "source": "Ticketmaster",
       "price": "Check organizer for pricing"
     },
@@ -2103,17 +2103,6 @@
       "price": "Check organizer for pricing"
     },
     {
-      "id": "1AoZkf6GkeSZnn6",
-      "title": "New Year's Eve | Manitoba Moose vs. Abbotsford Canucks ",
-      "date": "2026-12-31",
-      "time": "16:00",
-      "venue": "Canada Life Centre",
-      "category": "date",
-      "url": "https://www.ticketmaster.ca/new-years-eve-manitoba-moose-vs-winnipeg-manitoba-12-31-2026/event/11006507B302AA87",
-      "source": "Ticketmaster",
-      "price": "Check organizer for pricing"
-    },
-    {
       "id": "Z7r9jZ1A7JFCA",
       "title": "Manitoba Moose vs. Abbotsford Canucks",
       "date": "2026-12-31",
@@ -2121,6 +2110,17 @@
       "venue": "Canada Life Centre",
       "category": "date",
       "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7JFCA",
+      "source": "Ticketmaster",
+      "price": "Check organizer for pricing"
+    },
+    {
+      "id": "1AoZkf6GkeSZnn6",
+      "title": "New Year's Eve | Manitoba Moose vs. Abbotsford Canucks ",
+      "date": "2026-12-31",
+      "time": "16:00",
+      "venue": "Canada Life Centre",
+      "category": "date",
+      "url": "https://www.ticketmaster.ca/new-years-eve-manitoba-moose-vs-winnipeg-manitoba-12-31-2026/event/11006507B302AA87",
       "source": "Ticketmaster",
       "price": "Check organizer for pricing"
     },
@@ -2213,17 +2213,6 @@
       "price": "Check organizer for pricing"
     },
     {
-      "id": "1AoZkf6GkegPBBd",
-      "title": "Star Wars Game | Manitoba Moose vs. Calgary Wranglers ",
-      "date": "2027-01-03",
-      "time": "14:00",
-      "venue": "Canada Life Centre",
-      "category": "date",
-      "url": "https://www.ticketmaster.ca/star-wars-game-manitoba-moose-vs-winnipeg-manitoba-01-03-2027/event/11006507B597AE83",
-      "source": "Ticketmaster",
-      "price": "Check organizer for pricing"
-    },
-    {
       "id": "Z7r9jZ1AAZfPf",
       "title": "Manitoba Moose vs. Calgary Wranglers",
       "date": "2027-01-03",
@@ -2231,6 +2220,17 @@
       "venue": "Canada Life Centre",
       "category": "date",
       "url": "https://www.ticketmaster.com/event/Z7r9jZ1AAZfPf",
+      "source": "Ticketmaster",
+      "price": "Check organizer for pricing"
+    },
+    {
+      "id": "1AoZkf6GkegPBBd",
+      "title": "Star Wars Game | Manitoba Moose vs. Calgary Wranglers ",
+      "date": "2027-01-03",
+      "time": "14:00",
+      "venue": "Canada Life Centre",
+      "category": "date",
+      "url": "https://www.ticketmaster.ca/star-wars-game-manitoba-moose-vs-winnipeg-manitoba-01-03-2027/event/11006507B597AE83",
       "source": "Ticketmaster",
       "price": "Check organizer for pricing"
     },
@@ -2246,17 +2246,6 @@
       "price": "Check organizer for pricing"
     },
     {
-      "id": "16v7Z_Kx_G7lI5J",
-      "title": "Limited Edition Rivals Replica Game Ball From Spalding®",
-      "date": "2027-01-05",
-      "time": "19:00",
-      "venue": "Canada Life Centre",
-      "category": "date",
-      "url": "https://www.ticketmaster.ca/limited-edition-rivals-replica-game-ball-winnipeg-manitoba-01-05-2027/event/1100653899AE82E6",
-      "source": "Ticketmaster",
-      "price": "Check organizer for pricing"
-    },
-    {
       "id": "16v7Z_okfG7yP0a",
       "title": "Harlem Globetrotters: Rivalry Tour Presented By Sprite",
       "date": "2027-01-05",
@@ -2264,6 +2253,17 @@
       "venue": "Canada Life Centre",
       "category": "family",
       "url": "https://www.ticketmaster.ca/harlem-globetrotters-rivalry-tour-presented-by-winnipeg-manitoba-01-05-2027/event/1100651194E65909",
+      "source": "Ticketmaster",
+      "price": "Check organizer for pricing"
+    },
+    {
+      "id": "16v7Z_Kx_G7lI5J",
+      "title": "Limited Edition Rivals Replica Game Ball From Spalding®",
+      "date": "2027-01-05",
+      "time": "19:00",
+      "venue": "Canada Life Centre",
+      "category": "date",
+      "url": "https://www.ticketmaster.ca/limited-edition-rivals-replica-game-ball-winnipeg-manitoba-01-05-2027/event/1100653899AE82E6",
       "source": "Ticketmaster",
       "price": "Check organizer for pricing"
     },
@@ -2345,17 +2345,6 @@
       "price": "Check organizer for pricing"
     },
     {
-      "id": "1AoZkf6GkegZ1UE",
-      "title": "MooseMania | Manitoba Moose vs. Texas Stars ",
-      "date": "2027-01-10",
-      "time": "14:00",
-      "venue": "Canada Life Centre",
-      "category": "date",
-      "url": "https://www.ticketmaster.ca/moosemania-manitoba-moose-vs-texas-stars-winnipeg-manitoba-01-10-2027/event/11006507B500ADA7",
-      "source": "Ticketmaster",
-      "price": "Check organizer for pricing"
-    },
-    {
       "id": "Z7r9jZ1A7JFC7",
       "title": "Manitoba Moose vs. Texas Stars",
       "date": "2027-01-10",
@@ -2363,6 +2352,17 @@
       "venue": "Canada Life Centre",
       "category": "date",
       "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7JFC7",
+      "source": "Ticketmaster",
+      "price": "Check organizer for pricing"
+    },
+    {
+      "id": "1AoZkf6GkegZ1UE",
+      "title": "MooseMania | Manitoba Moose vs. Texas Stars ",
+      "date": "2027-01-10",
+      "time": "14:00",
+      "venue": "Canada Life Centre",
+      "category": "date",
+      "url": "https://www.ticketmaster.ca/moosemania-manitoba-moose-vs-texas-stars-winnipeg-manitoba-01-10-2027/event/11006507B500ADA7",
       "source": "Ticketmaster",
       "price": "Check organizer for pricing"
     },
@@ -2400,17 +2400,6 @@
       "price": "Check organizer for pricing"
     },
     {
-      "id": "1Av7Z_KGkU16VM9",
-      "title": "The Incredibly Hip & The Stoneheads",
-      "date": "2027-01-16",
-      "time": "19:00",
-      "venue": "Club Regent Event Centre",
-      "category": "music",
-      "url": "https://www.ticketmaster.ca/the-incredibly-hip-the-stoneheads-winnipeg-manitoba-01-16-2027/event/1100653D8A1F4DD7",
-      "source": "Ticketmaster",
-      "price": "Check organizer for pricing"
-    },
-    {
       "id": "1AoZkfAGkd1wQxf",
       "title": "Hockey Talks | Winnipeg Jets vs. Anaheim Ducks",
       "date": "2027-01-16",
@@ -2418,6 +2407,17 @@
       "venue": "Canada Life Centre",
       "category": "date",
       "url": "https://www.ticketmaster.ca/hockey-talks-winnipeg-jets-vs-anaheim-winnipeg-manitoba-01-16-2027/event/11006505CAC9A894",
+      "source": "Ticketmaster",
+      "price": "Check organizer for pricing"
+    },
+    {
+      "id": "1Av7Z_KGkU16VM9",
+      "title": "The Incredibly Hip & The Stoneheads",
+      "date": "2027-01-16",
+      "time": "19:00",
+      "venue": "Club Regent Event Centre",
+      "category": "music",
+      "url": "https://www.ticketmaster.ca/the-incredibly-hip-the-stoneheads-winnipeg-manitoba-01-16-2027/event/1100653D8A1F4DD7",
       "source": "Ticketmaster",
       "price": "Check organizer for pricing"
     },
@@ -2499,17 +2499,6 @@
       "price": "Check organizer for pricing"
     },
     {
-      "id": "1AoZkf6GkegE1B2",
-      "title": "Minor Hockey Weekend | Manitoba Moose vs. Milwaukee Admirals ",
-      "date": "2027-01-29",
-      "time": "19:00",
-      "venue": "Canada Life Centre",
-      "category": "date",
-      "url": "https://www.ticketmaster.ca/minor-hockey-weekend-manitoba-moose-vs-winnipeg-manitoba-01-29-2027/event/11006507B59CAE8F",
-      "source": "Ticketmaster",
-      "price": "Check organizer for pricing"
-    },
-    {
       "id": "Z7r9jZ1A7JFCo",
       "title": "Manitoba Moose vs. Milwaukee Admirals",
       "date": "2027-01-29",
@@ -2517,6 +2506,17 @@
       "venue": "Canada Life Centre",
       "category": "date",
       "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7JFCo",
+      "source": "Ticketmaster",
+      "price": "Check organizer for pricing"
+    },
+    {
+      "id": "1AoZkf6GkegE1B2",
+      "title": "Minor Hockey Weekend | Manitoba Moose vs. Milwaukee Admirals ",
+      "date": "2027-01-29",
+      "time": "19:00",
+      "venue": "Canada Life Centre",
+      "category": "date",
+      "url": "https://www.ticketmaster.ca/minor-hockey-weekend-manitoba-moose-vs-winnipeg-manitoba-01-29-2027/event/11006507B59CAE8F",
       "source": "Ticketmaster",
       "price": "Check organizer for pricing"
     },
@@ -2543,17 +2543,6 @@
       "price": "Check organizer for pricing"
     },
     {
-      "id": "1AoZkf6GkegvnUw",
-      "title": "Minor Hockey Weekend | Manitoba Moose vs. Milwaukee Admirals ",
-      "date": "2027-01-31",
-      "time": "14:00",
-      "venue": "Canada Life Centre",
-      "category": "date",
-      "url": "https://www.ticketmaster.ca/minor-hockey-weekend-manitoba-moose-vs-winnipeg-manitoba-01-31-2027/event/11006507B506ADB2",
-      "source": "Ticketmaster",
-      "price": "Check organizer for pricing"
-    },
-    {
       "id": "Z7r9jZ1A7JFCa",
       "title": "Manitoba Moose vs. Milwaukee Admirals",
       "date": "2027-01-31",
@@ -2561,6 +2550,17 @@
       "venue": "Canada Life Centre",
       "category": "date",
       "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7JFCa",
+      "source": "Ticketmaster",
+      "price": "Check organizer for pricing"
+    },
+    {
+      "id": "1AoZkf6GkegvnUw",
+      "title": "Minor Hockey Weekend | Manitoba Moose vs. Milwaukee Admirals ",
+      "date": "2027-01-31",
+      "time": "14:00",
+      "venue": "Canada Life Centre",
+      "category": "date",
+      "url": "https://www.ticketmaster.ca/minor-hockey-weekend-manitoba-moose-vs-winnipeg-manitoba-01-31-2027/event/11006507B506ADB2",
       "source": "Ticketmaster",
       "price": "Check organizer for pricing"
     },
@@ -2631,17 +2631,6 @@
       "price": "Check organizer for pricing"
     },
     {
-      "id": "1AoZkf6GkegeBUH",
-      "title": "Moosequerade Ball | Manitoba Moose vs. Laval Rocket",
-      "date": "2027-02-13",
-      "time": "14:00",
-      "venue": "Canada Life Centre",
-      "category": "date",
-      "url": "https://www.ticketmaster.ca/moosequerade-ball-manitoba-moose-vs-laval-winnipeg-manitoba-02-13-2027/event/11006507B50BADBC",
-      "source": "Ticketmaster",
-      "price": "Check organizer for pricing"
-    },
-    {
       "id": "Z7r9jZ1AAZfP4",
       "title": "Manitoba Moose vs. Laval Rocket",
       "date": "2027-02-13",
@@ -2649,6 +2638,17 @@
       "venue": "Canada Life Centre",
       "category": "date",
       "url": "https://www.ticketmaster.com/event/Z7r9jZ1AAZfP4",
+      "source": "Ticketmaster",
+      "price": "Check organizer for pricing"
+    },
+    {
+      "id": "1AoZkf6GkegeBUH",
+      "title": "Moosequerade Ball | Manitoba Moose vs. Laval Rocket",
+      "date": "2027-02-13",
+      "time": "14:00",
+      "venue": "Canada Life Centre",
+      "category": "date",
+      "url": "https://www.ticketmaster.ca/moosequerade-ball-manitoba-moose-vs-laval-winnipeg-manitoba-02-13-2027/event/11006507B50BADBC",
       "source": "Ticketmaster",
       "price": "Check organizer for pricing"
     },
@@ -2664,17 +2664,6 @@
       "price": "Check organizer for pricing"
     },
     {
-      "id": "1AoZkf6GkeScnmK",
-      "title": "Super Hero Day | Manitoba Moose vs. Laval Rocket ",
-      "date": "2027-02-15",
-      "time": "14:00",
-      "venue": "Canada Life Centre",
-      "category": "date",
-      "url": "https://www.ticketmaster.ca/super-hero-day-manitoba-moose-vs-winnipeg-manitoba-02-15-2027/event/11006507B3B6AB93",
-      "source": "Ticketmaster",
-      "price": "Check organizer for pricing"
-    },
-    {
       "id": "Z7r9jZ1A7JFC8",
       "title": "Manitoba Moose vs. Laval Rocket",
       "date": "2027-02-15",
@@ -2682,6 +2671,17 @@
       "venue": "Canada Life Centre",
       "category": "date",
       "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7JFC8",
+      "source": "Ticketmaster",
+      "price": "Check organizer for pricing"
+    },
+    {
+      "id": "1AoZkf6GkeScnmK",
+      "title": "Super Hero Day | Manitoba Moose vs. Laval Rocket ",
+      "date": "2027-02-15",
+      "time": "14:00",
+      "venue": "Canada Life Centre",
+      "category": "date",
+      "url": "https://www.ticketmaster.ca/super-hero-day-manitoba-moose-vs-winnipeg-manitoba-02-15-2027/event/11006507B3B6AB93",
       "source": "Ticketmaster",
       "price": "Check organizer for pricing"
     },
@@ -2719,17 +2719,6 @@
       "price": "Check organizer for pricing"
     },
     {
-      "id": "1AoZkf6GkeMGh7c",
-      "title": "Manitoba Moose vs. Milwaukee Admirals",
-      "date": "2027-02-18",
-      "time": "19:00",
-      "venue": "Canada Life Centre",
-      "category": "date",
-      "url": "https://www.ticketmaster.ca/manitoba-moose-vs-milwaukee-admirals-winnipeg-manitoba-02-18-2027/event/11006507B731B12D",
-      "source": "Ticketmaster",
-      "price": "Check organizer for pricing"
-    },
-    {
       "id": "1AoZkfUGkeW6n6r",
       "title": "Dropkick Murphys",
       "date": "2027-02-18",
@@ -2737,17 +2726,6 @@
       "venue": "Burton Cummings Theatre",
       "category": "music",
       "url": "https://www.ticketmaster.ca/dropkick-murphys-winnipeg-manitoba-02-18-2027/event/11006536BD1EA1DE",
-      "source": "Ticketmaster",
-      "price": "Check organizer for pricing"
-    },
-    {
-      "id": "Z7r9jZ1AAZfPp",
-      "title": "Manitoba Moose vs. Milwaukee Admirals",
-      "date": "2027-02-18",
-      "time": "19:00",
-      "venue": "Canada Life Centre",
-      "category": "date",
-      "url": "https://www.ticketmaster.com/event/Z7r9jZ1AAZfPp",
       "source": "Ticketmaster",
       "price": "Check organizer for pricing"
     },
@@ -2763,13 +2741,24 @@
       "price": "Check organizer for pricing"
     },
     {
-      "id": "1AoZkfAGkd1Snxr",
-      "title": "Winnipeg Jets vs. St. Louis Blues",
-      "date": "2027-02-19",
+      "id": "1AoZkf6GkeMGh7c",
+      "title": "Manitoba Moose vs. Milwaukee Admirals",
+      "date": "2027-02-18",
       "time": "19:00",
       "venue": "Canada Life Centre",
       "category": "date",
-      "url": "https://www.ticketmaster.ca/winnipeg-jets-vs-st-louis-blues-winnipeg-manitoba-02-19-2027/event/11006505CACEA89E",
+      "url": "https://www.ticketmaster.ca/manitoba-moose-vs-milwaukee-admirals-winnipeg-manitoba-02-18-2027/event/11006507B731B12D",
+      "source": "Ticketmaster",
+      "price": "Check organizer for pricing"
+    },
+    {
+      "id": "Z7r9jZ1AAZfPp",
+      "title": "Manitoba Moose vs. Milwaukee Admirals",
+      "date": "2027-02-18",
+      "time": "19:00",
+      "venue": "Canada Life Centre",
+      "category": "date",
+      "url": "https://www.ticketmaster.com/event/Z7r9jZ1AAZfPp",
       "source": "Ticketmaster",
       "price": "Check organizer for pricing"
     },
@@ -2781,6 +2770,17 @@
       "venue": "Burton Cummings Theatre",
       "category": "music",
       "url": "https://www.ticketmaster.ca/dropkick-murphys-winnipeg-manitoba-02-19-2027/event/11006536BD21A1E2",
+      "source": "Ticketmaster",
+      "price": "Check organizer for pricing"
+    },
+    {
+      "id": "1AoZkfAGkd1Snxr",
+      "title": "Winnipeg Jets vs. St. Louis Blues",
+      "date": "2027-02-19",
+      "time": "19:00",
+      "venue": "Canada Life Centre",
+      "category": "date",
+      "url": "https://www.ticketmaster.ca/winnipeg-jets-vs-st-louis-blues-winnipeg-manitoba-02-19-2027/event/11006505CACEA89E",
       "source": "Ticketmaster",
       "price": "Check organizer for pricing"
     },
@@ -2906,17 +2906,6 @@
       "price": "Check organizer for pricing"
     },
     {
-      "id": "1AoZkf6GkeMuDAd",
-      "title": "Project 11 School Day Game | Manitoba Moose vs. Chicago Wolves ",
-      "date": "2027-03-04",
-      "time": "10:30",
-      "venue": "Canada Life Centre",
-      "category": "date",
-      "url": "https://www.ticketmaster.ca/project-11-school-day-game-manitoba-winnipeg-manitoba-03-04-2027/event/11006507B737B143",
-      "source": "Ticketmaster",
-      "price": "Check organizer for pricing"
-    },
-    {
       "id": "Z7r9jZ1AAZfP9",
       "title": "Manitoba Moose vs. Chicago Wolves",
       "date": "2027-03-04",
@@ -2924,6 +2913,17 @@
       "venue": "Canada Life Centre",
       "category": "date",
       "url": "https://www.ticketmaster.com/event/Z7r9jZ1AAZfP9",
+      "source": "Ticketmaster",
+      "price": "Check organizer for pricing"
+    },
+    {
+      "id": "1AoZkf6GkeMuDAd",
+      "title": "Project 11 School Day Game | Manitoba Moose vs. Chicago Wolves ",
+      "date": "2027-03-04",
+      "time": "10:30",
+      "venue": "Canada Life Centre",
+      "category": "date",
+      "url": "https://www.ticketmaster.ca/project-11-school-day-game-manitoba-winnipeg-manitoba-03-04-2027/event/11006507B737B143",
       "source": "Ticketmaster",
       "price": "Check organizer for pricing"
     },
@@ -2950,17 +2950,6 @@
       "price": "Check organizer for pricing"
     },
     {
-      "id": "1AoZkf6GkegAnMu",
-      "title": "Yager Bobblehead Game | Manitoba Moose vs. Chicago Wolves ",
-      "date": "2027-03-06",
-      "time": "14:00",
-      "venue": "Canada Life Centre",
-      "category": "date",
-      "url": "https://www.ticketmaster.ca/yager-bobblehead-game-manitoba-moose-vs-winnipeg-manitoba-03-06-2027/event/11006507B516ADCD",
-      "source": "Ticketmaster",
-      "price": "Check organizer for pricing"
-    },
-    {
       "id": "Z7r9jZ1A7JFC3",
       "title": "Manitoba Moose vs. Chicago Wolves",
       "date": "2027-03-06",
@@ -2968,6 +2957,17 @@
       "venue": "Canada Life Centre",
       "category": "date",
       "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7JFC3",
+      "source": "Ticketmaster",
+      "price": "Check organizer for pricing"
+    },
+    {
+      "id": "1AoZkf6GkegAnMu",
+      "title": "Yager Bobblehead Game | Manitoba Moose vs. Chicago Wolves ",
+      "date": "2027-03-06",
+      "time": "14:00",
+      "venue": "Canada Life Centre",
+      "category": "date",
+      "url": "https://www.ticketmaster.ca/yager-bobblehead-game-manitoba-moose-vs-winnipeg-manitoba-03-06-2027/event/11006507B516ADCD",
       "source": "Ticketmaster",
       "price": "Check organizer for pricing"
     },
@@ -3093,17 +3093,6 @@
       "price": "Check organizer for pricing"
     },
     {
-      "id": "1AoZkf6GkeM8lA-",
-      "title": "St. Patrick's Day | Manitoba Moose vs. Bakersfield Condors ",
-      "date": "2027-03-17",
-      "time": "19:00",
-      "venue": "Canada Life Centre",
-      "category": "date",
-      "url": "https://www.ticketmaster.ca/st-patricks-day-manitoba-moose-vs-winnipeg-manitoba-03-17-2027/event/11006507B742B161",
-      "source": "Ticketmaster",
-      "price": "Check organizer for pricing"
-    },
-    {
       "id": "Z7r9jZ1AAZfPb",
       "title": "Manitoba Moose vs. Bakersfield Condors",
       "date": "2027-03-17",
@@ -3111,6 +3100,17 @@
       "venue": "Canada Life Centre",
       "category": "date",
       "url": "https://www.ticketmaster.com/event/Z7r9jZ1AAZfPb",
+      "source": "Ticketmaster",
+      "price": "Check organizer for pricing"
+    },
+    {
+      "id": "1AoZkf6GkeM8lA-",
+      "title": "St. Patrick's Day | Manitoba Moose vs. Bakersfield Condors ",
+      "date": "2027-03-17",
+      "time": "19:00",
+      "venue": "Canada Life Centre",
+      "category": "date",
+      "url": "https://www.ticketmaster.ca/st-patricks-day-manitoba-moose-vs-winnipeg-manitoba-03-17-2027/event/11006507B742B161",
       "source": "Ticketmaster",
       "price": "Check organizer for pricing"
     },
@@ -3170,17 +3170,6 @@
       "price": "Check organizer for pricing"
     },
     {
-      "id": "1Av7Z_oGkXUtIBu",
-      "title": "Theory of a Deadman: The Northern Chaos Tour",
-      "date": "2027-03-20",
-      "time": "20:00",
-      "venue": "Burton Cummings Theatre",
-      "category": "music",
-      "url": "https://www.ticketmaster.ca/theory-of-a-deadman-the-northern-winnipeg-manitoba-03-20-2027/event/1100651FB6A68E8D",
-      "source": "Ticketmaster",
-      "price": "Check organizer for pricing"
-    },
-    {
       "id": "rZ7HnEZ1Af0deK",
       "title": "Death From Above 1979 - Private Lives Tour",
       "date": "2027-03-20",
@@ -3188,6 +3177,17 @@
       "venue": "The Park Theatre",
       "category": "music",
       "url": "https://www.ticketweb.ca/event/death-from-above-1979-the-park-theatre-tickets/14903093",
+      "source": "Ticketmaster",
+      "price": "Check organizer for pricing"
+    },
+    {
+      "id": "1Av7Z_oGkXUtIBu",
+      "title": "Theory of a Deadman: The Northern Chaos Tour",
+      "date": "2027-03-20",
+      "time": "20:00",
+      "venue": "Burton Cummings Theatre",
+      "category": "music",
+      "url": "https://www.ticketmaster.ca/theory-of-a-deadman-the-northern-winnipeg-manitoba-03-20-2027/event/1100651FB6A68E8D",
       "source": "Ticketmaster",
       "price": "Check organizer for pricing"
     },
@@ -3236,17 +3236,6 @@
       "price": "Check organizer for pricing"
     },
     {
-      "id": "1AoZkfAGkdaYnj4",
-      "title": "Winnipeg Jets vs. Colorado Avalanche",
-      "date": "2027-03-25",
-      "time": "19:00",
-      "venue": "Canada Life Centre",
-      "category": "date",
-      "url": "https://www.ticketmaster.ca/winnipeg-jets-vs-colorado-avalanche-winnipeg-manitoba-03-25-2027/event/11006505C9C2A715",
-      "source": "Ticketmaster",
-      "price": "Check organizer for pricing"
-    },
-    {
       "id": "rZ7HnEZ1AfuAaV",
       "title": "Trivia Night Fundraiser: Manitoba Eco-Network",
       "date": "2027-03-25",
@@ -3254,6 +3243,17 @@
       "venue": "Sidestage",
       "category": "music",
       "url": "https://www.ticketweb.ca/event/trivia-night-fundraiser-manitoba-eco-sidestage-tickets/14345274",
+      "source": "Ticketmaster",
+      "price": "Check organizer for pricing"
+    },
+    {
+      "id": "1AoZkfAGkdaYnj4",
+      "title": "Winnipeg Jets vs. Colorado Avalanche",
+      "date": "2027-03-25",
+      "time": "19:00",
+      "venue": "Canada Life Centre",
+      "category": "date",
+      "url": "https://www.ticketmaster.ca/winnipeg-jets-vs-colorado-avalanche-winnipeg-manitoba-03-25-2027/event/11006505C9C2A715",
       "source": "Ticketmaster",
       "price": "Check organizer for pricing"
     },

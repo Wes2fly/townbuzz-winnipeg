@@ -1,22 +1,148 @@
-# TownBuzz Winnipeg — Winnipeg Public Library candidate importer
+import json
+import os
+import pathlib
+import hashlib
+import sys
+from datetime import datetime, date, time, timedelta, timezone
+from urllib.parse import urlparse
 
-## What it does
-Fetches an approved Winnipeg Public Library iCal feed daily into `data/library_candidates.json` for **human review only**. It **never** edits `data/events.json`, `data/community_events.json`, `index.html`, `update_events.py`, or the existing Ticketmaster workflow. No new events appear publicly until reviewed and manually added to `data/community_events.json`.
+import requests
+from icalendar import Calendar
 
-## Before activating
-1. Request/confirm permission from Winnipeg Public Library / the calendar owner for reusing event metadata on a commercial/sponsored directory. An iCal subscription link being public does **not** establish republication rights. Until permission is confirmed, leave the feed secret unset and use the library calendar as an outbound link instead.
-2. Visit https://wpl.libcal.com/calendar/main/ and use the **iCal** subscription feature. Copy the *actual* HTTPS iCal URL, not the calendar webpage URL. The script accepts only `wpl.libcal.com` or `api3.libcal.com` hosts.
-3. In GitHub repo Settings > Secrets and variables > Actions, create `WPL_ICAL_URL` with that URL. Do not paste it into public files. Some calendar URLs may contain access tokens.
+ROOT = pathlib.Path(__file__).resolve().parent.parent
+DEST = ROOT / "data" / "library_candidates.json"
+FEED_URL = os.environ.get("WPL_ICAL_URL", "").strip()
 
-## Install on iPhone
-1. Unzip this archive in Files.
-2. In your GitHub repository, use Add file > Upload files (or create files individually) and put these exact paths in place: `scripts/fetch_library_candidates.py`, `.github/workflows/library-candidates.yml`, `data/library_candidates.json`.
-3. Commit the changes to `main`.
-4. After permissions and URL setup, open Actions > Discover Library Event Candidates > Run workflow.
-5. Inspect `data/library_candidates.json` and workflow logs. If candidates are found, check event page, date, branch, free status, registration requirements and permission. Copy reviewed items into `data/community_events.json`, setting `verified: true`, then run existing Update TownBuzz Events workflow.
+ALLOWED_HOSTS = {"wpl.libcal.com", "api3.libcal.com"}
 
-## Limitations
-- Some feeds expose only a limited time window; recurrence exceptions, cancellations and registration availability need checking.
-- This is a review queue, **not** an auto-publisher. The existing public feed remains unchanged.
-- GitHub scheduled runs can be delayed and sometimes disabled for inactive repositories.
-- A public feed may be suitable for calendar subscription but not commercial republication; obtain approval before using it to populate a commercial site.
+
+def valid_url(url):
+    try:
+        parsed = urlparse(url)
+        return (
+            parsed.scheme == "https"
+            and parsed.hostname in ALLOWED_HOSTS
+            and parsed.username is None
+            and parsed.password is None
+        )
+    except ValueError:
+        return False
+
+
+def event_datetime(value):
+    if isinstance(value, datetime):
+        return value
+    if isinstance(value, date):
+        return datetime.combine(value, time.min)
+    return None
+
+
+def text_value(event, key, default=""):
+    value = event.get(key)
+    return str(value).strip() if value is not None else default
+
+
+def main():
+    if not FEED_URL:
+        print("WPL_ICAL_URL is not configured.")
+        print("No library events were collected.")
+        print("Existing event files remain unchanged.")
+        return
+
+    if not valid_url(FEED_URL):
+        sys.exit("Invalid library calendar feed URL.")
+
+    response = requests.get(
+        FEED_URL,
+        timeout=25,
+        headers={"User-Agent": "TownBuzzWinnipeg/1.0"}
+    )
+    response.raise_for_status()
+
+    if not response.text.lstrip().startswith("BEGIN:VCALENDAR"):
+        sys.exit("The supplied URL did not return an iCal calendar.")
+
+    calendar = Calendar.from_ical(response.content)
+    now = datetime.now(timezone.utc)
+    cutoff = now + timedelta(days=90)
+    candidates = []
+    seen = set()
+
+    for event in calendar.walk("VEVENT"):
+        start_field = event.get("DTSTART")
+        if not start_field:
+            continue
+
+        start = event_datetime(start_field.dt)
+        if start is None:
+            continue
+
+        if start.tzinfo is None:
+            from zoneinfo import ZoneInfo
+            start = start.replace(tzinfo=ZoneInfo("America/Winnipeg"))
+
+        start_utc = start.astimezone(timezone.utc)
+
+        if not (now <= start_utc <= cutoff):
+            continue
+
+        status = text_value(event, "STATUS").upper()
+        if status == "CANCELLED":
+            continue
+
+        title = text_value(event, "SUMMARY")
+        if not title:
+            continue
+
+        uid = text_value(event, "UID", title)
+        key = uid + "|" + start_utc.isoformat()
+        event_id = hashlib.sha256(key.encode()).hexdigest()[:20]
+
+        if event_id in seen:
+            continue
+        seen.add(event_id)
+
+        event_url = text_value(event, "URL")
+        if event_url and not event_url.startswith("https://"):
+            event_url = ""
+
+        local_start = start_utc.astimezone(
+            __import__("zoneinfo").ZoneInfo("America/Winnipeg")
+        )
+
+        candidates.append({
+            "id": "wpl-" + event_id,
+            "title": title[:160],
+            "date": local_start.date().isoformat(),
+            "time": local_start.strftime("%H:%M"),
+            "venue": text_value(event, "LOCATION")[:140],
+            "description": text_value(event, "DESCRIPTION")[:500],
+            "url": event_url,
+            "source": "Winnipeg Public Library",
+            "status": "needs_review",
+            "verified": False,
+            "free_admission": None,
+            "registration_required": None
+        })
+
+    candidates.sort(key=lambda e: (e["date"], e["time"]))
+
+    DEST.parent.mkdir(parents=True, exist_ok=True)
+    output = {
+        "updated_at": now.isoformat(),
+        "source": "Winnipeg Public Library iCal",
+        "publication_status": "review_only",
+        "events": candidates
+    }
+
+    DEST.write_text(
+        json.dumps(output, ensure_ascii=False, indent=2) + "\n",
+        encoding="utf-8"
+    )
+
+    print(f"Saved {len(candidates)} library candidates.")
+    print("No live TownBuzz event listings were modified.")
+
+
+if __name__ == "__main__":
+    main()

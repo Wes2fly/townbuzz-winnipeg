@@ -1,3 +1,40 @@
 {
-  "events": []
+  "events": [
+    {
+      "id": "wag-free-wednesday-2026-10-28",
+      "title": "Free Wednesday Evening at WAG-Qaumajuq",
+      "date": "2026-10-28",
+      "time": "17:00",
+      "venue": "WAG-Qaumajuq, 300 Memorial Boulevard",
+      "category": "free",
+      "url": "https://www.wag.ca/visit/hours-admission/",
+      "source": "WAG-Qaumajuq",
+      "verified": true,
+      "free_admission": true
+    },
+    {
+      "id": "manitoba-museum-first-friday-2026-11-06",
+      "title": "First Fridays at the Manitoba Museum",
+      "date": "2026-11-06",
+      "time": "16:00",
+      "venue": "Manitoba Museum, 190 Rupert Avenue",
+      "category": "free",
+      "url": "https://manitobamuseum.ca/series/first-fridays-the-manitoba-museum/",
+      "source": "Manitoba Museum",
+      "verified": true,
+      "free_admission": true
+    },
+    {
+      "id": "wag-free-sunday-2026-11-15",
+      "title": "Canada Life Free Sunday at WAG-Qaumajuq",
+      "date": "2026-11-15",
+      "time": "",
+      "venue": "WAG-Qaumajuq, 300 Memorial Boulevard",
+      "category": "free",
+      "url": "https://www.wag.ca/events/signature-events/canada-life-free-sundays/",
+      "source": "WAG-Qaumajuq",
+      "verified": true,
+      "free_admission": true
+    }
+  ]
 }

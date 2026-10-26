@@ -28,11 +28,16 @@ jobs:
           WPL_ICAL_URL: ${{ secrets.WPL_ICAL_URL }}
         run: python scripts/fetch_library_candidates.py
 
-      - name: Save reviewed candidate queue
+      - name: Save candidate queue if present
         run: |
+          if [ ! -f data/library_candidates.json ]; then
+            echo "No candidate file generated; nothing to save."
+            exit 0
+          fi
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add data/library_candidates.json
           if ! git diff --cached --quiet; then
             git commit -m "Update library event candidates"
             git push
+          fi

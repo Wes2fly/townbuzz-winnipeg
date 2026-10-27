@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-27T12:36:24.825952+00:00",
+  "updated_at": "2026-10-27T18:37:08.809381+00:00",
   "events": [
     {
       "id": "tm:1AoZkfAGkd8inTi",
@@ -2972,6 +2972,17 @@
       "price": "Check organizer for pricing"
     },
     {
+      "id": "tm:rZ7HnEZ1Af8def",
+      "title": "Beast in Black North American tour 2027",
+      "date": "2027-03-05",
+      "time": "19:00",
+      "venue": "The Park Theatre",
+      "category": "music",
+      "url": "https://www.ticketweb.ca/event/beast-in-black-north-american-the-park-theatre-tickets/14403094",
+      "source": "Ticketmaster",
+      "price": "Check organizer for pricing"
+    },
+    {
       "id": "tm:1AoZkf6GkegAnMu",
       "title": "Yager Bobblehead Game | Manitoba Moose vs. Chicago Wolves ",
       "date": "2027-03-06",
@@ -3309,17 +3320,6 @@
       "venue": "Burton Cummings Theatre",
       "category": "date",
       "url": "https://www.ticketmaster.ca/cirque-alice-winnipeg-manitoba-04-03-2027/event/1100652AB8A38BB8",
-      "source": "Ticketmaster",
-      "price": "Check organizer for pricing"
-    },
-    {
-      "id": "tm:1Av7Z_3GknztImW",
-      "title": "Cirque Alice",
-      "date": "2027-04-04",
-      "time": "14:00",
-      "venue": "Burton Cummings Theatre",
-      "category": "date",
-      "url": "https://www.ticketmaster.ca/cirque-alice-winnipeg-manitoba-04-04-2027/event/1100652AB8A68BBD",
       "source": "Ticketmaster",
       "price": "Check organizer for pricing"
     }

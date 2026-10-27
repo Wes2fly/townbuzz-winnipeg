@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-27T00:31:07.150970+00:00",
+  "updated_at": "2026-10-27T06:34:48.268401+00:00",
   "events": [
     {
       "id": "tm:1AoZkfAGkd8inTi",
@@ -3298,6 +3298,28 @@
       "venue": "Burton Cummings Theatre",
       "category": "music",
       "url": "https://www.ticketmaster.ca/ruby-waters-presented-by-winnipeg-folk-winnipeg-manitoba-04-01-2027/event/1100654D87526DC7",
+      "source": "Ticketmaster",
+      "price": "Check organizer for pricing"
+    },
+    {
+      "id": "tm:1Av7Z_3GknzIzmz",
+      "title": "Cirque Alice",
+      "date": "2027-04-03",
+      "time": "20:00",
+      "venue": "Burton Cummings Theatre",
+      "category": "date",
+      "url": "https://www.ticketmaster.ca/cirque-alice-winnipeg-manitoba-04-03-2027/event/1100652AB8A38BB8",
+      "source": "Ticketmaster",
+      "price": "Check organizer for pricing"
+    },
+    {
+      "id": "tm:1Av7Z_3GknztImW",
+      "title": "Cirque Alice",
+      "date": "2027-04-04",
+      "time": "14:00",
+      "venue": "Burton Cummings Theatre",
+      "category": "date",
+      "url": "https://www.ticketmaster.ca/cirque-alice-winnipeg-manitoba-04-04-2027/event/1100652AB8A68BBD",
       "source": "Ticketmaster",
       "price": "Check organizer for pricing"
     }

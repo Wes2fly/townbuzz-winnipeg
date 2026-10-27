@@ -1,39 +1,6 @@
 {
-  "updated_at": "2026-10-26T19:39:09.094100+00:00",
+  "updated_at": "2026-10-27T00:31:07.150970+00:00",
   "events": [
-    {
-      "id": "tm:rZ7HnEZ1A4ZSad",
-      "title": "Sookram's Feature Night - Rocky Horror Picture Show",
-      "date": "2026-10-26",
-      "time": "18:30",
-      "venue": "The Park Theatre",
-      "category": "date",
-      "url": "https://www.ticketweb.ca/event/sookrams-feature-night-the-park-theatre-tickets/15033243",
-      "source": "Ticketmaster",
-      "price": "Check organizer for pricing"
-    },
-    {
-      "id": "tm:rZ7HnEZ1Af1KZf",
-      "title": "Mean Bikini | Die Job | Toaster Bath | Ticked Off!",
-      "date": "2026-10-26",
-      "time": "20:00",
-      "venue": "Sidestage",
-      "category": "music",
-      "url": "https://www.ticketweb.ca/event/mean-bikini-die-job-sidestage-tickets/14293014",
-      "source": "Ticketmaster",
-      "price": "Check organizer for pricing"
-    },
-    {
-      "id": "tm:rZ7HnEZ1Af18j0",
-      "title": "Sookram's Feature Night - Rocky Horror Picture Show",
-      "date": "2026-10-26",
-      "time": "21:00",
-      "venue": "The Park Theatre",
-      "category": "date",
-      "url": "https://www.ticketweb.ca/event/sookrams-feature-night-the-park-theatre-tickets/14290724",
-      "source": "Ticketmaster",
-      "price": "Check organizer for pricing"
-    },
     {
       "id": "tm:1AoZkfAGkd8inTi",
       "title": "Halloween Game | Winnipeg Jets vs. Florida Panthers",
@@ -1883,6 +1850,17 @@
       "price": "Check organizer for pricing"
     },
     {
+      "id": "tm:rZ7HnEZ1Af8dA0",
+      "title": "The Griswold Christmas Party - National Lampoon’s Christmas Vacation",
+      "date": "2026-12-14",
+      "time": "18:15",
+      "venue": "The Park Theatre",
+      "category": "date",
+      "url": "https://www.ticketweb.ca/event/the-griswold-christmas-party-the-park-theatre-tickets/14403164",
+      "source": "Ticketmaster",
+      "price": "Check organizer for pricing"
+    },
+    {
       "id": "tm:rZ7HnEZ1A4vfAS",
       "title": "The Holiday — Christmas Date Night 20th Anniversary Screening",
       "date": "2026-12-15",
@@ -2374,6 +2352,17 @@
       "venue": "Canada Life Centre",
       "category": "date",
       "url": "https://www.ticketmaster.ca/ukrainian-heritage-night-winnipeg-jets-vs-winnipeg-manitoba-01-09-2027/event/11006505CA47A7DC",
+      "source": "Ticketmaster",
+      "price": "Check organizer for pricing"
+    },
+    {
+      "id": "tm:rZ7HnEZ1Af8dv0",
+      "title": "12 Months of Mayhem",
+      "date": "2027-01-09",
+      "time": "19:00",
+      "venue": "The Park Theatre",
+      "category": "date",
+      "url": "https://www.ticketweb.ca/event/12-months-of-mayhem-the-park-theatre-tickets/14403064",
       "source": "Ticketmaster",
       "price": "Check organizer for pricing"
     },
@@ -3309,17 +3298,6 @@
       "venue": "Burton Cummings Theatre",
       "category": "music",
       "url": "https://www.ticketmaster.ca/ruby-waters-presented-by-winnipeg-folk-winnipeg-manitoba-04-01-2027/event/1100654D87526DC7",
-      "source": "Ticketmaster",
-      "price": "Check organizer for pricing"
-    },
-    {
-      "id": "tm:1Av7Z_3GknzIzmz",
-      "title": "Cirque Alice",
-      "date": "2027-04-03",
-      "time": "20:00",
-      "venue": "Burton Cummings Theatre",
-      "category": "date",
-      "url": "https://www.ticketmaster.ca/cirque-alice-winnipeg-manitoba-04-03-2027/event/1100652AB8A38BB8",
       "source": "Ticketmaster",
       "price": "Check organizer for pricing"
     }

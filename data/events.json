@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-28T12:41:00.979852+00:00",
+  "updated_at": "2026-10-28T18:38:21.492455+00:00",
   "events": [
     {
       "id": "community:wag-free-wednesday-2026-10-28",
@@ -497,17 +497,6 @@
       "price": "Check organizer for pricing"
     },
     {
-      "id": "tm:1AoZkftGkd7wIHb",
-      "title": "Arkells - The Between Us Tour",
-      "date": "2026-11-10",
-      "time": "19:00",
-      "venue": "Sidestage",
-      "category": "music",
-      "url": "https://www.ticketmaster.ca/arkells-the-between-us-tour-winnipeg-manitoba-11-10-2026/event/11006529C4CA8F18",
-      "source": "Ticketmaster",
-      "price": "Check organizer for pricing"
-    },
-    {
       "id": "tm:1AoZkfAGkd8kBHs",
       "title": "90s Night | Winnipeg Jets vs. New Jersey Devils",
       "date": "2026-11-10",
@@ -515,6 +504,17 @@
       "venue": "Canada Life Centre",
       "category": "date",
       "url": "https://www.ticketmaster.ca/90s-night-winnipeg-jets-vs-new-winnipeg-manitoba-11-10-2026/event/11006505D01BAF31",
+      "source": "Ticketmaster",
+      "price": "Check organizer for pricing"
+    },
+    {
+      "id": "tm:1AoZkftGkd7wIHb",
+      "title": "Arkells - The Between Us Tour",
+      "date": "2026-11-10",
+      "time": "19:00",
+      "venue": "Sidestage",
+      "category": "music",
+      "url": "https://www.ticketmaster.ca/arkells-the-between-us-tour-winnipeg-manitoba-11-10-2026/event/11006529C4CA8F18",
       "source": "Ticketmaster",
       "price": "Check organizer for pricing"
     },
@@ -629,17 +629,6 @@
       "price": "Check organizer for pricing"
     },
     {
-      "id": "tm:1Av7Z_aGkBE4a99",
-      "title": "DEAN BRODY& THE REKLAWS - with Guest Nate Haller",
-      "date": "2026-11-13",
-      "time": "19:00",
-      "venue": "Club Regent Event Centre",
-      "category": "music",
-      "url": "https://www.ticketmaster.ca/dean-brody-the-reklaws-with-guest-winnipeg-manitoba-11-13-2026/event/1100649EA75495D7",
-      "source": "Ticketmaster",
-      "price": "Check organizer for pricing"
-    },
-    {
       "id": "tm:1778v0G62vRlwhJ",
       "title": "Disney On Ice presents Jump In!",
       "date": "2026-11-13",
@@ -647,6 +636,17 @@
       "venue": "Canada Life Centre",
       "category": "date",
       "url": "https://www.ticketmaster.ca/disney-on-ice-presents-jump-in-winnipeg-manitoba-11-13-2026/event/110064F06FAF26E6",
+      "source": "Ticketmaster",
+      "price": "Check organizer for pricing"
+    },
+    {
+      "id": "tm:1Av7Z_aGkBE4a99",
+      "title": "DEAN BRODY& THE REKLAWS - with Guest Nate Haller",
+      "date": "2026-11-13",
+      "time": "19:00",
+      "venue": "Club Regent Event Centre",
+      "category": "music",
+      "url": "https://www.ticketmaster.ca/dean-brody-the-reklaws-with-guest-winnipeg-manitoba-11-13-2026/event/1100649EA75495D7",
       "source": "Ticketmaster",
       "price": "Check organizer for pricing"
     },
@@ -717,17 +717,6 @@
       "price": "Check organizer for pricing"
     },
     {
-      "id": "tm:1778v0G6CXpMAw2",
-      "title": "Grandpa's Home Alone",
-      "date": "2026-11-14",
-      "time": "18:00",
-      "venue": "Destination Dinner Stage",
-      "category": "date",
-      "url": "https://www.ticketmaster.ca/grandpas-home-alone-winnipeg-manitoba-11-14-2026/event/110064EF96DC5C8F",
-      "source": "Ticketmaster",
-      "price": "Check organizer for pricing"
-    },
-    {
       "id": "tm:1778v0G62vRRejo",
       "title": "Disney On Ice presents Jump In!",
       "date": "2026-11-14",
@@ -735,6 +724,17 @@
       "venue": "Canada Life Centre",
       "category": "date",
       "url": "https://www.ticketmaster.ca/disney-on-ice-presents-jump-in-winnipeg-manitoba-11-14-2026/event/110064F06FBC2711",
+      "source": "Ticketmaster",
+      "price": "Check organizer for pricing"
+    },
+    {
+      "id": "tm:1778v0G6CXpMAw2",
+      "title": "Grandpa's Home Alone",
+      "date": "2026-11-14",
+      "time": "18:00",
+      "venue": "Destination Dinner Stage",
+      "category": "date",
+      "url": "https://www.ticketmaster.ca/grandpas-home-alone-winnipeg-manitoba-11-14-2026/event/110064EF96DC5C8F",
       "source": "Ticketmaster",
       "price": "Check organizer for pricing"
     },
@@ -1212,17 +1212,6 @@
       "price": "Check organizer for pricing"
     },
     {
-      "id": "tm:1k78vPA_GA2jDK8",
-      "title": "Boy Golden - Good Goddamn Another Tour",
-      "date": "2026-11-25",
-      "time": "19:00",
-      "venue": "PARK THEATRE",
-      "category": "music",
-      "url": "https://www.ticketmaster.ca/boy-golden-good-goddamn-another-tour-winnipeg-manitoba-11-25-2026/event/110065159F73B4D0",
-      "source": "Ticketmaster",
-      "price": "Check organizer for pricing"
-    },
-    {
       "id": "tm:1AoZkf6GkeMFhdT",
       "title": "Manitoba Moose vs. Grand Rapids Griffins",
       "date": "2026-11-25",
@@ -1230,6 +1219,17 @@
       "venue": "Canada Life Centre",
       "category": "date",
       "url": "https://www.ticketmaster.ca/manitoba-moose-vs-grand-rapids-griffins-winnipeg-manitoba-11-25-2026/event/11006507B721B0FF",
+      "source": "Ticketmaster",
+      "price": "Check organizer for pricing"
+    },
+    {
+      "id": "tm:1k78vPA_GA2jDK8",
+      "title": "Boy Golden - Good Goddamn Another Tour",
+      "date": "2026-11-25",
+      "time": "19:00",
+      "venue": "PARK THEATRE",
+      "category": "music",
+      "url": "https://www.ticketmaster.ca/boy-golden-good-goddamn-another-tour-winnipeg-manitoba-11-25-2026/event/110065159F73B4D0",
       "source": "Ticketmaster",
       "price": "Check organizer for pricing"
     },
@@ -1663,17 +1663,6 @@
       "price": "Check organizer for pricing"
     },
     {
-      "id": "tm:1Av7Z_8GktV_eSh",
-      "title": "George Canyon & Aaron Pritchett - An Acoustic Cowboy Christmas",
-      "date": "2026-12-08",
-      "time": "19:00",
-      "venue": "Club Regent Event Centre",
-      "category": "music",
-      "url": "https://www.ticketmaster.ca/george-canyon-aaron-pritchett-an-acoustic-winnipeg-manitoba-12-08-2026/event/1100650A74642CDB",
-      "source": "Ticketmaster",
-      "price": "Check organizer for pricing"
-    },
-    {
       "id": "tm:1AoZkfAGkd8AQHI",
       "title": "Canadian Armed Forces Night | Winnipeg Jets vs. Philadelphia Flyers",
       "date": "2026-12-08",
@@ -1681,6 +1670,17 @@
       "venue": "Canada Life Centre",
       "category": "date",
       "url": "https://www.ticketmaster.ca/canadian-armed-forces-night-winnipeg-jets-winnipeg-manitoba-12-08-2026/event/11006505D015AF28",
+      "source": "Ticketmaster",
+      "price": "Check organizer for pricing"
+    },
+    {
+      "id": "tm:1Av7Z_8GktV_eSh",
+      "title": "George Canyon & Aaron Pritchett - An Acoustic Cowboy Christmas",
+      "date": "2026-12-08",
+      "time": "19:00",
+      "venue": "Club Regent Event Centre",
+      "category": "music",
+      "url": "https://www.ticketmaster.ca/george-canyon-aaron-pritchett-an-acoustic-winnipeg-manitoba-12-08-2026/event/1100650A74642CDB",
       "source": "Ticketmaster",
       "price": "Check organizer for pricing"
     },
@@ -2411,17 +2411,6 @@
       "price": "Check organizer for pricing"
     },
     {
-      "id": "tm:1Av7Z_KGkU16VM9",
-      "title": "The Incredibly Hip & The Stoneheads",
-      "date": "2027-01-16",
-      "time": "19:00",
-      "venue": "Club Regent Event Centre",
-      "category": "music",
-      "url": "https://www.ticketmaster.ca/the-incredibly-hip-the-stoneheads-winnipeg-manitoba-01-16-2027/event/1100653D8A1F4DD7",
-      "source": "Ticketmaster",
-      "price": "Check organizer for pricing"
-    },
-    {
       "id": "tm:1AoZkfAGkd1wQxf",
       "title": "Hockey Talks | Winnipeg Jets vs. Anaheim Ducks",
       "date": "2027-01-16",
@@ -2429,6 +2418,17 @@
       "venue": "Canada Life Centre",
       "category": "date",
       "url": "https://www.ticketmaster.ca/hockey-talks-winnipeg-jets-vs-anaheim-winnipeg-manitoba-01-16-2027/event/11006505CAC9A894",
+      "source": "Ticketmaster",
+      "price": "Check organizer for pricing"
+    },
+    {
+      "id": "tm:1Av7Z_KGkU16VM9",
+      "title": "The Incredibly Hip & The Stoneheads",
+      "date": "2027-01-16",
+      "time": "19:00",
+      "venue": "Club Regent Event Centre",
+      "category": "music",
+      "url": "https://www.ticketmaster.ca/the-incredibly-hip-the-stoneheads-winnipeg-manitoba-01-16-2027/event/1100653D8A1F4DD7",
       "source": "Ticketmaster",
       "price": "Check organizer for pricing"
     },
@@ -2840,6 +2840,17 @@
       "price": "Check organizer for pricing"
     },
     {
+      "id": "tm:rZ7HnEZ1A4vfuK",
+      "title": "Jon Bryant",
+      "date": "2027-02-21",
+      "time": "19:00",
+      "venue": "Sidestage",
+      "category": "music",
+      "url": "https://www.ticketweb.ca/event/jon-bryant-sidestage-tickets/15054353",
+      "source": "Ticketmaster",
+      "price": "Check organizer for pricing"
+    },
+    {
       "id": "tm:rZ7HnEZ1AfGfPf",
       "title": "Eluveitie | NiNi | Illumishade",
       "date": "2027-02-21",
@@ -2939,17 +2950,6 @@
       "price": "Check organizer for pricing"
     },
     {
-      "id": "tm:1Av7Z_3GkclQwOg",
-      "title": "Finger Eleven - Last Night on Earth Tour",
-      "date": "2027-03-05",
-      "time": "19:00",
-      "venue": "Club Regent Event Centre",
-      "category": "music",
-      "url": "https://www.ticketmaster.ca/finger-eleven-last-night-on-earth-winnipeg-manitoba-03-05-2027/event/1100652B6B6B2835",
-      "source": "Ticketmaster",
-      "price": "Check organizer for pricing"
-    },
-    {
       "id": "tm:1AoZkfAGkd6lB3Q",
       "title": "Winnipeg Jets vs. Washington Capitals",
       "date": "2027-03-05",
@@ -2957,6 +2957,17 @@
       "venue": "Canada Life Centre",
       "category": "date",
       "url": "https://www.ticketmaster.ca/winnipeg-jets-vs-washington-capitals-winnipeg-manitoba-03-05-2027/event/11006505C7AFA49A",
+      "source": "Ticketmaster",
+      "price": "Check organizer for pricing"
+    },
+    {
+      "id": "tm:1Av7Z_3GkclQwOg",
+      "title": "Finger Eleven - Last Night on Earth Tour",
+      "date": "2027-03-05",
+      "time": "19:00",
+      "venue": "Club Regent Event Centre",
+      "category": "music",
+      "url": "https://www.ticketmaster.ca/finger-eleven-last-night-on-earth-winnipeg-manitoba-03-05-2027/event/1100652B6B6B2835",
       "source": "Ticketmaster",
       "price": "Check organizer for pricing"
     },
@@ -3309,17 +3320,6 @@
       "venue": "Burton Cummings Theatre",
       "category": "date",
       "url": "https://www.ticketmaster.ca/cirque-alice-winnipeg-manitoba-04-03-2027/event/1100652AB8A38BB8",
-      "source": "Ticketmaster",
-      "price": "Check organizer for pricing"
-    },
-    {
-      "id": "tm:1Av7Z_3GknztImW",
-      "title": "Cirque Alice",
-      "date": "2027-04-04",
-      "time": "14:00",
-      "venue": "Burton Cummings Theatre",
-      "category": "date",
-      "url": "https://www.ticketmaster.ca/cirque-alice-winnipeg-manitoba-04-04-2027/event/1100652AB8A68BBD",
       "source": "Ticketmaster",
       "price": "Check organizer for pricing"
     }

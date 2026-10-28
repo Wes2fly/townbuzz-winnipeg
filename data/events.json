@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-28T00:54:30.926594+00:00",
+  "updated_at": "2026-10-28T06:40:13.444886+00:00",
   "events": [
     {
       "id": "community:wag-free-wednesday-2026-10-28",
@@ -3309,6 +3309,17 @@
       "venue": "Burton Cummings Theatre",
       "category": "date",
       "url": "https://www.ticketmaster.ca/cirque-alice-winnipeg-manitoba-04-03-2027/event/1100652AB8A38BB8",
+      "source": "Ticketmaster",
+      "price": "Check organizer for pricing"
+    },
+    {
+      "id": "tm:1Av7Z_3GknztImW",
+      "title": "Cirque Alice",
+      "date": "2027-04-04",
+      "time": "14:00",
+      "venue": "Burton Cummings Theatre",
+      "category": "date",
+      "url": "https://www.ticketmaster.ca/cirque-alice-winnipeg-manitoba-04-04-2027/event/1100652AB8A68BBD",
       "source": "Ticketmaster",
       "price": "Check organizer for pricing"
     }

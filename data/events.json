@@ -1,28 +1,6 @@
 {
-  "updated_at": "2026-10-27T18:37:08.809381+00:00",
+  "updated_at": "2026-10-28T00:40:04.883464+00:00",
   "events": [
-    {
-      "id": "tm:1AoZkfAGkd8inTi",
-      "title": "Halloween Game | Winnipeg Jets vs. Florida Panthers",
-      "date": "2026-10-27",
-      "time": "19:00",
-      "venue": "Canada Life Centre",
-      "category": "date",
-      "url": "https://www.ticketmaster.ca/halloween-game-winnipeg-jets-vs-florida-winnipeg-manitoba-10-27-2026/event/11006505D0B2AFEC",
-      "source": "Ticketmaster",
-      "price": "Check organizer for pricing"
-    },
-    {
-      "id": "tm:1Av7Z_6GknSpI2q",
-      "title": "Owen Riegling: In The Feeling Tour",
-      "date": "2026-10-27",
-      "time": "20:00",
-      "venue": "Burton Cummings Theatre",
-      "category": "music",
-      "url": "https://www.ticketmaster.ca/owen-riegling-in-the-feeling-tour-winnipeg-manitoba-10-27-2026/event/1100647AB35A83DD",
-      "source": "Ticketmaster",
-      "price": "Check organizer for pricing"
-    },
     {
       "id": "community:wag-free-wednesday-2026-10-28",
       "title": "Free Wednesday Evening at WAG-Qaumajuq",
@@ -146,7 +124,7 @@
     },
     {
       "id": "tm:rZ7HnEZ1AfG7-0",
-      "title": "The Black Parade Halloween Emo Night Winnipeg at Park Theatre - Oct 31 2026",
+      "title": "The Black Parade Halloween Emo Night Winnipeg at Park Theatre - Oct 31 2026 - 75% OF TICKETS SOLD",
       "date": "2026-10-31",
       "time": "22:00",
       "venue": "The Park Theatre",
@@ -302,7 +280,7 @@
       "id": "tm:rZ7HnEZ1Afa3p7",
       "title": "True Mountain Laurel with Dom & Jacob",
       "date": "2026-11-05",
-      "time": "20:00",
+      "time": "19:00",
       "venue": "Sidestage",
       "category": "music",
       "url": "https://www.ticketweb.ca/event/true-mountain-laurel-with-dom-sidestage-tickets/14252584",
@@ -1564,6 +1542,17 @@
       "price": "Check organizer for pricing"
     },
     {
+      "id": "tm:rZ7HnEZ1Af874f",
+      "title": "Orders from No 1 | Rams Kull",
+      "date": "2026-12-04",
+      "time": "19:00",
+      "venue": "Sidestage",
+      "category": "music",
+      "url": "https://www.ticketweb.ca/event/orders-from-no-1-sidestage-tickets/14404554",
+      "source": "Ticketmaster",
+      "price": "Check organizer for pricing"
+    },
+    {
       "id": "tm:1AoZk39GkesKl9V",
       "title": "Elmo's Got the Moves",
       "date": "2026-12-05",
@@ -2719,6 +2708,17 @@
       "price": "Check organizer for pricing"
     },
     {
+      "id": "tm:rZ7HnEZ1AfGyb0",
+      "title": "Mariel Buckley with Special Guests",
+      "date": "2027-02-17",
+      "time": "19:00",
+      "venue": "Sidestage",
+      "category": "music",
+      "url": "https://www.ticketweb.ca/event/mariel-buckley-with-special-guests-sidestage-tickets/14339624",
+      "source": "Ticketmaster",
+      "price": "Check organizer for pricing"
+    },
+    {
       "id": "tm:1AoZkfAGkd8FQHU",
       "title": "Lunar New Year Night | Winnipeg Jets vs. Los Angeles Kings",
       "date": "2027-02-17",
@@ -2726,17 +2726,6 @@
       "venue": "Canada Life Centre",
       "category": "date",
       "url": "https://www.ticketmaster.ca/lunar-new-year-night-winnipeg-jets-winnipeg-manitoba-02-17-2027/event/11006505D021AF36",
-      "source": "Ticketmaster",
-      "price": "Check organizer for pricing"
-    },
-    {
-      "id": "tm:rZ7HnEZ1AfGyb0",
-      "title": "Mariel Buckley with Special Guests",
-      "date": "2027-02-17",
-      "time": "20:00",
-      "venue": "Sidestage",
-      "category": "music",
-      "url": "https://www.ticketweb.ca/event/mariel-buckley-with-special-guests-sidestage-tickets/14339624",
       "source": "Ticketmaster",
       "price": "Check organizer for pricing"
     },

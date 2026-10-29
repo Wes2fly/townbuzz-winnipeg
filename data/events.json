@@ -1,28 +1,6 @@
 {
-  "updated_at": "2026-10-28T18:38:21.492455+00:00",
+  "updated_at": "2026-10-29T00:40:23.874128+00:00",
   "events": [
-    {
-      "id": "community:wag-free-wednesday-2026-10-28",
-      "title": "Free Wednesday Evening at WAG-Qaumajuq",
-      "date": "2026-10-28",
-      "time": "17:00",
-      "venue": "WAG-Qaumajuq, 300 Memorial Boulevard",
-      "category": "free",
-      "url": "https://www.wag.ca/visit/hours-admission/",
-      "source": "WAG-Qaumajuq",
-      "price": "Free admission"
-    },
-    {
-      "id": "tm:rZ7HnEZ1Af17q0",
-      "title": "Faust 100th Year Anniversary Screening w/ Live Score",
-      "date": "2026-10-28",
-      "time": "19:30",
-      "venue": "The Park Theatre",
-      "category": "date",
-      "url": "https://www.ticketweb.ca/event/faust-100th-year-anniversary-screening-the-park-theatre-tickets/14284764",
-      "source": "Ticketmaster",
-      "price": "Check organizer for pricing"
-    },
     {
       "id": "tm:rZ7HnEZ1AfJ4Jd",
       "title": "Laughing Court | Vathek | bron",
@@ -124,7 +102,7 @@
     },
     {
       "id": "tm:rZ7HnEZ1AfG7-0",
-      "title": "The Black Parade Halloween Emo Night Winnipeg at Park Theatre - Oct 31 2026 - 75% OF TICKETS SOLD",
+      "title": "The Black Parade Halloween Emo Night Winnipeg at Park Theatre - Oct 31 2026 - 80% OF TICKETS SOLD",
       "date": "2026-10-31",
       "time": "22:00",
       "venue": "The Park Theatre",
@@ -2198,6 +2176,17 @@
       "venue": "Canada Life Centre",
       "category": "date",
       "url": "https://www.ticketmaster.ca/apres-ski-night-winnipeg-jets-vs-winnipeg-manitoba-01-02-2027/event/11006505CA40A7CF",
+      "source": "Ticketmaster",
+      "price": "Check organizer for pricing"
+    },
+    {
+      "id": "tm:rZ7HnEZ1Af86Of",
+      "title": "Paul Rabliauskas Live Comedy Show",
+      "date": "2027-01-02",
+      "time": "19:00",
+      "venue": "The Park Theatre",
+      "category": "date",
+      "url": "https://www.ticketweb.ca/event/paul-rabliauskas-live-comedy-show-the-park-theatre-tickets/14407814",
       "source": "Ticketmaster",
       "price": "Check organizer for pricing"
     },

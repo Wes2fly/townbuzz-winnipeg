@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-30T00:41:32.480956+00:00",
+  "updated_at": "2026-10-30T06:43:33.031026+00:00",
   "events": [
     {
       "id": "tm:1778v0G61MaAQR0",
@@ -3298,6 +3298,17 @@
       "venue": "Destination Dinner Stage",
       "category": "date",
       "url": "https://www.ticketmaster.ca/taylor-made-dreams-winnipeg-manitoba-03-13-2027/event/1100655DAFAC97EE",
+      "source": "Ticketmaster",
+      "price": "Check organizer for pricing"
+    },
+    {
+      "id": "tm:1AoZkfIGkeRbUM9",
+      "title": "April Wine",
+      "date": "2027-03-13",
+      "time": "20:00",
+      "venue": "Burton Cummings Theatre",
+      "category": "music",
+      "url": "https://www.ticketmaster.ca/april-wine-winnipeg-manitoba-03-13-2027/event/11006528AF636DD7",
       "source": "Ticketmaster",
       "price": "Check organizer for pricing"
     }

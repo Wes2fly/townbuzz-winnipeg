@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-30T12:41:53.029277+00:00",
+  "updated_at": "2026-10-30T18:38:38.407954+00:00",
   "events": [
     {
       "id": "tm:1778v0G61MaAQR0",
@@ -3005,6 +3005,17 @@
       "price": "Check organizer for pricing"
     },
     {
+      "id": "tm:rZ7HnEZ1Af887V",
+      "title": "Pink Floyds \"Animals\" & Other Pieces For Assorted Lunatics",
+      "date": "2027-02-26",
+      "time": "19:00",
+      "venue": "The Park Theatre",
+      "category": "music",
+      "url": "https://www.ticketweb.ca/event/pink-floyds-animals-other-the-park-theatre-tickets/14410134",
+      "source": "Ticketmaster",
+      "price": "Check organizer for pricing"
+    },
+    {
       "id": "tm:1Av7Z_4GkURtyLJ",
       "title": "Taylor Made Dreams",
       "date": "2027-02-27",
@@ -3298,17 +3309,6 @@
       "venue": "Destination Dinner Stage",
       "category": "date",
       "url": "https://www.ticketmaster.ca/taylor-made-dreams-winnipeg-manitoba-03-13-2027/event/1100655DAFAC97EE",
-      "source": "Ticketmaster",
-      "price": "Check organizer for pricing"
-    },
-    {
-      "id": "tm:1AoZkfIGkeRbUM9",
-      "title": "April Wine",
-      "date": "2027-03-13",
-      "time": "20:00",
-      "venue": "Burton Cummings Theatre",
-      "category": "music",
-      "url": "https://www.ticketmaster.ca/april-wine-winnipeg-manitoba-03-13-2027/event/11006528AF636DD7",
       "source": "Ticketmaster",
       "price": "Check organizer for pricing"
     }

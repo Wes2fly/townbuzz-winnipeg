@@ -1,28 +1,6 @@
 {
-  "updated_at": "2026-10-29T18:41:05.705926+00:00",
+  "updated_at": "2026-10-30T00:41:32.480956+00:00",
   "events": [
-    {
-      "id": "tm:rZ7HnEZ1AfJ4Jd",
-      "title": "Laughing Court | Vathek | bron",
-      "date": "2026-10-29",
-      "time": "19:30",
-      "venue": "Sidestage",
-      "category": "music",
-      "url": "https://www.ticketweb.ca/event/laughing-court-vathek-sidestage-tickets/14995983",
-      "source": "Ticketmaster",
-      "price": "Check organizer for pricing"
-    },
-    {
-      "id": "tm:rZ7HnEZ1AfGzjf",
-      "title": "The Annual DnD Improv Halloween Show",
-      "date": "2026-10-29",
-      "time": "20:00",
-      "venue": "The Park Theatre",
-      "category": "date",
-      "url": "https://www.ticketweb.ca/event/the-annual-dnd-improv-halloween-the-park-theatre-tickets/14338714",
-      "source": "Ticketmaster",
-      "price": "Check organizer for pricing"
-    },
     {
       "id": "tm:1778v0G61MaAQR0",
       "title": "Manito Ahbee Festival 2026 Weekend Pass",
@@ -2587,6 +2565,28 @@
       "price": "Check organizer for pricing"
     },
     {
+      "id": "tm:1Av7Z_4GkUcWypi",
+      "title": "Taylor Made Dreams",
+      "date": "2027-02-04",
+      "time": "18:00",
+      "venue": "Destination Dinner Stage",
+      "category": "date",
+      "url": "https://www.ticketmaster.ca/taylor-made-dreams-winnipeg-manitoba-02-04-2027/event/1100655DADF795AC",
+      "source": "Ticketmaster",
+      "price": "Check organizer for pricing"
+    },
+    {
+      "id": "tm:1Av7Z_4GkURkyjc",
+      "title": "Taylor Made Dreams",
+      "date": "2027-02-05",
+      "time": "19:00",
+      "venue": "Destination Dinner Stage",
+      "category": "date",
+      "url": "https://www.ticketmaster.ca/taylor-made-dreams-winnipeg-manitoba-02-05-2027/event/1100655DAF1B972D",
+      "source": "Ticketmaster",
+      "price": "Check organizer for pricing"
+    },
+    {
       "id": "tm:1Av7Z_KGkUsSto2",
       "title": "Ultimate Escape: The Music Of Journey",
       "date": "2027-02-05",
@@ -2609,6 +2609,17 @@
       "price": "Check organizer for pricing"
     },
     {
+      "id": "tm:1Av7Z_4GkUREyLf",
+      "title": "Taylor Made Dreams",
+      "date": "2027-02-06",
+      "time": "18:00",
+      "venue": "Destination Dinner Stage",
+      "category": "date",
+      "url": "https://www.ticketmaster.ca/taylor-made-dreams-winnipeg-manitoba-02-06-2027/event/1100655DAF9F97D4",
+      "source": "Ticketmaster",
+      "price": "Check organizer for pricing"
+    },
+    {
       "id": "tm:1AoZk4vGkdJlHzV",
       "title": "RAM Motorsports Spectacular",
       "date": "2027-02-07",
@@ -2620,6 +2631,17 @@
       "price": "Check organizer for pricing"
     },
     {
+      "id": "tm:1Av7Z_4GkURB_-5",
+      "title": "Taylor Made Dreams",
+      "date": "2027-02-07",
+      "time": "17:00",
+      "venue": "Destination Dinner Stage",
+      "category": "date",
+      "url": "https://www.ticketmaster.ca/taylor-made-dreams-winnipeg-manitoba-02-07-2027/event/1100655DAFE9984B",
+      "source": "Ticketmaster",
+      "price": "Check organizer for pricing"
+    },
+    {
       "id": "tm:1Av7Z_KGkUB_13D",
       "title": "Warrant",
       "date": "2027-02-10",
@@ -2627,6 +2649,28 @@
       "venue": "Club Regent Event Centre",
       "category": "music",
       "url": "https://www.ticketmaster.ca/warrant-winnipeg-manitoba-02-10-2027/event/1100653DBA64A4BB",
+      "source": "Ticketmaster",
+      "price": "Check organizer for pricing"
+    },
+    {
+      "id": "tm:1Av7Z_4GkUcXtpV",
+      "title": "Taylor Made Dreams",
+      "date": "2027-02-11",
+      "time": "18:00",
+      "venue": "Destination Dinner Stage",
+      "category": "date",
+      "url": "https://www.ticketmaster.ca/taylor-made-dreams-winnipeg-manitoba-02-11-2027/event/1100655DADFA95B4",
+      "source": "Ticketmaster",
+      "price": "Check organizer for pricing"
+    },
+    {
+      "id": "tm:1Av7Z_4GkUR6tjV",
+      "title": "Taylor Made Dreams",
+      "date": "2027-02-12",
+      "time": "18:00",
+      "venue": "Destination Dinner Stage",
+      "category": "date",
+      "url": "https://www.ticketmaster.ca/taylor-made-dreams-winnipeg-manitoba-02-12-2027/event/1100655DAF1E9734",
       "source": "Ticketmaster",
       "price": "Check organizer for pricing"
     },
@@ -2653,6 +2697,17 @@
       "price": "Check organizer for pricing"
     },
     {
+      "id": "tm:1Av7Z_4GkURItLL",
+      "title": "Taylor Made Dreams",
+      "date": "2027-02-13",
+      "time": "18:00",
+      "venue": "Destination Dinner Stage",
+      "category": "date",
+      "url": "https://www.ticketmaster.ca/taylor-made-dreams-winnipeg-manitoba-02-13-2027/event/1100655DAFA297DF",
+      "source": "Ticketmaster",
+      "price": "Check organizer for pricing"
+    },
+    {
       "id": "tm:1AoZkfNGkdPrGtr",
       "title": "Dexter and the Moonrocks: Friends That I Don't Like - Canadian Tour",
       "date": "2027-02-13",
@@ -2660,6 +2715,17 @@
       "venue": "Burton Cummings Theatre",
       "category": "music",
       "url": "https://www.ticketmaster.ca/dexter-and-the-moonrocks-friends-that-winnipeg-manitoba-02-13-2027/event/11006523E578CA5E",
+      "source": "Ticketmaster",
+      "price": "Check organizer for pricing"
+    },
+    {
+      "id": "tm:1Av7Z_4GkURDa-2",
+      "title": "Taylor Made Dreams",
+      "date": "2027-02-14",
+      "time": "17:00",
+      "venue": "Destination Dinner Stage",
+      "category": "date",
+      "url": "https://www.ticketmaster.ca/taylor-made-dreams-winnipeg-manitoba-02-14-2027/event/1100655DAFEC984F",
       "source": "Ticketmaster",
       "price": "Check organizer for pricing"
     },
@@ -2719,6 +2785,17 @@
       "price": "Check organizer for pricing"
     },
     {
+      "id": "tm:1Av7Z_4GkUcTapU",
+      "title": "Taylor Made Dreams",
+      "date": "2027-02-18",
+      "time": "18:00",
+      "venue": "Destination Dinner Stage",
+      "category": "date",
+      "url": "https://www.ticketmaster.ca/taylor-made-dreams-winnipeg-manitoba-02-18-2027/event/1100655DADFC95B6",
+      "source": "Ticketmaster",
+      "price": "Check organizer for pricing"
+    },
+    {
       "id": "tm:1AoZkf6GkeMGh7c",
       "title": "Manitoba Moose vs. Milwaukee Admirals",
       "date": "2027-02-18",
@@ -2759,6 +2836,17 @@
       "venue": "Sidestage",
       "category": "music",
       "url": "https://www.ticketweb.ca/event/heart-and-stroke-foundation-fundraiser-sidestage-tickets/14353544",
+      "source": "Ticketmaster",
+      "price": "Check organizer for pricing"
+    },
+    {
+      "id": "tm:1Av7Z_4GkURF_jz",
+      "title": "Taylor Made Dreams",
+      "date": "2027-02-19",
+      "time": "18:00",
+      "venue": "Destination Dinner Stage",
+      "category": "date",
+      "url": "https://www.ticketmaster.ca/taylor-made-dreams-winnipeg-manitoba-02-19-2027/event/1100655DAF219738",
       "source": "Ticketmaster",
       "price": "Check organizer for pricing"
     },
@@ -2807,6 +2895,17 @@
       "price": "Check organizer for pricing"
     },
     {
+      "id": "tm:1Av7Z_4GkURtaL-",
+      "title": "Taylor Made Dreams",
+      "date": "2027-02-20",
+      "time": "18:00",
+      "venue": "Destination Dinner Stage",
+      "category": "date",
+      "url": "https://www.ticketmaster.ca/taylor-made-dreams-winnipeg-manitoba-02-20-2027/event/1100655DAFA497E1",
+      "source": "Ticketmaster",
+      "price": "Check organizer for pricing"
+    },
+    {
       "id": "tm:rZ7HnEZ1A4vK8d",
       "title": "Dreams & Rumours - the ultimate tribute to the legendary Fleetwood Mac",
       "date": "2027-02-20",
@@ -2825,6 +2924,17 @@
       "venue": "Canada Life Centre",
       "category": "date",
       "url": "https://www.ticketmaster.ca/wasac-night-winnipeg-jets-vs-pittsburgh-winnipeg-manitoba-02-21-2027/event/11006505C9BCA70E",
+      "source": "Ticketmaster",
+      "price": "Check organizer for pricing"
+    },
+    {
+      "id": "tm:1Av7Z_4GkURDt-K",
+      "title": "Taylor Made Dreams",
+      "date": "2027-02-21",
+      "time": "17:00",
+      "venue": "Destination Dinner Stage",
+      "category": "date",
+      "url": "https://www.ticketmaster.ca/taylor-made-dreams-winnipeg-manitoba-02-21-2027/event/1100655DAFEE9853",
       "source": "Ticketmaster",
       "price": "Check organizer for pricing"
     },
@@ -2873,6 +2983,39 @@
       "price": "Check organizer for pricing"
     },
     {
+      "id": "tm:1Av7Z_4GkUcTypB",
+      "title": "Taylor Made Dreams",
+      "date": "2027-02-25",
+      "time": "18:00",
+      "venue": "Destination Dinner Stage",
+      "category": "date",
+      "url": "https://www.ticketmaster.ca/taylor-made-dreams-winnipeg-manitoba-02-25-2027/event/1100655DADFF95BA",
+      "source": "Ticketmaster",
+      "price": "Check organizer for pricing"
+    },
+    {
+      "id": "tm:1Av7Z_4GkURFyjW",
+      "title": "Taylor Made Dreams",
+      "date": "2027-02-26",
+      "time": "18:00",
+      "venue": "Destination Dinner Stage",
+      "category": "date",
+      "url": "https://www.ticketmaster.ca/taylor-made-dreams-winnipeg-manitoba-02-26-2027/event/1100655DAF23973D",
+      "source": "Ticketmaster",
+      "price": "Check organizer for pricing"
+    },
+    {
+      "id": "tm:1Av7Z_4GkURtyLJ",
+      "title": "Taylor Made Dreams",
+      "date": "2027-02-27",
+      "time": "18:00",
+      "venue": "Destination Dinner Stage",
+      "category": "date",
+      "url": "https://www.ticketmaster.ca/taylor-made-dreams-winnipeg-manitoba-02-27-2027/event/1100655DAFA797E6",
+      "source": "Ticketmaster",
+      "price": "Check organizer for pricing"
+    },
+    {
       "id": "tm:rZ7HnEZ1AfGN3f",
       "title": "WHO’S THE ILLEST!? TOP 16 HIP HOP DANCE BATTLE",
       "date": "2027-02-27",
@@ -2891,6 +3034,17 @@
       "venue": "Burton Cummings Theatre",
       "category": "date",
       "url": "https://www.ticketmaster.ca/gerry-dee-the-new-stuff-tour-winnipeg-manitoba-02-27-2027/event/1100653DAEA08DC6",
+      "source": "Ticketmaster",
+      "price": "Check organizer for pricing"
+    },
+    {
+      "id": "tm:1Av7Z_4GkURH_-b",
+      "title": "Taylor Made Dreams",
+      "date": "2027-02-28",
+      "time": "17:00",
+      "venue": "Destination Dinner Stage",
+      "category": "date",
+      "url": "https://www.ticketmaster.ca/taylor-made-dreams-winnipeg-manitoba-02-28-2027/event/1100655DAFF19858",
       "source": "Ticketmaster",
       "price": "Check organizer for pricing"
     },
@@ -2935,6 +3089,28 @@
       "venue": "Canada Life Centre",
       "category": "date",
       "url": "https://www.ticketmaster.com/event/Z7r9jZ1AAZfP9",
+      "source": "Ticketmaster",
+      "price": "Check organizer for pricing"
+    },
+    {
+      "id": "tm:1Av7Z_4GkUmZypX",
+      "title": "Taylor Made Dreams",
+      "date": "2027-03-04",
+      "time": "18:00",
+      "venue": "Destination Dinner Stage",
+      "category": "date",
+      "url": "https://www.ticketmaster.ca/taylor-made-dreams-winnipeg-manitoba-03-04-2027/event/1100655DAE0395BE",
+      "source": "Ticketmaster",
+      "price": "Check organizer for pricing"
+    },
+    {
+      "id": "tm:1Av7Z_4GkURatjT",
+      "title": "Taylor Made Dreams",
+      "date": "2027-03-05",
+      "time": "18:00",
+      "venue": "Destination Dinner Stage",
+      "category": "date",
+      "url": "https://www.ticketmaster.ca/taylor-made-dreams-winnipeg-manitoba-03-05-2027/event/1100655DAF26973F",
       "source": "Ticketmaster",
       "price": "Check organizer for pricing"
     },
@@ -2994,6 +3170,17 @@
       "price": "Check organizer for pricing"
     },
     {
+      "id": "tm:1Av7Z_4GkURn_Ln",
+      "title": "Taylor Made Dreams",
+      "date": "2027-03-06",
+      "time": "18:00",
+      "venue": "Destination Dinner Stage",
+      "category": "date",
+      "url": "https://www.ticketmaster.ca/taylor-made-dreams-winnipeg-manitoba-03-06-2027/event/1100655DAFA997EA",
+      "source": "Ticketmaster",
+      "price": "Check organizer for pricing"
+    },
+    {
       "id": "tm:1AoZkfAGkd8J1T7",
       "title": "Celebrating Women in Sport | Winnipeg Jets vs. Calgary Flames",
       "date": "2027-03-07",
@@ -3001,6 +3188,17 @@
       "venue": "Canada Life Centre",
       "category": "date",
       "url": "https://www.ticketmaster.ca/celebrating-women-in-sport-winnipeg-jets-winnipeg-manitoba-03-07-2027/event/11006505D098AFC4",
+      "source": "Ticketmaster",
+      "price": "Check organizer for pricing"
+    },
+    {
+      "id": "tm:1Av7Z_4GkURWa-h",
+      "title": "Taylor Made Dreams",
+      "date": "2027-03-07",
+      "time": "17:00",
+      "venue": "Destination Dinner Stage",
+      "category": "date",
+      "url": "https://www.ticketmaster.ca/taylor-made-dreams-winnipeg-manitoba-03-07-2027/event/1100655DAFF4985B",
       "source": "Ticketmaster",
       "price": "Check organizer for pricing"
     },
@@ -3023,6 +3221,17 @@
       "venue": "Canada Life Centre",
       "category": "date",
       "url": "https://www.ticketmaster.ca/puppers-presents-letterkenny-live-winnipeg-manitoba-03-10-2027/event/110064C973282B61",
+      "source": "Ticketmaster",
+      "price": "Check organizer for pricing"
+    },
+    {
+      "id": "tm:1Av7Z_4GkUmvy95",
+      "title": "Taylor Made Dreams",
+      "date": "2027-03-11",
+      "time": "18:00",
+      "venue": "Destination Dinner Stage",
+      "category": "date",
+      "url": "https://www.ticketmaster.ca/taylor-made-dreams-winnipeg-manitoba-03-11-2027/event/1100655DAE0795CB",
       "source": "Ticketmaster",
       "price": "Check organizer for pricing"
     },
@@ -3060,6 +3269,17 @@
       "price": "Check organizer for pricing"
     },
     {
+      "id": "tm:1Av7Z_4GkUR1aqe",
+      "title": "Taylor Made Dreams",
+      "date": "2027-03-12",
+      "time": "18:00",
+      "venue": "Destination Dinner Stage",
+      "category": "date",
+      "url": "https://www.ticketmaster.ca/taylor-made-dreams-winnipeg-manitoba-03-12-2027/event/1100655DAF289742",
+      "source": "Ticketmaster",
+      "price": "Check organizer for pricing"
+    },
+    {
       "id": "tm:1AoZkfAGkd1g1xP",
       "title": "Hoser Game | Winnipeg Jets vs. Nashville Predators",
       "date": "2027-03-13",
@@ -3071,244 +3291,13 @@
       "price": "Check organizer for pricing"
     },
     {
-      "id": "tm:1AoZkfIGkeRbUM9",
-      "title": "April Wine",
+      "id": "tm:1Av7Z_4GkURlaLm",
+      "title": "Taylor Made Dreams",
       "date": "2027-03-13",
-      "time": "20:00",
-      "venue": "Burton Cummings Theatre",
-      "category": "music",
-      "url": "https://www.ticketmaster.ca/april-wine-winnipeg-manitoba-03-13-2027/event/11006528AF636DD7",
-      "source": "Ticketmaster",
-      "price": "Check organizer for pricing"
-    },
-    {
-      "id": "tm:1Av7Z_KGkgyZwH1",
-      "title": "The Red Clay Strays",
-      "date": "2027-03-14",
-      "time": "19:00",
-      "venue": "Canada Life Centre",
-      "category": "music",
-      "url": "https://www.ticketmaster.ca/the-red-clay-strays-winnipeg-manitoba-03-14-2027/event/1100653D79032F0A",
-      "source": "Ticketmaster",
-      "price": "Check organizer for pricing"
-    },
-    {
-      "id": "tm:1AoZkf6GkeM2hAo",
-      "title": "Manitoba Moose vs. Bakersfield Condors",
-      "date": "2027-03-16",
-      "time": "19:00",
-      "venue": "Canada Life Centre",
-      "category": "date",
-      "url": "https://www.ticketmaster.ca/manitoba-moose-vs-bakersfield-condors-winnipeg-manitoba-03-16-2027/event/11006507B73DB151",
-      "source": "Ticketmaster",
-      "price": "Check organizer for pricing"
-    },
-    {
-      "id": "tm:Z7r9jZ1A7JFCb",
-      "title": "Manitoba Moose vs. Bakersfield Condors",
-      "date": "2027-03-16",
-      "time": "19:00",
-      "venue": "Canada Life Centre",
-      "category": "date",
-      "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7JFCb",
-      "source": "Ticketmaster",
-      "price": "Check organizer for pricing"
-    },
-    {
-      "id": "tm:1AoZkf6GkeM8lA-",
-      "title": "St. Patrick's Day | Manitoba Moose vs. Bakersfield Condors ",
-      "date": "2027-03-17",
-      "time": "19:00",
-      "venue": "Canada Life Centre",
-      "category": "date",
-      "url": "https://www.ticketmaster.ca/st-patricks-day-manitoba-moose-vs-winnipeg-manitoba-03-17-2027/event/11006507B742B161",
-      "source": "Ticketmaster",
-      "price": "Check organizer for pricing"
-    },
-    {
-      "id": "tm:Z7r9jZ1AAZfPb",
-      "title": "Manitoba Moose vs. Bakersfield Condors",
-      "date": "2027-03-17",
-      "time": "19:00",
-      "venue": "Canada Life Centre",
-      "category": "date",
-      "url": "https://www.ticketmaster.com/event/Z7r9jZ1AAZfPb",
-      "source": "Ticketmaster",
-      "price": "Check organizer for pricing"
-    },
-    {
-      "id": "tm:1k78vPupGA1vvtI",
-      "title": "Tommy Emmanuel, CGP w/ very special guest Molly Tuttle",
-      "date": "2027-03-17",
-      "time": "20:00",
-      "venue": "Burton Cummings Theatre",
-      "category": "music",
-      "url": "https://www.ticketmaster.ca/tommy-emmanuel-cgp-w-very-special-winnipeg-manitoba-03-17-2027/event/110065356A041A68",
-      "source": "Ticketmaster",
-      "price": "Check organizer for pricing"
-    },
-    {
-      "id": "tm:1AoZkfAGkd52BPd",
-      "title": "Winnipeg Jets vs. San Jose Sharks",
-      "date": "2027-03-18",
-      "time": "19:00",
-      "venue": "Canada Life Centre",
-      "category": "date",
-      "url": "https://www.ticketmaster.ca/winnipeg-jets-vs-san-jose-sharks-winnipeg-manitoba-03-18-2027/event/11006505CB3FA943",
-      "source": "Ticketmaster",
-      "price": "Check organizer for pricing"
-    },
-    {
-      "id": "tm:1AoZkf6GkegInB9",
-      "title": "Manitoba Moose vs. Iowa Wild",
-      "date": "2027-03-19",
-      "time": "19:00",
-      "venue": "Canada Life Centre",
-      "category": "date",
-      "url": "https://www.ticketmaster.ca/manitoba-moose-vs-iowa-wild-winnipeg-manitoba-03-19-2027/event/11006507B5A2AE97",
-      "source": "Ticketmaster",
-      "price": "Check organizer for pricing"
-    },
-    {
-      "id": "tm:Z7r9jZ1A7JF8Z",
-      "title": "Manitoba Moose vs. Iowa Wild",
-      "date": "2027-03-19",
-      "time": "19:00",
-      "venue": "Canada Life Centre",
-      "category": "date",
-      "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7JF8Z",
-      "source": "Ticketmaster",
-      "price": "Check organizer for pricing"
-    },
-    {
-      "id": "tm:1AoZkfAGkd1YnxC",
-      "title": "Country Night | Winnipeg Jets vs. Columbus Blue Jackets",
-      "date": "2027-03-20",
       "time": "18:00",
-      "venue": "Canada Life Centre",
+      "venue": "Destination Dinner Stage",
       "category": "date",
-      "url": "https://www.ticketmaster.ca/country-night-winnipeg-jets-vs-columbus-winnipeg-manitoba-03-20-2027/event/11006505CAC2A88E",
-      "source": "Ticketmaster",
-      "price": "Check organizer for pricing"
-    },
-    {
-      "id": "tm:1Av7Z_oGkXUtIBu",
-      "title": "Theory of a Deadman: The Northern Chaos Tour",
-      "date": "2027-03-20",
-      "time": "20:00",
-      "venue": "Burton Cummings Theatre",
-      "category": "music",
-      "url": "https://www.ticketmaster.ca/theory-of-a-deadman-the-northern-winnipeg-manitoba-03-20-2027/event/1100651FB6A68E8D",
-      "source": "Ticketmaster",
-      "price": "Check organizer for pricing"
-    },
-    {
-      "id": "tm:rZ7HnEZ1Af0deK",
-      "title": "Death From Above 1979 - Private Lives Tour",
-      "date": "2027-03-20",
-      "time": "20:00",
-      "venue": "The Park Theatre",
-      "category": "music",
-      "url": "https://www.ticketweb.ca/event/death-from-above-1979-the-park-theatre-tickets/14903093",
-      "source": "Ticketmaster",
-      "price": "Check organizer for pricing"
-    },
-    {
-      "id": "tm:1AoZkf6Gkeg61Mf",
-      "title": "High School Moosical 2 | Manitoba Moose vs. Iowa Wild ",
-      "date": "2027-03-21",
-      "time": "14:00",
-      "venue": "Canada Life Centre",
-      "category": "date",
-      "url": "https://www.ticketmaster.ca/high-school-moosical-2-manitoba-moose-winnipeg-manitoba-03-21-2027/event/11006507B51CADD4",
-      "source": "Ticketmaster",
-      "price": "Check organizer for pricing"
-    },
-    {
-      "id": "tm:Z7r9jZ1A7JFCf",
-      "title": "Manitoba Moose vs. Iowa Wild",
-      "date": "2027-03-21",
-      "time": "14:00",
-      "venue": "Canada Life Centre",
-      "category": "date",
-      "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7JFCf",
-      "source": "Ticketmaster",
-      "price": "Check organizer for pricing"
-    },
-    {
-      "id": "tm:1AoZkfAGkd8tnTh",
-      "title": "Winnipeg Jets vs. St. Louis Blues",
-      "date": "2027-03-23",
-      "time": "19:00",
-      "venue": "Canada Life Centre",
-      "category": "date",
-      "url": "https://www.ticketmaster.ca/winnipeg-jets-vs-st-louis-blues-winnipeg-manitoba-03-23-2027/event/11006505D0A6AFDB",
-      "source": "Ticketmaster",
-      "price": "Check organizer for pricing"
-    },
-    {
-      "id": "tm:1778v0G65377VC5",
-      "title": "RuPaul's Drag Race Werq The World 2027 Tour",
-      "date": "2027-03-24",
-      "time": "20:00",
-      "venue": "Club Regent Event Centre",
-      "category": "date",
-      "url": "https://www.ticketmaster.ca/rupauls-drag-race-werq-the-world-winnipeg-manitoba-03-24-2027/event/110064B48413438B",
-      "source": "Ticketmaster",
-      "price": "Check organizer for pricing"
-    },
-    {
-      "id": "tm:1AoZkfAGkdaYnj4",
-      "title": "Winnipeg Jets vs. Colorado Avalanche",
-      "date": "2027-03-25",
-      "time": "19:00",
-      "venue": "Canada Life Centre",
-      "category": "date",
-      "url": "https://www.ticketmaster.ca/winnipeg-jets-vs-colorado-avalanche-winnipeg-manitoba-03-25-2027/event/11006505C9C2A715",
-      "source": "Ticketmaster",
-      "price": "Check organizer for pricing"
-    },
-    {
-      "id": "tm:rZ7HnEZ1AfuAaV",
-      "title": "Trivia Night Fundraiser: Manitoba Eco-Network",
-      "date": "2027-03-25",
-      "time": "19:00",
-      "venue": "Sidestage",
-      "category": "music",
-      "url": "https://www.ticketweb.ca/event/trivia-night-fundraiser-manitoba-eco-sidestage-tickets/14345274",
-      "source": "Ticketmaster",
-      "price": "Check organizer for pricing"
-    },
-    {
-      "id": "tm:rZ7HnEZ1A4vK8K",
-      "title": "The Hip Experience",
-      "date": "2027-03-31",
-      "time": "20:00",
-      "venue": "The Park Theatre",
-      "category": "music",
-      "url": "https://www.ticketweb.ca/event/the-hip-experience-the-park-theatre-tickets/15053413",
-      "source": "Ticketmaster",
-      "price": "Check organizer for pricing"
-    },
-    {
-      "id": "tm:1Av7Z_fGkU6fJM6",
-      "title": "Ruby Waters, Presented by Winnipeg Folk Festival",
-      "date": "2027-04-01",
-      "time": "20:00",
-      "venue": "Burton Cummings Theatre",
-      "category": "music",
-      "url": "https://www.ticketmaster.ca/ruby-waters-presented-by-winnipeg-folk-winnipeg-manitoba-04-01-2027/event/1100654D87526DC7",
-      "source": "Ticketmaster",
-      "price": "Check organizer for pricing"
-    },
-    {
-      "id": "tm:1Av7Z_3GknzIzmz",
-      "title": "Cirque Alice",
-      "date": "2027-04-03",
-      "time": "20:00",
-      "venue": "Burton Cummings Theatre",
-      "category": "date",
-      "url": "https://www.ticketmaster.ca/cirque-alice-winnipeg-manitoba-04-03-2027/event/1100652AB8A38BB8",
+      "url": "https://www.ticketmaster.ca/taylor-made-dreams-winnipeg-manitoba-03-13-2027/event/1100655DAFAC97EE",
       "source": "Ticketmaster",
       "price": "Check organizer for pricing"
     }

@@ -1,17 +1,6 @@
 {
-  "updated_at": "2026-10-31T12:38:42.226752+00:00",
+  "updated_at": "2026-10-31T18:33:27.635200+00:00",
   "events": [
-    {
-      "id": "tm:1778v0G61MeJBf9",
-      "title": "Manito Ahbee Festival 2026",
-      "date": "2026-10-31",
-      "time": "09:00",
-      "venue": "Canada Life Centre",
-      "category": "date",
-      "url": "https://www.ticketmaster.ca/manito-ahbee-festival-2026-winnipeg-manitoba-10-31-2026/event/110064ADC29BA517",
-      "source": "Ticketmaster",
-      "price": "Check organizer for pricing"
-    },
     {
       "id": "tm:rZ7HnEZ1AfqSPK",
       "title": "Free Throw & Microwave with Carly Cosgrove",
@@ -3309,6 +3298,17 @@
       "venue": "Canada Life Centre",
       "category": "music",
       "url": "https://www.ticketmaster.ca/the-red-clay-strays-winnipeg-manitoba-03-14-2027/event/1100653D79032F0A",
+      "source": "Ticketmaster",
+      "price": "Check organizer for pricing"
+    },
+    {
+      "id": "tm:1AoZkf6GkeM2hAo",
+      "title": "Manitoba Moose vs. Bakersfield Condors",
+      "date": "2027-03-16",
+      "time": "19:00",
+      "venue": "Canada Life Centre",
+      "category": "date",
+      "url": "https://www.ticketmaster.ca/manitoba-moose-vs-bakersfield-condors-winnipeg-manitoba-03-16-2027/event/11006507B73DB151",
       "source": "Ticketmaster",
       "price": "Check organizer for pricing"
     }

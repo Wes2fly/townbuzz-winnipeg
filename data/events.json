@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-31T00:47:28.967531+00:00",
+  "updated_at": "2026-10-31T06:40:52.402317+00:00",
   "events": [
     {
       "id": "tm:1778v0G61MeJBf9",
@@ -47,7 +47,7 @@
     },
     {
       "id": "tm:rZ7HnEZ1AfG7-0",
-      "title": "The Black Parade Halloween Emo Night Winnipeg at Park Theatre - Oct 31 2026 - 80% OF TICKETS SOLD",
+      "title": "The Black Parade Halloween Emo Night Winnipeg at Park Theatre - Oct 31 2026 - 95% OF TICKETS SOLD",
       "date": "2026-10-31",
       "time": "22:00",
       "venue": "The Park Theatre",
@@ -3287,6 +3287,28 @@
       "venue": "Burton Cummings Theatre",
       "category": "music",
       "url": "https://www.ticketmaster.ca/april-wine-winnipeg-manitoba-03-13-2027/event/11006528AF636DD7",
+      "source": "Ticketmaster",
+      "price": "Check organizer for pricing"
+    },
+    {
+      "id": "tm:1Av7Z_4GkURWt--",
+      "title": "Taylor Made Dreams",
+      "date": "2027-03-14",
+      "time": "17:00",
+      "venue": "Destination Dinner Stage",
+      "category": "date",
+      "url": "https://www.ticketmaster.ca/taylor-made-dreams-winnipeg-manitoba-03-14-2027/event/1100655DAFF69861",
+      "source": "Ticketmaster",
+      "price": "Check organizer for pricing"
+    },
+    {
+      "id": "tm:1Av7Z_KGkgyZwH1",
+      "title": "The Red Clay Strays",
+      "date": "2027-03-14",
+      "time": "19:00",
+      "venue": "Canada Life Centre",
+      "category": "music",
+      "url": "https://www.ticketmaster.ca/the-red-clay-strays-winnipeg-manitoba-03-14-2027/event/1100653D79032F0A",
       "source": "Ticketmaster",
       "price": "Check organizer for pricing"
     }

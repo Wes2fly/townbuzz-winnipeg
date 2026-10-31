@@ -1,39 +1,6 @@
 {
-  "updated_at": "2026-10-30T18:38:38.407954+00:00",
+  "updated_at": "2026-10-31T00:47:28.967531+00:00",
   "events": [
-    {
-      "id": "tm:1778v0G61MaAQR0",
-      "title": "Manito Ahbee Festival 2026 Weekend Pass",
-      "date": "2026-10-30",
-      "time": "",
-      "venue": "Canada Life Centre",
-      "category": "date",
-      "url": "https://www.ticketmaster.ca/manito-ahbee-festival-2026-weekend-pass-winnipeg-manitoba-10-30-2026/event/110064ADC915ABE4",
-      "source": "Ticketmaster",
-      "price": "Check organizer for pricing"
-    },
-    {
-      "id": "tm:1778v0G61MeJQf4",
-      "title": "Manito Ahbee Festival 2026",
-      "date": "2026-10-30",
-      "time": "18:00",
-      "venue": "Canada Life Centre",
-      "category": "date",
-      "url": "https://www.ticketmaster.ca/manito-ahbee-festival-2026-winnipeg-manitoba-10-30-2026/event/110064ADC299A515",
-      "source": "Ticketmaster",
-      "price": "Check organizer for pricing"
-    },
-    {
-      "id": "tm:rZ7HnEZ1AfG3A0",
-      "title": "*SOLD OUT* Misfits Tribute | Metallica Tribute | Witchtrip",
-      "date": "2026-10-30",
-      "time": "20:00",
-      "venue": "Sidestage",
-      "category": "music",
-      "url": "https://www.ticketweb.ca/event/sold-out-misfits-tribute-sidestage-tickets/14312164",
-      "source": "Ticketmaster",
-      "price": "Check organizer for pricing"
-    },
     {
       "id": "tm:1778v0G61MeJBf9",
       "title": "Manito Ahbee Festival 2026",
@@ -3309,6 +3276,17 @@
       "venue": "Destination Dinner Stage",
       "category": "date",
       "url": "https://www.ticketmaster.ca/taylor-made-dreams-winnipeg-manitoba-03-13-2027/event/1100655DAFAC97EE",
+      "source": "Ticketmaster",
+      "price": "Check organizer for pricing"
+    },
+    {
+      "id": "tm:1AoZkfIGkeRbUM9",
+      "title": "April Wine",
+      "date": "2027-03-13",
+      "time": "20:00",
+      "venue": "Burton Cummings Theatre",
+      "category": "music",
+      "url": "https://www.ticketmaster.ca/april-wine-winnipeg-manitoba-03-13-2027/event/11006528AF636DD7",
       "source": "Ticketmaster",
       "price": "Check organizer for pricing"
     }

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-02T00:48:40.475446+00:00",
+  "updated_at": "2026-11-02T07:09:50.553428+00:00",
   "events": [
     {
       "id": "tm:rZ7HnEZ1AfFy77",
@@ -3298,6 +3298,17 @@
       "venue": "Canada Life Centre",
       "category": "date",
       "url": "https://www.ticketmaster.ca/winnipeg-jets-vs-san-jose-sharks-winnipeg-manitoba-03-18-2027/event/11006505CB3FA943",
+      "source": "Ticketmaster",
+      "price": "Check organizer for pricing"
+    },
+    {
+      "id": "tm:1Av7Z_4GkUR1yqF",
+      "title": "Taylor Made Dreams",
+      "date": "2027-03-19",
+      "time": "18:00",
+      "venue": "Destination Dinner Stage",
+      "category": "date",
+      "url": "https://www.ticketmaster.ca/taylor-made-dreams-winnipeg-manitoba-03-19-2027/event/1100655DAF2B9748",
       "source": "Ticketmaster",
       "price": "Check organizer for pricing"
     }

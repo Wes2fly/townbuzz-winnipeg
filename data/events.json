@@ -1,36 +1,14 @@
 {
-  "updated_at": "2026-11-01T18:33:43.774770+00:00",
+  "updated_at": "2026-11-02T00:48:40.475446+00:00",
   "events": [
     {
-      "id": "tm:rZ7HnEZ1AfuwaV",
-      "title": "PRIVATE EVENT",
-      "date": "2026-11-01",
-      "time": "16:00",
-      "venue": "The Park Theatre",
-      "category": "date",
-      "url": "https://www.ticketweb.ca/event/private-event-the-park-theatre-tickets/14372274",
-      "source": "Ticketmaster",
-      "price": "Check organizer for pricing"
-    },
-    {
-      "id": "tm:rZ7HnEZ1AfG-OV",
-      "title": "Vitiate",
-      "date": "2026-11-01",
-      "time": "19:00",
-      "venue": "Sidestage",
-      "category": "music",
-      "url": "https://www.ticketweb.ca/event/vitiate-sidestage-tickets/14321834",
-      "source": "Ticketmaster",
-      "price": "Check organizer for pricing"
-    },
-    {
       "id": "tm:rZ7HnEZ1AfFy77",
-      "title": "C*NTRESSAS Canadian Tour",
+      "title": "**POSTPONING** C*NTRESSAS Canadian Tour",
       "date": "2026-11-02",
       "time": "19:00",
       "venue": "The Park Theatre",
       "category": "date",
-      "url": "https://www.ticketweb.ca/event/cntressas-canadian-tour-the-park-theatre-tickets/14239104",
+      "url": "https://www.ticketweb.ca/event/postponing-cntressas-canadian-tour-the-park-theatre-tickets/14239104",
       "source": "Ticketmaster",
       "price": "Check organizer for pricing"
     },
@@ -3309,6 +3287,17 @@
       "venue": "Destination Dinner Stage",
       "category": "date",
       "url": "https://www.ticketmaster.ca/taylor-made-dreams-winnipeg-manitoba-03-18-2027/event/1100655DAE0A95DA",
+      "source": "Ticketmaster",
+      "price": "Check organizer for pricing"
+    },
+    {
+      "id": "tm:1AoZkfAGkd52BPd",
+      "title": "Winnipeg Jets vs. San Jose Sharks",
+      "date": "2027-03-18",
+      "time": "19:00",
+      "venue": "Canada Life Centre",
+      "category": "date",
+      "url": "https://www.ticketmaster.ca/winnipeg-jets-vs-san-jose-sharks-winnipeg-manitoba-03-18-2027/event/11006505CB3FA943",
       "source": "Ticketmaster",
       "price": "Check organizer for pricing"
     }

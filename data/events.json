@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-02T12:53:44.202364+00:00",
+  "updated_at": "2026-11-02T18:49:43.029230+00:00",
   "events": [
     {
       "id": "tm:rZ7HnEZ1AfFy77",
@@ -1333,6 +1333,17 @@
       "price": "Check organizer for pricing"
     },
     {
+      "id": "tm:rZ7HnEZ1Af83fV",
+      "title": "We're Only Here For the Snacks",
+      "date": "2026-12-03",
+      "time": "18:30",
+      "venue": "Sidestage",
+      "category": "music",
+      "url": "https://www.ticketweb.ca/event/were-only-here-for-the-sidestage-tickets/14412534",
+      "source": "Ticketmaster",
+      "price": "Check organizer for pricing"
+    },
+    {
       "id": "tm:rZ7HnEZ1AfuEuV",
       "title": "Andrina Turenne and Friends",
       "date": "2026-12-03",
@@ -2554,6 +2565,17 @@
       "price": "Check organizer for pricing"
     },
     {
+      "id": "tm:1Av7Z_4GkgXjdIV",
+      "title": "Dreamer - The Supertramp Experience",
+      "date": "2027-02-12",
+      "time": "19:00",
+      "venue": "Club Regent Event Centre",
+      "category": "music",
+      "url": "https://www.ticketmaster.ca/dreamer-the-supertramp-experience-winnipeg-manitoba-02-12-2027/event/1100655D7E703A34",
+      "source": "Ticketmaster",
+      "price": "Check organizer for pricing"
+    },
+    {
       "id": "tm:1AoZkf6GkegeBUH",
       "title": "Moosequerade Ball | Manitoba Moose vs. Laval Rocket",
       "date": "2027-02-13",
@@ -2697,6 +2719,17 @@
       "price": "Check organizer for pricing"
     },
     {
+      "id": "tm:1Av7Z_4GkUe9fET",
+      "title": "The Legendary Life of Tom Petty featuring Clayton Bellamy",
+      "date": "2027-02-18",
+      "time": "19:00",
+      "venue": "Club Regent Event Centre",
+      "category": "music",
+      "url": "https://www.ticketmaster.ca/the-legendary-life-of-tom-petty-winnipeg-manitoba-02-18-2027/event/1100655D825D49FF",
+      "source": "Ticketmaster",
+      "price": "Check organizer for pricing"
+    },
+    {
       "id": "tm:Z7r9jZ1AAZfPp",
       "title": "Manitoba Moose vs. Milwaukee Admirals",
       "date": "2027-02-18",
@@ -2709,12 +2742,12 @@
     },
     {
       "id": "tm:rZ7HnEZ1AfuK47",
-      "title": "Heart and Stroke Foundation Fundraiser",
+      "title": "Grunge for Heart: A Heart & Stroke Foundation Benefit Concert",
       "date": "2027-02-18",
       "time": "19:00",
       "venue": "Sidestage",
       "category": "music",
-      "url": "https://www.ticketweb.ca/event/heart-and-stroke-foundation-fundraiser-sidestage-tickets/14353544",
+      "url": "https://www.ticketweb.ca/event/grunge-for-heart-a-heart-sidestage-tickets/14353544",
       "source": "Ticketmaster",
       "price": "Check organizer for pricing"
     },
@@ -3276,39 +3309,6 @@
       "venue": "Burton Cummings Theatre",
       "category": "music",
       "url": "https://www.ticketmaster.ca/tommy-emmanuel-cgp-w-very-special-winnipeg-manitoba-03-17-2027/event/110065356A041A68",
-      "source": "Ticketmaster",
-      "price": "Check organizer for pricing"
-    },
-    {
-      "id": "tm:1Av7Z_4GkUmet9Q",
-      "title": "Taylor Made Dreams",
-      "date": "2027-03-18",
-      "time": "18:00",
-      "venue": "Destination Dinner Stage",
-      "category": "date",
-      "url": "https://www.ticketmaster.ca/taylor-made-dreams-winnipeg-manitoba-03-18-2027/event/1100655DAE0A95DA",
-      "source": "Ticketmaster",
-      "price": "Check organizer for pricing"
-    },
-    {
-      "id": "tm:1AoZkfAGkd52BPd",
-      "title": "Winnipeg Jets vs. San Jose Sharks",
-      "date": "2027-03-18",
-      "time": "19:00",
-      "venue": "Canada Life Centre",
-      "category": "date",
-      "url": "https://www.ticketmaster.ca/winnipeg-jets-vs-san-jose-sharks-winnipeg-manitoba-03-18-2027/event/11006505CB3FA943",
-      "source": "Ticketmaster",
-      "price": "Check organizer for pricing"
-    },
-    {
-      "id": "tm:1Av7Z_4GkUR1yqF",
-      "title": "Taylor Made Dreams",
-      "date": "2027-03-19",
-      "time": "18:00",
-      "venue": "Destination Dinner Stage",
-      "category": "date",
-      "url": "https://www.ticketmaster.ca/taylor-made-dreams-winnipeg-manitoba-03-19-2027/event/1100655DAF2B9748",
       "source": "Ticketmaster",
       "price": "Check organizer for pricing"
     }

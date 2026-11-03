@@ -1,28 +1,6 @@
 {
-  "updated_at": "2026-11-02T18:49:43.029230+00:00",
+  "updated_at": "2026-11-03T00:48:30.139444+00:00",
   "events": [
-    {
-      "id": "tm:rZ7HnEZ1AfFy77",
-      "title": "**POSTPONING** C*NTRESSAS Canadian Tour",
-      "date": "2026-11-02",
-      "time": "19:00",
-      "venue": "The Park Theatre",
-      "category": "date",
-      "url": "https://www.ticketweb.ca/event/postponing-cntressas-canadian-tour-the-park-theatre-tickets/14239104",
-      "source": "Ticketmaster",
-      "price": "Check organizer for pricing"
-    },
-    {
-      "id": "tm:rZ7HnEZ1Afu007",
-      "title": "K-Man & the 45s | Josh & the Dirty Rags | GMH",
-      "date": "2026-11-02",
-      "time": "19:00",
-      "venue": "Sidestage",
-      "category": "music",
-      "url": "https://www.ticketweb.ca/event/k-man-the-45s-sidestage-tickets/14364904",
-      "source": "Ticketmaster",
-      "price": "Check organizer for pricing"
-    },
     {
       "id": "tm:1778v0G62h-puiC",
       "title": "Tyler Braden - Days Of Gold Tour",
@@ -1817,6 +1795,17 @@
       "price": "Check organizer for pricing"
     },
     {
+      "id": "tm:rZ7HnEZ1Af8fC7",
+      "title": "The Emo Nightmare Before Christmas Winnipeg at Park Theatre w/ DJ Liam Cormier - Dec 19 2026",
+      "date": "2026-12-19",
+      "time": "21:00",
+      "venue": "The Park Theatre",
+      "category": "music",
+      "url": "https://www.ticketweb.ca/event/the-emo-nightmare-before-christmas-the-park-theatre-tickets/14414384",
+      "source": "Ticketmaster",
+      "price": "Check organizer for pricing"
+    },
+    {
       "id": "tm:1778v0G6CXbrPHq",
       "title": "Grandpa's Home Alone",
       "date": "2026-12-20",
@@ -3298,17 +3287,6 @@
       "venue": "Canada Life Centre",
       "category": "date",
       "url": "https://www.ticketmaster.com/event/Z7r9jZ1AAZfPb",
-      "source": "Ticketmaster",
-      "price": "Check organizer for pricing"
-    },
-    {
-      "id": "tm:1k78vPupGA1vvtI",
-      "title": "Tommy Emmanuel, CGP w/ very special guest Molly Tuttle",
-      "date": "2027-03-17",
-      "time": "20:00",
-      "venue": "Burton Cummings Theatre",
-      "category": "music",
-      "url": "https://www.ticketmaster.ca/tommy-emmanuel-cgp-w-very-special-winnipeg-manitoba-03-17-2027/event/110065356A041A68",
       "source": "Ticketmaster",
       "price": "Check organizer for pricing"
     }

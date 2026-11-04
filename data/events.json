@@ -1,28 +1,6 @@
 {
-  "updated_at": "2026-11-03T18:42:06.783400+00:00",
+  "updated_at": "2026-11-04T00:48:59.237469+00:00",
   "events": [
-    {
-      "id": "tm:1778v0G62h-puiC",
-      "title": "Tyler Braden - Days Of Gold Tour",
-      "date": "2026-11-03",
-      "time": "19:00",
-      "venue": "PARK THEATRE",
-      "category": "music",
-      "url": "https://www.ticketmaster.ca/tyler-braden-days-of-gold-tour-winnipeg-manitoba-11-03-2026/event/110064F6E158DB0E",
-      "source": "Ticketmaster",
-      "price": "Check organizer for pricing"
-    },
-    {
-      "id": "tm:1778v0G61QtMDFl",
-      "title": "Allison Russell: In The Hour of Chaos Tour",
-      "date": "2026-11-03",
-      "time": "19:30",
-      "venue": "Burton Cummings Theatre",
-      "category": "music",
-      "url": "https://www.ticketmaster.ca/allison-russell-in-the-hour-of-winnipeg-manitoba-11-03-2026/event/110064A6A9DFB22B",
-      "source": "Ticketmaster",
-      "price": "Check organizer for pricing"
-    },
     {
       "id": "tm:1778v0G61B-qADy",
       "title": "Tracy and Martina: Live",
@@ -36,12 +14,12 @@
     },
     {
       "id": "tm:rZ7HnEZ1AfC8q0",
-      "title": "Women's + Non-Binary Open Mic Comedy",
+      "title": "FREE: Women's + Non-Binary Open Mic Comedy",
       "date": "2026-11-04",
       "time": "19:00",
       "venue": "Sidestage",
       "category": "music",
-      "url": "https://www.ticketweb.ca/event/womens-non-binary-open-sidestage-tickets/14390764",
+      "url": "https://www.ticketweb.ca/event/free-womens-non-binary-sidestage-tickets/14390764",
       "source": "Ticketmaster",
       "price": "Check organizer for pricing"
     },
@@ -3303,12 +3281,34 @@
     },
     {
       "id": "tm:1Av7Z_4GkB8jU6A",
-      "title": "Brent Butt - Comedy, Stories and Q & A",
+      "title": "An Evening with Brent Butt:  Comedy, Stories and Q & A",
       "date": "2027-03-13",
       "time": "19:00",
       "venue": "Club Regent Event Centre",
       "category": "date",
-      "url": "https://www.ticketmaster.ca/brent-butt-comedy-stories-and-q-winnipeg-manitoba-03-13-2027/event/1100655E907361C5",
+      "url": "https://www.ticketmaster.ca/an-evening-with-brent-butt-comedy-winnipeg-manitoba-03-13-2027/event/1100655E907361C5",
+      "source": "Ticketmaster",
+      "price": "Check organizer for pricing"
+    },
+    {
+      "id": "tm:1AoZkfIGkeRbUM9",
+      "title": "April Wine",
+      "date": "2027-03-13",
+      "time": "20:00",
+      "venue": "Burton Cummings Theatre",
+      "category": "music",
+      "url": "https://www.ticketmaster.ca/april-wine-winnipeg-manitoba-03-13-2027/event/11006528AF636DD7",
+      "source": "Ticketmaster",
+      "price": "Check organizer for pricing"
+    },
+    {
+      "id": "tm:1Av7Z_4GkURWt--",
+      "title": "Taylor Made Dreams",
+      "date": "2027-03-14",
+      "time": "17:00",
+      "venue": "Destination Dinner Stage",
+      "category": "date",
+      "url": "https://www.ticketmaster.ca/taylor-made-dreams-winnipeg-manitoba-03-14-2027/event/1100655DAFF69861",
       "source": "Ticketmaster",
       "price": "Check organizer for pricing"
     }

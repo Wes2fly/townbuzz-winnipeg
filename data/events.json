@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-05T00:51:33.298721+00:00",
+  "updated_at": "2026-11-05T07:02:46.960062+00:00",
   "events": [
     {
       "id": "tm:rZ7HnEZ1Afuwa0",
@@ -68,6 +68,17 @@
       "price": "Check organizer for pricing"
     },
     {
+      "id": "tm:rZ7HnEZ1AfxfuK",
+      "title": "*SOLD OUT* John Muirhead: The Never Ending Road Tour",
+      "date": "2026-11-06",
+      "time": "18:45",
+      "venue": "Sidestage",
+      "category": "music",
+      "url": "https://www.ticketweb.ca/event/sold-out-john-muirhead-the-sidestage-tickets/14894353",
+      "source": "Ticketmaster",
+      "price": "Check organizer for pricing"
+    },
+    {
       "id": "tm:1AoZkf6GkegiBBy",
       "title": "Manitoba Moose vs. Toronto Marlies",
       "date": "2026-11-06",
@@ -97,17 +108,6 @@
       "venue": "The Park Theatre",
       "category": "music",
       "url": "https://www.ticketweb.ca/event/fire-in-fall-the-park-theatre-tickets/14304474",
-      "source": "Ticketmaster",
-      "price": "Check organizer for pricing"
-    },
-    {
-      "id": "tm:rZ7HnEZ1AfxfuK",
-      "title": "*SOLD OUT* John Muirhead: The Never Ending Road Tour",
-      "date": "2026-11-06",
-      "time": "19:00",
-      "venue": "Sidestage",
-      "category": "music",
-      "url": "https://www.ticketweb.ca/event/sold-out-john-muirhead-the-sidestage-tickets/14894353",
       "source": "Ticketmaster",
       "price": "Check organizer for pricing"
     },
@@ -3298,6 +3298,17 @@
       "venue": "Destination Dinner Stage",
       "category": "date",
       "url": "https://www.ticketmaster.ca/taylor-made-dreams-winnipeg-manitoba-03-18-2027/event/1100655DAE0A95DA",
+      "source": "Ticketmaster",
+      "price": "Check organizer for pricing"
+    },
+    {
+      "id": "tm:1AoZkfAGkd52BPd",
+      "title": "Winnipeg Jets vs. San Jose Sharks",
+      "date": "2027-03-18",
+      "time": "19:00",
+      "venue": "Canada Life Centre",
+      "category": "date",
+      "url": "https://www.ticketmaster.ca/winnipeg-jets-vs-san-jose-sharks-winnipeg-manitoba-03-18-2027/event/11006505CB3FA943",
       "source": "Ticketmaster",
       "price": "Check organizer for pricing"
     }

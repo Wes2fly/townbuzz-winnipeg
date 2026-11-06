@@ -1,39 +1,6 @@
 {
-  "updated_at": "2026-11-05T18:46:47.442478+00:00",
+  "updated_at": "2026-11-06T00:52:50.706972+00:00",
   "events": [
-    {
-      "id": "tm:1778v0G6CXK64LY",
-      "title": "Grandpa's Home Alone",
-      "date": "2026-11-05",
-      "time": "18:00",
-      "venue": "Destination Dinner Stage",
-      "category": "date",
-      "url": "https://www.ticketmaster.ca/grandpas-home-alone-winnipeg-manitoba-11-05-2026/event/110064EF931D57F0",
-      "source": "Ticketmaster",
-      "price": "Check organizer for pricing"
-    },
-    {
-      "id": "tm:1AoZkfAGkd8m1TV",
-      "title": "Winnipeg Jets vs. Vancouver Canucks",
-      "date": "2026-11-05",
-      "time": "19:00",
-      "venue": "Canada Life Centre",
-      "category": "date",
-      "url": "https://www.ticketmaster.ca/winnipeg-jets-vs-vancouver-canucks-winnipeg-manitoba-11-05-2026/event/11006505D0B8AFF4",
-      "source": "Ticketmaster",
-      "price": "Check organizer for pricing"
-    },
-    {
-      "id": "tm:rZ7HnEZ1Afa3p7",
-      "title": "True Mountain Laurel with Dom & Jacob",
-      "date": "2026-11-05",
-      "time": "19:00",
-      "venue": "Sidestage",
-      "category": "music",
-      "url": "https://www.ticketweb.ca/event/true-mountain-laurel-with-dom-sidestage-tickets/14252584",
-      "source": "Ticketmaster",
-      "price": "Check organizer for pricing"
-    },
     {
       "id": "community:manitoba-museum-first-friday-2026-11-06",
       "title": "First Fridays at the Manitoba Museum",
@@ -3309,6 +3276,28 @@
       "venue": "Destination Dinner Stage",
       "category": "date",
       "url": "https://www.ticketmaster.ca/taylor-made-dreams-winnipeg-manitoba-03-14-2027/event/11006565711C1F66",
+      "source": "Ticketmaster",
+      "price": "Check organizer for pricing"
+    },
+    {
+      "id": "tm:1Av7Z_KGkgyZwH1",
+      "title": "The Red Clay Strays",
+      "date": "2027-03-14",
+      "time": "19:00",
+      "venue": "Canada Life Centre",
+      "category": "music",
+      "url": "https://www.ticketmaster.ca/the-red-clay-strays-winnipeg-manitoba-03-14-2027/event/1100653D79032F0A",
+      "source": "Ticketmaster",
+      "price": "Check organizer for pricing"
+    },
+    {
+      "id": "tm:1AoZkf6GkeM2hAo",
+      "title": "Manitoba Moose vs. Bakersfield Condors",
+      "date": "2027-03-16",
+      "time": "19:00",
+      "venue": "Canada Life Centre",
+      "category": "date",
+      "url": "https://www.ticketmaster.ca/manitoba-moose-vs-bakersfield-condors-winnipeg-manitoba-03-16-2027/event/11006507B73DB151",
       "source": "Ticketmaster",
       "price": "Check organizer for pricing"
     }

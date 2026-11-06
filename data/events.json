@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-06T00:52:50.706972+00:00",
+  "updated_at": "2026-11-06T07:01:44.994768+00:00",
   "events": [
     {
       "id": "community:manitoba-museum-first-friday-2026-11-06",
@@ -849,17 +849,6 @@
       "price": "Check organizer for pricing"
     },
     {
-      "id": "tm:rZ7HnEZ1Afu_aV",
-      "title": "Women Helping Women 2026",
-      "date": "2026-11-22",
-      "time": "17:00",
-      "venue": "The Park Theatre",
-      "category": "date",
-      "url": "https://www.ticketweb.ca/event/women-helping-women-2026-the-park-theatre-tickets/14359274",
-      "source": "Ticketmaster",
-      "price": "Check organizer for pricing"
-    },
-    {
       "id": "tm:rZ7HnEZ1Af84A7",
       "title": "Top Dog: A Competitive Improv Show",
       "date": "2026-11-22",
@@ -867,6 +856,17 @@
       "venue": "Sidestage",
       "category": "date",
       "url": "https://www.ticketweb.ca/event/top-dog-a-competitive-improv-sidestage-tickets/14415144",
+      "source": "Ticketmaster",
+      "price": "Check organizer for pricing"
+    },
+    {
+      "id": "tm:rZ7HnEZ1Afu_aV",
+      "title": "Women Helping Women 2026",
+      "date": "2026-11-22",
+      "time": "18:00",
+      "venue": "The Park Theatre",
+      "category": "date",
+      "url": "https://www.ticketweb.ca/event/women-helping-women-2026-the-park-theatre-tickets/14359274",
       "source": "Ticketmaster",
       "price": "Check organizer for pricing"
     },
@@ -3298,6 +3298,17 @@
       "venue": "Canada Life Centre",
       "category": "date",
       "url": "https://www.ticketmaster.ca/manitoba-moose-vs-bakersfield-condors-winnipeg-manitoba-03-16-2027/event/11006507B73DB151",
+      "source": "Ticketmaster",
+      "price": "Check organizer for pricing"
+    },
+    {
+      "id": "tm:Z7r9jZ1A7JFCb",
+      "title": "Manitoba Moose vs. Bakersfield Condors",
+      "date": "2027-03-16",
+      "time": "19:00",
+      "venue": "Canada Life Centre",
+      "category": "date",
+      "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7JFCb",
       "source": "Ticketmaster",
       "price": "Check organizer for pricing"
     }

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-07T00:48:50.153059+00:00",
+  "updated_at": "2026-11-07T06:46:29.965487+00:00",
   "events": [
     {
       "id": "tm:1Av7Z_oGkwLXH5b",
@@ -3265,6 +3265,39 @@
       "venue": "Canada Life Centre",
       "category": "date",
       "url": "https://www.ticketmaster.com/event/Z7r9jZ1AAZfPb",
+      "source": "Ticketmaster",
+      "price": "Check organizer for pricing"
+    },
+    {
+      "id": "tm:1k78vPupGA1vvtI",
+      "title": "Tommy Emmanuel, CGP w/ very special guest Molly Tuttle",
+      "date": "2027-03-17",
+      "time": "20:00",
+      "venue": "Burton Cummings Theatre",
+      "category": "music",
+      "url": "https://www.ticketmaster.ca/tommy-emmanuel-cgp-w-very-special-winnipeg-manitoba-03-17-2027/event/110065356A041A68",
+      "source": "Ticketmaster",
+      "price": "Check organizer for pricing"
+    },
+    {
+      "id": "tm:1Av7Z_4GkUmet9Q",
+      "title": "Taylor Made Dreams",
+      "date": "2027-03-18",
+      "time": "18:00",
+      "venue": "Destination Dinner Stage",
+      "category": "date",
+      "url": "https://www.ticketmaster.ca/taylor-made-dreams-winnipeg-manitoba-03-18-2027/event/1100655DAE0A95DA",
+      "source": "Ticketmaster",
+      "price": "Check organizer for pricing"
+    },
+    {
+      "id": "tm:1AoZkfAGkd52BPd",
+      "title": "Winnipeg Jets vs. San Jose Sharks",
+      "date": "2027-03-18",
+      "time": "19:00",
+      "venue": "Canada Life Centre",
+      "category": "date",
+      "url": "https://www.ticketmaster.ca/winnipeg-jets-vs-san-jose-sharks-winnipeg-manitoba-03-18-2027/event/11006505CB3FA943",
       "source": "Ticketmaster",
       "price": "Check organizer for pricing"
     }

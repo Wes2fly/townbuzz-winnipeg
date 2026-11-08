@@ -1,72 +1,6 @@
 {
-  "updated_at": "2026-11-07T18:34:18.969202+00:00",
+  "updated_at": "2026-11-08T00:48:39.153266+00:00",
   "events": [
-    {
-      "id": "tm:1778v0G6CXpggwa",
-      "title": "Grandpa's Home Alone",
-      "date": "2026-11-07",
-      "time": "18:00",
-      "venue": "Destination Dinner Stage",
-      "category": "date",
-      "url": "https://www.ticketmaster.ca/grandpas-home-alone-winnipeg-manitoba-11-07-2026/event/110064EF96D75C89",
-      "source": "Ticketmaster",
-      "price": "Check organizer for pricing"
-    },
-    {
-      "id": "tm:1AoZkf6Gkeg11MI",
-      "title": "Animal Rescue Night | Manitoba Moose vs. Toronto Marlies ",
-      "date": "2026-11-07",
-      "time": "18:00",
-      "venue": "Canada Life Centre",
-      "category": "date",
-      "url": "https://www.ticketmaster.ca/animal-rescue-night-manitoba-moose-vs-winnipeg-manitoba-11-07-2026/event/11006507B528ADE8",
-      "source": "Ticketmaster",
-      "price": "Check organizer for pricing"
-    },
-    {
-      "id": "tm:Z7r9jZ1AAZfPk",
-      "title": "Manitoba Moose vs. Toronto Marlies",
-      "date": "2026-11-07",
-      "time": "18:00",
-      "venue": "Canada Life Centre",
-      "category": "date",
-      "url": "https://www.ticketmaster.com/event/Z7r9jZ1AAZfPk",
-      "source": "Ticketmaster",
-      "price": "Check organizer for pricing"
-    },
-    {
-      "id": "tm:1Av7Z_kGkmoRJnQ",
-      "title": "Laura Ramoso: The Calm Down Tour",
-      "date": "2026-11-07",
-      "time": "19:00",
-      "venue": "Burton Cummings Theatre",
-      "category": "date",
-      "url": "https://www.ticketmaster.ca/laura-ramoso-the-calm-down-tour-winnipeg-manitoba-11-07-2026/event/1100646B91BE6A9A",
-      "source": "Ticketmaster",
-      "price": "Check organizer for pricing"
-    },
-    {
-      "id": "tm:rZ7HnEZ1AfuJ37",
-      "title": "Colour By Numbers | Nagi | Grotoko",
-      "date": "2026-11-07",
-      "time": "19:00",
-      "venue": "Sidestage",
-      "category": "music",
-      "url": "https://www.ticketweb.ca/event/colour-by-numbers-nagi-sidestage-tickets/14366484",
-      "source": "Ticketmaster",
-      "price": "Check organizer for pricing"
-    },
-    {
-      "id": "tm:16v7Z_3JaG7Y7p3",
-      "title": "2026 Manitoba Country Music Awards - Hosted by Clayton Bellamy",
-      "date": "2026-11-07",
-      "time": "20:00",
-      "venue": "Club Regent Event Centre",
-      "category": "music",
-      "url": "https://www.ticketmaster.ca/2026-manitoba-country-music-awards-hosted-winnipeg-manitoba-11-07-2026/event/1100652989C04592",
-      "source": "Ticketmaster",
-      "price": "Check organizer for pricing"
-    },
     {
       "id": "tm:1778v0G6CXbhPHa",
       "title": "Grandpa's Home Alone",
@@ -3298,6 +3232,50 @@
       "venue": "Canada Life Centre",
       "category": "date",
       "url": "https://www.ticketmaster.ca/manitoba-moose-vs-iowa-wild-winnipeg-manitoba-03-19-2027/event/11006507B5A2AE97",
+      "source": "Ticketmaster",
+      "price": "Check organizer for pricing"
+    },
+    {
+      "id": "tm:Z7r9jZ1A7JF8Z",
+      "title": "Manitoba Moose vs. Iowa Wild",
+      "date": "2027-03-19",
+      "time": "19:00",
+      "venue": "Canada Life Centre",
+      "category": "date",
+      "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7JF8Z",
+      "source": "Ticketmaster",
+      "price": "Check organizer for pricing"
+    },
+    {
+      "id": "tm:1AoZkfAGkd1YnxC",
+      "title": "Country Night | Winnipeg Jets vs. Columbus Blue Jackets",
+      "date": "2027-03-20",
+      "time": "18:00",
+      "venue": "Canada Life Centre",
+      "category": "date",
+      "url": "https://www.ticketmaster.ca/country-night-winnipeg-jets-vs-columbus-winnipeg-manitoba-03-20-2027/event/11006505CAC2A88E",
+      "source": "Ticketmaster",
+      "price": "Check organizer for pricing"
+    },
+    {
+      "id": "tm:1Av7Z_4GkURltLw",
+      "title": "Taylor Made Dreams",
+      "date": "2027-03-20",
+      "time": "18:00",
+      "venue": "Destination Dinner Stage",
+      "category": "date",
+      "url": "https://www.ticketmaster.ca/taylor-made-dreams-winnipeg-manitoba-03-20-2027/event/1100655DAFAE97F2",
+      "source": "Ticketmaster",
+      "price": "Check organizer for pricing"
+    },
+    {
+      "id": "tm:1Av7Z_oGkXUtIBu",
+      "title": "Theory of a Deadman: The Northern Chaos Tour",
+      "date": "2027-03-20",
+      "time": "20:00",
+      "venue": "Burton Cummings Theatre",
+      "category": "music",
+      "url": "https://www.ticketmaster.ca/theory-of-a-deadman-the-northern-winnipeg-manitoba-03-20-2027/event/1100651FB6A68E8D",
       "source": "Ticketmaster",
       "price": "Check organizer for pricing"
     }

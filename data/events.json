@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-09T12:58:32.300201+00:00",
+  "updated_at": "2026-11-09T18:48:26.074745+00:00",
   "events": [
     {
       "id": "tm:rZ7HnEZ1Afa6P7",
@@ -3115,6 +3115,17 @@
       "price": "Check organizer for pricing"
     },
     {
+      "id": "tm:1AoZk4NGkeRKp1S",
+      "title": "The Rankin Family - Together Again Tour",
+      "date": "2027-03-15",
+      "time": "19:30",
+      "venue": "Burton Cummings Theatre",
+      "category": "music",
+      "url": "https://www.ticketmaster.ca/the-rankin-family-together-again-tour-winnipeg-manitoba-03-15-2027/event/11006563AF4D62B3",
+      "source": "Ticketmaster",
+      "price": "Check organizer for pricing"
+    },
+    {
       "id": "tm:1AoZkf6GkeM2hAo",
       "title": "Manitoba Moose vs. Bakersfield Condors",
       "date": "2027-03-16",
@@ -3287,17 +3298,6 @@
       "venue": "Canada Life Centre",
       "category": "date",
       "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7JFCf",
-      "source": "Ticketmaster",
-      "price": "Check organizer for pricing"
-    },
-    {
-      "id": "tm:1av7Z_p4sFvZd8FA",
-      "title": "Taylor Made Dreams",
-      "date": "2027-03-21",
-      "time": "17:00",
-      "venue": "Destination Dinner Stage",
-      "category": "date",
-      "url": "https://www.ticketmaster.ca/taylor-made-dreams-winnipeg-manitoba-03-21-2027/event/1100656571201F74",
       "source": "Ticketmaster",
       "price": "Check organizer for pricing"
     }

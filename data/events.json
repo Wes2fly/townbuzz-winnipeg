@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-10T12:53:46.950641+00:00",
+  "updated_at": "2026-11-10T18:41:56.154081+00:00",
   "events": [
     {
       "id": "tm:1AoZkfAGkd8kBHs",
@@ -2114,6 +2114,17 @@
       "price": "Check organizer for pricing"
     },
     {
+      "id": "tm:1k78vP_bGAGLSmk",
+      "title": "NURSE JOHN: AGAINST MEDICAL ADVICE: READMITTED",
+      "date": "2027-01-24",
+      "time": "19:00",
+      "venue": "Burton Cummings Theatre",
+      "category": "date",
+      "url": "https://www.ticketmaster.ca/nurse-john-against-medical-advice-readmitted-winnipeg-manitoba-01-24-2027/event/110065658C7F3B86",
+      "source": "Ticketmaster",
+      "price": "Check organizer for pricing"
+    },
+    {
       "id": "tm:rZ7HnEZ1A4v3_N",
       "title": "Paradise on Fire | The Program | Until Defeat |",
       "date": "2027-01-28",
@@ -3287,17 +3298,6 @@
       "venue": "Canada Life Centre",
       "category": "date",
       "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7JFCf",
-      "source": "Ticketmaster",
-      "price": "Check organizer for pricing"
-    },
-    {
-      "id": "tm:1av7Z_p4sFvZd8FA",
-      "title": "Taylor Made Dreams",
-      "date": "2027-03-21",
-      "time": "17:00",
-      "venue": "Destination Dinner Stage",
-      "category": "date",
-      "url": "https://www.ticketmaster.ca/taylor-made-dreams-winnipeg-manitoba-03-21-2027/event/1100656571201F74",
       "source": "Ticketmaster",
       "price": "Check organizer for pricing"
     }

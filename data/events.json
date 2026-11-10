@@ -1,17 +1,6 @@
 {
-  "updated_at": "2026-11-09T18:48:26.074745+00:00",
+  "updated_at": "2026-11-10T00:49:33.758355+00:00",
   "events": [
-    {
-      "id": "tm:rZ7HnEZ1Afa6P7",
-      "title": "Sookram's Double Feature: The Mummy (1999) & Evil Dead 2",
-      "date": "2026-11-09",
-      "time": "17:30",
-      "venue": "The Park Theatre",
-      "category": "date",
-      "url": "https://www.ticketweb.ca/event/sookrams-double-feature-the-mummy-the-park-theatre-tickets/14247944",
-      "source": "Ticketmaster",
-      "price": "Check organizer for pricing"
-    },
     {
       "id": "tm:1AoZkfAGkd8kBHs",
       "title": "90s Night | Winnipeg Jets vs. New Jersey Devils",
@@ -3298,6 +3287,17 @@
       "venue": "Canada Life Centre",
       "category": "date",
       "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7JFCf",
+      "source": "Ticketmaster",
+      "price": "Check organizer for pricing"
+    },
+    {
+      "id": "tm:1av7Z_p4sFvZd8FA",
+      "title": "Taylor Made Dreams",
+      "date": "2027-03-21",
+      "time": "17:00",
+      "venue": "Destination Dinner Stage",
+      "category": "date",
+      "url": "https://www.ticketmaster.ca/taylor-made-dreams-winnipeg-manitoba-03-21-2027/event/1100656571201F74",
       "source": "Ticketmaster",
       "price": "Check organizer for pricing"
     }

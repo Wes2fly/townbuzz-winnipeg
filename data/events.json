@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-11T00:49:13.303763+00:00",
+  "updated_at": "2026-11-11T06:59:23.527288+00:00",
   "events": [
     {
       "id": "tm:1AoZkftGkdko_da",
@@ -1439,6 +1439,17 @@
       "venue": "Destination Dinner Stage",
       "category": "date",
       "url": "https://www.ticketmaster.ca/grandpas-home-alone-winnipeg-manitoba-12-17-2026/event/110064EF932C5818",
+      "source": "Ticketmaster",
+      "price": "Check organizer for pricing"
+    },
+    {
+      "id": "tm:rZ7HnEZ1Af8yC7",
+      "title": "Kissed by Fire - Evan James St Cyr - The Ryan Whiskeys",
+      "date": "2026-12-17",
+      "time": "19:00",
+      "venue": "Sidestage",
+      "category": "music",
+      "url": "https://www.ticketweb.ca/event/kissed-by-fire-sidestage-tickets/14439384",
       "source": "Ticketmaster",
       "price": "Check organizer for pricing"
     },
@@ -3276,6 +3287,17 @@
       "venue": "Canada Life Centre",
       "category": "date",
       "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7JFCf",
+      "source": "Ticketmaster",
+      "price": "Check organizer for pricing"
+    },
+    {
+      "id": "tm:1av7Z_p4sFvZd8FA",
+      "title": "Taylor Made Dreams",
+      "date": "2027-03-21",
+      "time": "17:00",
+      "venue": "Destination Dinner Stage",
+      "category": "date",
+      "url": "https://www.ticketmaster.ca/taylor-made-dreams-winnipeg-manitoba-03-21-2027/event/1100656571201F74",
       "source": "Ticketmaster",
       "price": "Check organizer for pricing"
     }

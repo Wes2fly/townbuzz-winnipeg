@@ -1,50 +1,6 @@
 {
-  "updated_at": "2026-11-10T18:41:56.154081+00:00",
+  "updated_at": "2026-11-11T00:49:13.303763+00:00",
   "events": [
-    {
-      "id": "tm:1AoZkfAGkd8kBHs",
-      "title": "90s Night | Winnipeg Jets vs. New Jersey Devils",
-      "date": "2026-11-10",
-      "time": "19:00",
-      "venue": "Canada Life Centre",
-      "category": "date",
-      "url": "https://www.ticketmaster.ca/90s-night-winnipeg-jets-vs-new-winnipeg-manitoba-11-10-2026/event/11006505D01BAF31",
-      "source": "Ticketmaster",
-      "price": "Check organizer for pricing"
-    },
-    {
-      "id": "tm:1AoZkftGkd7wIHb",
-      "title": "Arkells - The Between Us Tour",
-      "date": "2026-11-10",
-      "time": "19:00",
-      "venue": "Sidestage",
-      "category": "music",
-      "url": "https://www.ticketmaster.ca/arkells-the-between-us-tour-winnipeg-manitoba-11-10-2026/event/11006529C4CA8F18",
-      "source": "Ticketmaster",
-      "price": "Check organizer for pricing"
-    },
-    {
-      "id": "tm:rZ7HnEZ1Af1o0f",
-      "title": "Korpiklaani | Crimson Shadows",
-      "date": "2026-11-10",
-      "time": "19:00",
-      "venue": "The Park Theatre",
-      "category": "music",
-      "url": "https://www.ticketweb.ca/event/korpiklaani-crimson-shadows-the-park-theatre-tickets/14291914",
-      "source": "Ticketmaster",
-      "price": "Check organizer for pricing"
-    },
-    {
-      "id": "tm:rZ7HnEZ1AfG9Q7",
-      "title": "Arkells",
-      "date": "2026-11-10",
-      "time": "20:00",
-      "venue": "Sidestage",
-      "category": "music",
-      "url": "https://www.ticketweb.ca/event/arkells-sidestage-tickets/14317684",
-      "source": "Ticketmaster",
-      "price": "Check organizer for pricing"
-    },
     {
       "id": "tm:1AoZkftGkdko_da",
       "title": "Arkells - The Between Us Tour",
@@ -1278,6 +1234,17 @@
       "price": "Check organizer for pricing"
     },
     {
+      "id": "tm:rZ7HnEZ1Af8zf0",
+      "title": "Punk Rock Fundraiser Show for Sam",
+      "date": "2026-12-11",
+      "time": "19:00",
+      "venue": "Sidestage",
+      "category": "music",
+      "url": "https://www.ticketweb.ca/event/punk-rock-fundraiser-show-for-sidestage-tickets/14438524",
+      "source": "Ticketmaster",
+      "price": "Check organizer for pricing"
+    },
+    {
       "id": "tm:1Av7Z_fGkDFTxsl",
       "title": "JP Hoe Hoe Hoe, Presented by Winnipeg Folk Fest",
       "date": "2026-12-11",
@@ -2044,6 +2011,17 @@
       "venue": "Club Regent Event Centre",
       "category": "music",
       "url": "https://www.ticketmaster.ca/the-incredibly-hip-the-stoneheads-winnipeg-manitoba-01-16-2027/event/1100653D8A1F4DD7",
+      "source": "Ticketmaster",
+      "price": "Check organizer for pricing"
+    },
+    {
+      "id": "tm:rZ7HnEZ1Af8M00",
+      "title": "Bed of Roses - Bon Jovi Tribute, Renegade - Styx Tribute",
+      "date": "2027-01-16",
+      "time": "19:00",
+      "venue": "The Park Theatre",
+      "category": "music",
+      "url": "https://www.ticketweb.ca/event/bed-of-roses-the-park-theatre-tickets/14437924",
       "source": "Ticketmaster",
       "price": "Check organizer for pricing"
     },

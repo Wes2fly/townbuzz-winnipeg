@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-12T00:58:12.806451+00:00",
+  "updated_at": "2026-11-12T07:03:41.418748+00:00",
   "events": [
     {
       "id": "tm:1778v0G6CXKFALD",
@@ -728,6 +728,17 @@
       "price": "Check organizer for pricing"
     },
     {
+      "id": "tm:rZ7HnEZ1A4Z63d",
+      "title": "Protest the Hero Presented by Ninjacat Productions at the Pyramid Cabaret",
+      "date": "2026-11-26",
+      "time": "18:30",
+      "venue": "Pyramid Cabaret",
+      "category": "music",
+      "url": "https://www.ticketweb.ca/event/protest-the-hero-presented-by-pyramid-cabaret-tickets/15007483",
+      "source": "Ticketmaster",
+      "price": "Check organizer for pricing"
+    },
+    {
       "id": "tm:1778v0G6GCfTPc4",
       "title": "Folsom Prison Revisited - The Music - Story - Legend of Johnny Cash",
       "date": "2026-11-26",
@@ -746,17 +757,6 @@
       "venue": "PARK THEATRE",
       "category": "music",
       "url": "https://www.ticketmaster.ca/boy-golden-good-goddamn-another-tour-winnipeg-manitoba-11-26-2026/event/11006515A274BB4B",
-      "source": "Ticketmaster",
-      "price": "Check organizer for pricing"
-    },
-    {
-      "id": "tm:rZ7HnEZ1A4Z63d",
-      "title": "Protest the Hero Presented by Ninjacat Productions at the Pyramid Cabaret",
-      "date": "2026-11-26",
-      "time": "19:00",
-      "venue": "Pyramid Cabaret",
-      "category": "music",
-      "url": "https://www.ticketweb.ca/event/protest-the-hero-presented-by-pyramid-cabaret-tickets/15007483",
       "source": "Ticketmaster",
       "price": "Check organizer for pricing"
     },
@@ -3287,6 +3287,17 @@
       "venue": "The Park Theatre",
       "category": "music",
       "url": "https://www.ticketweb.ca/event/death-from-above-1979-the-park-theatre-tickets/14903093",
+      "source": "Ticketmaster",
+      "price": "Check organizer for pricing"
+    },
+    {
+      "id": "tm:1AoZkf6Gkeg61Mf",
+      "title": "High School Moosical 2 | Manitoba Moose vs. Iowa Wild ",
+      "date": "2027-03-21",
+      "time": "14:00",
+      "venue": "Canada Life Centre",
+      "category": "date",
+      "url": "https://www.ticketmaster.ca/high-school-moosical-2-manitoba-moose-winnipeg-manitoba-03-21-2027/event/11006507B51CADD4",
       "source": "Ticketmaster",
       "price": "Check organizer for pricing"
     }

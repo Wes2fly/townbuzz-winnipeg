@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-12T12:57:59.700907+00:00",
+  "updated_at": "2026-11-12T18:46:41.175542+00:00",
   "events": [
     {
       "id": "tm:1778v0G6CXKFALD",
@@ -2697,6 +2697,17 @@
       "price": "Check organizer for pricing"
     },
     {
+      "id": "tm:1Av7Z_pGknuQ0XY",
+      "title": "Phoebe Bridgers: The Lost Tour",
+      "date": "2027-02-23",
+      "time": "19:30",
+      "venue": "Canada Life Centre",
+      "category": "music",
+      "url": "https://www.ticketmaster.ca/phoebe-bridgers-the-lost-tour-winnipeg-manitoba-02-23-2027/event/1100656A8D6A4FB0",
+      "source": "Ticketmaster",
+      "price": "Check organizer for pricing"
+    },
+    {
       "id": "tm:1Av7Z_4GkUcTypB",
       "title": "Taylor Made Dreams",
       "date": "2027-02-25",
@@ -3287,17 +3298,6 @@
       "venue": "The Park Theatre",
       "category": "music",
       "url": "https://www.ticketweb.ca/event/death-from-above-1979-the-park-theatre-tickets/14903093",
-      "source": "Ticketmaster",
-      "price": "Check organizer for pricing"
-    },
-    {
-      "id": "tm:1AoZkf6Gkeg61Mf",
-      "title": "High School Moosical 2 | Manitoba Moose vs. Iowa Wild ",
-      "date": "2027-03-21",
-      "time": "14:00",
-      "venue": "Canada Life Centre",
-      "category": "date",
-      "url": "https://www.ticketmaster.ca/high-school-moosical-2-manitoba-moose-winnipeg-manitoba-03-21-2027/event/11006507B51CADD4",
       "source": "Ticketmaster",
       "price": "Check organizer for pricing"
     }

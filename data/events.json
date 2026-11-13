@@ -1,61 +1,6 @@
 {
-  "updated_at": "2026-11-12T18:46:41.175542+00:00",
+  "updated_at": "2026-11-13T00:54:37.821461+00:00",
   "events": [
-    {
-      "id": "tm:1778v0G6CXKFALD",
-      "title": "Grandpa's Home Alone",
-      "date": "2026-11-12",
-      "time": "18:00",
-      "venue": "Destination Dinner Stage",
-      "category": "date",
-      "url": "https://www.ticketmaster.ca/grandpas-home-alone-winnipeg-manitoba-11-12-2026/event/110064EF932057FB",
-      "source": "Ticketmaster",
-      "price": "Check organizer for pricing"
-    },
-    {
-      "id": "tm:rZ7HnEZ1AfGA70",
-      "title": "THA LINK  With special guests Gill T Heatbags + Kenzie Love",
-      "date": "2026-11-12",
-      "time": "18:00",
-      "venue": "The Park Theatre",
-      "category": "music",
-      "url": "https://www.ticketweb.ca/event/tha-link-with-special-the-park-theatre-tickets/14305124",
-      "source": "Ticketmaster",
-      "price": "Check organizer for pricing"
-    },
-    {
-      "id": "tm:1Av7Z_aGkBEf_98",
-      "title": "DEAN BRODY& THE REKLAWS - with Guest Nate Haller",
-      "date": "2026-11-12",
-      "time": "19:00",
-      "venue": "Club Regent Event Centre",
-      "category": "music",
-      "url": "https://www.ticketmaster.ca/dean-brody-the-reklaws-with-guest-winnipeg-manitoba-11-12-2026/event/1100649EA75195D0",
-      "source": "Ticketmaster",
-      "price": "Check organizer for pricing"
-    },
-    {
-      "id": "tm:rZ7HnEZ1AfCkP7",
-      "title": "Fantasy Life | A Begonia Drag Tribute Show",
-      "date": "2026-11-12",
-      "time": "19:30",
-      "venue": "Sidestage",
-      "category": "music",
-      "url": "https://www.ticketweb.ca/event/fantasy-life-a-begonia-sidestage-tickets/14386944",
-      "source": "Ticketmaster",
-      "price": "Check organizer for pricing"
-    },
-    {
-      "id": "tm:1178vP1bkbC8v2",
-      "title": "Arkells - The Between Us Tour",
-      "date": "2026-11-12",
-      "time": "20:00",
-      "venue": "Burton Cummings Theatre",
-      "category": "music",
-      "url": "https://www.ticketmaster.ca/arkells-the-between-us-tour-winnipeg-manitoba-11-12-2026/event/110065298198390E",
-      "source": "Ticketmaster",
-      "price": "Check organizer for pricing"
-    },
     {
       "id": "tm:1778v0G6CXpU4w5",
       "title": "Grandpa's Home Alone",
@@ -1113,6 +1058,17 @@
       "price": "Check organizer for pricing"
     },
     {
+      "id": "tm:1Av7Z_pGknMCzEZ",
+      "title": "Dinner and A Movie At The MET - Elf",
+      "date": "2026-12-06",
+      "time": "16:00",
+      "venue": "The Metropolitan Entertainment Centre",
+      "category": "date",
+      "url": "https://www.ticketmaster.ca/dinner-and-a-movie-at-the-winnipeg-manitoba-12-06-2026/event/1100656AB73B89C0",
+      "source": "Ticketmaster",
+      "price": "Check organizer for pricing"
+    },
+    {
       "id": "tm:1778v0G6CXbq4H4",
       "title": "Grandpa's Home Alone",
       "date": "2026-12-06",
@@ -1322,6 +1278,17 @@
       "price": "Check organizer for pricing"
     },
     {
+      "id": "tm:1Av7Z_pGknBdbwc",
+      "title": "Dinner and A Movie at The MET - Home Alone",
+      "date": "2026-12-13",
+      "time": "16:00",
+      "venue": "The Metropolitan Entertainment Centre",
+      "category": "date",
+      "url": "https://www.ticketmaster.ca/dinner-and-a-movie-at-the-winnipeg-manitoba-12-13-2026/event/1100656ABA0D8CAD",
+      "source": "Ticketmaster",
+      "price": "Check organizer for pricing"
+    },
+    {
       "id": "tm:1778v0G6CXbqgH_",
       "title": "Grandpa's Home Alone",
       "date": "2026-12-13",
@@ -1421,6 +1388,17 @@
       "price": "Check organizer for pricing"
     },
     {
+      "id": "tm:1Av7Z_pGknBzbU9",
+      "title": "Dinner and A Movie At The MET - National Lampoon's Christmas Vacation",
+      "date": "2026-12-17",
+      "time": "17:00",
+      "venue": "The Metropolitan Entertainment Centre",
+      "category": "date",
+      "url": "https://www.ticketmaster.ca/dinner-and-a-movie-at-the-winnipeg-manitoba-12-17-2026/event/1100656ABAE18D97",
+      "source": "Ticketmaster",
+      "price": "Check organizer for pricing"
+    },
+    {
       "id": "tm:1778v0G6CXK5AOb",
       "title": "Grandpa's Home Alone",
       "date": "2026-12-17",
@@ -1439,6 +1417,17 @@
       "venue": "Sidestage",
       "category": "music",
       "url": "https://www.ticketweb.ca/event/kissed-by-fire-evan-sidestage-tickets/14439384",
+      "source": "Ticketmaster",
+      "price": "Check organizer for pricing"
+    },
+    {
+      "id": "tm:1Av7Z_pGknDobMV",
+      "title": "Dinner and A Movie At The MET - It's A Wonderful Life",
+      "date": "2026-12-18",
+      "time": "17:00",
+      "venue": "The Metropolitan Entertainment Centre",
+      "category": "date",
+      "url": "https://www.ticketmaster.ca/dinner-and-a-movie-at-the-winnipeg-manitoba-12-18-2026/event/1100656ABB458DF4",
       "source": "Ticketmaster",
       "price": "Check organizer for pricing"
     },
@@ -3287,17 +3276,6 @@
       "venue": "Burton Cummings Theatre",
       "category": "music",
       "url": "https://www.ticketmaster.ca/theory-of-a-deadman-the-northern-winnipeg-manitoba-03-20-2027/event/1100651FB6A68E8D",
-      "source": "Ticketmaster",
-      "price": "Check organizer for pricing"
-    },
-    {
-      "id": "tm:rZ7HnEZ1Af0deK",
-      "title": "Death From Above 1979 - Private Lives Tour",
-      "date": "2027-03-20",
-      "time": "20:00",
-      "venue": "The Park Theatre",
-      "category": "music",
-      "url": "https://www.ticketweb.ca/event/death-from-above-1979-the-park-theatre-tickets/14903093",
       "source": "Ticketmaster",
       "price": "Check organizer for pricing"
     }

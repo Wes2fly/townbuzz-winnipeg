@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-13T00:54:37.821461+00:00",
+  "updated_at": "2026-11-13T07:01:22.943955+00:00",
   "events": [
     {
       "id": "tm:1778v0G6CXpU4w5",
@@ -3276,6 +3276,28 @@
       "venue": "Burton Cummings Theatre",
       "category": "music",
       "url": "https://www.ticketmaster.ca/theory-of-a-deadman-the-northern-winnipeg-manitoba-03-20-2027/event/1100651FB6A68E8D",
+      "source": "Ticketmaster",
+      "price": "Check organizer for pricing"
+    },
+    {
+      "id": "tm:rZ7HnEZ1Af0deK",
+      "title": "Death From Above 1979 - Private Lives Tour",
+      "date": "2027-03-20",
+      "time": "20:00",
+      "venue": "The Park Theatre",
+      "category": "music",
+      "url": "https://www.ticketweb.ca/event/death-from-above-1979-the-park-theatre-tickets/14903093",
+      "source": "Ticketmaster",
+      "price": "Check organizer for pricing"
+    },
+    {
+      "id": "tm:1AoZkf6Gkeg61Mf",
+      "title": "High School Moosical 2 | Manitoba Moose vs. Iowa Wild ",
+      "date": "2027-03-21",
+      "time": "14:00",
+      "venue": "Canada Life Centre",
+      "category": "date",
+      "url": "https://www.ticketmaster.ca/high-school-moosical-2-manitoba-moose-winnipeg-manitoba-03-21-2027/event/11006507B51CADD4",
       "source": "Ticketmaster",
       "price": "Check organizer for pricing"
     }

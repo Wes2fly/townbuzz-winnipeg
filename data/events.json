@@ -1,17 +1,6 @@
 {
-  "updated_at": "2026-11-14T12:39:20.501938+00:00",
+  "updated_at": "2026-11-14T18:35:17.346572+00:00",
   "events": [
-    {
-      "id": "tm:1778v0G62vRiwhV",
-      "title": "Disney On Ice presents Jump In!",
-      "date": "2026-11-14",
-      "time": "10:00",
-      "venue": "Canada Life Centre",
-      "category": "date",
-      "url": "https://www.ticketmaster.ca/disney-on-ice-presents-jump-in-winnipeg-manitoba-11-14-2026/event/110064F06FB326F4",
-      "source": "Ticketmaster",
-      "price": "Check organizer for pricing"
-    },
     {
       "id": "tm:1778v0G62vRmehX",
       "title": "Disney On Ice presents Jump In!",
@@ -3298,6 +3287,17 @@
       "venue": "Canada Life Centre",
       "category": "date",
       "url": "https://www.ticketmaster.ca/winnipeg-jets-vs-colorado-avalanche-winnipeg-manitoba-03-25-2027/event/11006505C9C2A715",
+      "source": "Ticketmaster",
+      "price": "Check organizer for pricing"
+    },
+    {
+      "id": "tm:rZ7HnEZ1AfuAaV",
+      "title": "Trivia Night Fundraiser: Manitoba Eco-Network",
+      "date": "2027-03-25",
+      "time": "19:00",
+      "venue": "Sidestage",
+      "category": "music",
+      "url": "https://www.ticketweb.ca/event/trivia-night-fundraiser-manitoba-eco-sidestage-tickets/14345274",
       "source": "Ticketmaster",
       "price": "Check organizer for pricing"
     }

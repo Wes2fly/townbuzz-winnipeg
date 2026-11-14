@@ -1,83 +1,6 @@
 {
-  "updated_at": "2026-11-13T18:45:06.706637+00:00",
+  "updated_at": "2026-11-14T00:49:28.091973+00:00",
   "events": [
-    {
-      "id": "tm:1778v0G6CXpU4w5",
-      "title": "Grandpa's Home Alone",
-      "date": "2026-11-13",
-      "time": "18:00",
-      "venue": "Destination Dinner Stage",
-      "category": "date",
-      "url": "https://www.ticketmaster.ca/grandpas-home-alone-winnipeg-manitoba-11-13-2026/event/110064EF96D95C8B",
-      "source": "Ticketmaster",
-      "price": "Check organizer for pricing"
-    },
-    {
-      "id": "tm:1778v0G62vRlwhJ",
-      "title": "Disney On Ice presents Jump In!",
-      "date": "2026-11-13",
-      "time": "19:00",
-      "venue": "Canada Life Centre",
-      "category": "date",
-      "url": "https://www.ticketmaster.ca/disney-on-ice-presents-jump-in-winnipeg-manitoba-11-13-2026/event/110064F06FAF26E6",
-      "source": "Ticketmaster",
-      "price": "Check organizer for pricing"
-    },
-    {
-      "id": "tm:1Av7Z_aGkBE4a99",
-      "title": "DEAN BRODY& THE REKLAWS - with Guest Nate Haller",
-      "date": "2026-11-13",
-      "time": "19:00",
-      "venue": "Club Regent Event Centre",
-      "category": "music",
-      "url": "https://www.ticketmaster.ca/dean-brody-the-reklaws-with-guest-winnipeg-manitoba-11-13-2026/event/1100649EA75495D7",
-      "source": "Ticketmaster",
-      "price": "Check organizer for pricing"
-    },
-    {
-      "id": "tm:Z7r9jZ1AAZ_G8",
-      "title": "All-4-One",
-      "date": "2026-11-13",
-      "time": "19:00",
-      "venue": "Centennial Concert Hall",
-      "category": "music",
-      "url": "https://www.ticketmaster.ca/event/Z7r9jZ1AAZ_G8",
-      "source": "Ticketmaster",
-      "price": "Check organizer for pricing"
-    },
-    {
-      "id": "tm:rZ7HnEZ1AfepAf",
-      "title": "Made in California - 2",
-      "date": "2026-11-13",
-      "time": "19:00",
-      "venue": "The Park Theatre",
-      "category": "music",
-      "url": "https://www.ticketweb.ca/event/made-in-california-the-park-theatre-tickets/14096154",
-      "source": "Ticketmaster",
-      "price": "Check organizer for pricing"
-    },
-    {
-      "id": "tm:rZ7HnEZ1AfuJp7",
-      "title": "Emo Noite | Cover Bands",
-      "date": "2026-11-13",
-      "time": "19:30",
-      "venue": "Sidestage",
-      "category": "music",
-      "url": "https://www.ticketweb.ca/event/emo-noite-cover-bands-sidestage-tickets/14366584",
-      "source": "Ticketmaster",
-      "price": "Check organizer for pricing"
-    },
-    {
-      "id": "tm:1Av7Z_AGkcOloTA",
-      "title": "Begonia - The Fantasy Life Tour",
-      "date": "2026-11-13",
-      "time": "20:00",
-      "venue": "Burton Cummings Theatre",
-      "category": "music",
-      "url": "https://www.ticketmaster.ca/begonia-the-fantasy-life-tour-winnipeg-manitoba-11-13-2026/event/1100645B60AD1FC5",
-      "source": "Ticketmaster",
-      "price": "Check organizer for pricing"
-    },
     {
       "id": "tm:1778v0G62vRiwhV",
       "title": "Disney On Ice presents Jump In!",
@@ -1600,7 +1523,7 @@
       "id": "tm:1AoZkfAGkdALBFq",
       "title": "Winnipeg Jets vs. San Jose Sharks",
       "date": "2026-12-28",
-      "time": "19:30",
+      "time": "19:00",
       "venue": "Canada Life Centre",
       "category": "date",
       "url": "https://www.ticketmaster.ca/winnipeg-jets-vs-san-jose-sharks-winnipeg-manitoba-12-28-2026/event/11006505C57FA21D",
@@ -1692,6 +1615,17 @@
       "venue": "Club Regent Event Centre",
       "category": "music",
       "url": "https://www.ticketmaster.ca/streetheart-winnipeg-manitoba-12-31-2026/event/110065298E5C4AC3",
+      "source": "Ticketmaster",
+      "price": "Check organizer for pricing"
+    },
+    {
+      "id": "tm:rZ7HnEZ1Afo6F0",
+      "title": "NYE at Sidestage w/ Vapour Trails",
+      "date": "2026-12-31",
+      "time": "20:00",
+      "venue": "Sidestage",
+      "category": "music",
+      "url": "https://www.ticketweb.ca/event/nye-at-sidestage-w-vapour-sidestage-tickets/14447224",
       "source": "Ticketmaster",
       "price": "Check organizer for pricing"
     },
@@ -2051,7 +1985,7 @@
       "id": "tm:1AoZkfAGkd85QW5",
       "title": "Winnipeg Jets vs. Minnesota Wild",
       "date": "2027-01-19",
-      "time": "19:00",
+      "time": "19:30",
       "venue": "Canada Life Centre",
       "category": "date",
       "url": "https://www.ticketmaster.ca/winnipeg-jets-vs-minnesota-wild-winnipeg-manitoba-01-19-2027/event/11006505D02DAF4B",
@@ -3298,6 +3232,28 @@
       "venue": "Canada Life Centre",
       "category": "date",
       "url": "https://www.ticketmaster.ca/high-school-moosical-2-manitoba-moose-winnipeg-manitoba-03-21-2027/event/11006507B51CADD4",
+      "source": "Ticketmaster",
+      "price": "Check organizer for pricing"
+    },
+    {
+      "id": "tm:Z7r9jZ1A7JFCf",
+      "title": "Manitoba Moose vs. Iowa Wild",
+      "date": "2027-03-21",
+      "time": "14:00",
+      "venue": "Canada Life Centre",
+      "category": "date",
+      "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7JFCf",
+      "source": "Ticketmaster",
+      "price": "Check organizer for pricing"
+    },
+    {
+      "id": "tm:1av7Z_p4sFvZd8FA",
+      "title": "Taylor Made Dreams",
+      "date": "2027-03-21",
+      "time": "17:00",
+      "venue": "Destination Dinner Stage",
+      "category": "date",
+      "url": "https://www.ticketmaster.ca/taylor-made-dreams-winnipeg-manitoba-03-21-2027/event/1100656571201F74",
       "source": "Ticketmaster",
       "price": "Check organizer for pricing"
     }

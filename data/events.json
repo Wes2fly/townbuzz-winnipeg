@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-14T00:49:28.091973+00:00",
+  "updated_at": "2026-11-14T06:49:51.127332+00:00",
   "events": [
     {
       "id": "tm:1778v0G62vRiwhV",
@@ -3254,6 +3254,50 @@
       "venue": "Destination Dinner Stage",
       "category": "date",
       "url": "https://www.ticketmaster.ca/taylor-made-dreams-winnipeg-manitoba-03-21-2027/event/1100656571201F74",
+      "source": "Ticketmaster",
+      "price": "Check organizer for pricing"
+    },
+    {
+      "id": "tm:1AoZkfAGkd8tnTh",
+      "title": "Winnipeg Jets vs. St. Louis Blues",
+      "date": "2027-03-23",
+      "time": "19:00",
+      "venue": "Canada Life Centre",
+      "category": "date",
+      "url": "https://www.ticketmaster.ca/winnipeg-jets-vs-st-louis-blues-winnipeg-manitoba-03-23-2027/event/11006505D0A6AFDB",
+      "source": "Ticketmaster",
+      "price": "Check organizer for pricing"
+    },
+    {
+      "id": "tm:1778v0G65377VC5",
+      "title": "RuPaul's Drag Race Werq The World 2027 Tour",
+      "date": "2027-03-24",
+      "time": "20:00",
+      "venue": "Club Regent Event Centre",
+      "category": "date",
+      "url": "https://www.ticketmaster.ca/rupauls-drag-race-werq-the-world-winnipeg-manitoba-03-24-2027/event/110064B48413438B",
+      "source": "Ticketmaster",
+      "price": "Check organizer for pricing"
+    },
+    {
+      "id": "tm:1Av7Z_4GkUmd_9r",
+      "title": "Taylor Made Dreams",
+      "date": "2027-03-25",
+      "time": "18:00",
+      "venue": "Destination Dinner Stage",
+      "category": "date",
+      "url": "https://www.ticketmaster.ca/taylor-made-dreams-winnipeg-manitoba-03-25-2027/event/1100655DAE0D95DE",
+      "source": "Ticketmaster",
+      "price": "Check organizer for pricing"
+    },
+    {
+      "id": "tm:1AoZkfAGkdaYnj4",
+      "title": "Winnipeg Jets vs. Colorado Avalanche",
+      "date": "2027-03-25",
+      "time": "19:00",
+      "venue": "Canada Life Centre",
+      "category": "date",
+      "url": "https://www.ticketmaster.ca/winnipeg-jets-vs-colorado-avalanche-winnipeg-manitoba-03-25-2027/event/11006505C9C2A715",
       "source": "Ticketmaster",
       "price": "Check organizer for pricing"
     }

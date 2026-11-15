@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-15T12:40:51.456430+00:00",
+  "updated_at": "2026-11-15T18:36:55.942465+00:00",
   "events": [
     {
       "id": "community:wag-free-sunday-2026-11-15",
@@ -11,17 +11,6 @@
       "url": "https://www.wag.ca/events/signature-events/canada-life-free-sundays/",
       "source": "WAG-Qaumajuq",
       "price": "Free admission"
-    },
-    {
-      "id": "tm:1778v0G62vRRwj4",
-      "title": "Disney On Ice presents Jump In!",
-      "date": "2026-11-15",
-      "time": "10:00",
-      "venue": "Canada Life Centre",
-      "category": "date",
-      "url": "https://www.ticketmaster.ca/disney-on-ice-presents-jump-in-winnipeg-manitoba-11-15-2026/event/110064F06FBF2715",
-      "source": "Ticketmaster",
-      "price": "Check organizer for pricing"
     },
     {
       "id": "tm:1778v0G62vRYxj_",
@@ -3298,6 +3287,17 @@
       "venue": "Burton Cummings Theatre",
       "category": "date",
       "url": "https://www.ticketmaster.ca/cirque-alice-winnipeg-manitoba-04-04-2027/event/1100652AB8A68BBD",
+      "source": "Ticketmaster",
+      "price": "Check organizer for pricing"
+    },
+    {
+      "id": "tm:1av7Z_p4sFsZd8FF",
+      "title": "Taylor Made Dreams",
+      "date": "2027-04-04",
+      "time": "17:00",
+      "venue": "Destination Dinner Stage",
+      "category": "date",
+      "url": "https://www.ticketmaster.ca/taylor-made-dreams-winnipeg-manitoba-04-04-2027/event/1100656571231F77",
       "source": "Ticketmaster",
       "price": "Check organizer for pricing"
     }

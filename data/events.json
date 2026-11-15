@@ -1,105 +1,6 @@
 {
-  "updated_at": "2026-11-14T18:35:17.346572+00:00",
+  "updated_at": "2026-11-15T00:49:54.273277+00:00",
   "events": [
-    {
-      "id": "tm:1778v0G62vRmehX",
-      "title": "Disney On Ice presents Jump In!",
-      "date": "2026-11-14",
-      "time": "14:00",
-      "venue": "Canada Life Centre",
-      "category": "date",
-      "url": "https://www.ticketmaster.ca/disney-on-ice-presents-jump-in-winnipeg-manitoba-11-14-2026/event/110064F06FB826FE",
-      "source": "Ticketmaster",
-      "price": "Check organizer for pricing"
-    },
-    {
-      "id": "tm:1778v0G62vRRejo",
-      "title": "Disney On Ice presents Jump In!",
-      "date": "2026-11-14",
-      "time": "18:00",
-      "venue": "Canada Life Centre",
-      "category": "date",
-      "url": "https://www.ticketmaster.ca/disney-on-ice-presents-jump-in-winnipeg-manitoba-11-14-2026/event/110064F06FBC2711",
-      "source": "Ticketmaster",
-      "price": "Check organizer for pricing"
-    },
-    {
-      "id": "tm:1778v0G6CXpMAw2",
-      "title": "Grandpa's Home Alone",
-      "date": "2026-11-14",
-      "time": "18:00",
-      "venue": "Destination Dinner Stage",
-      "category": "date",
-      "url": "https://www.ticketmaster.ca/grandpas-home-alone-winnipeg-manitoba-11-14-2026/event/110064EF96DC5C8F",
-      "source": "Ticketmaster",
-      "price": "Check organizer for pricing"
-    },
-    {
-      "id": "tm:rZ7HnEZ1AfGPQ7",
-      "title": "Stiletto Studios Presents 'London Calling'",
-      "date": "2026-11-14",
-      "time": "18:00",
-      "venue": "The Park Theatre",
-      "category": "date",
-      "url": "https://www.ticketweb.ca/event/stiletto-studios-presents-london-calling-the-park-theatre-tickets/14325684",
-      "source": "Ticketmaster",
-      "price": "Check organizer for pricing"
-    },
-    {
-      "id": "tm:rZ7HnEZ1A4ZSGS",
-      "title": "Exhumed | Jarhead Fertilizer | Savage Master | Molder",
-      "date": "2026-11-14",
-      "time": "18:30",
-      "venue": "Sidestage",
-      "category": "music",
-      "url": "https://www.ticketweb.ca/event/exhumed-jarhead-fertilizer-sidestage-tickets/15033333",
-      "source": "Ticketmaster",
-      "price": "Check organizer for pricing"
-    },
-    {
-      "id": "tm:Z7r9jZ1A7r_qY",
-      "title": "Jimmy Carr",
-      "date": "2026-11-14",
-      "time": "19:00",
-      "venue": "Centennial Concert Hall",
-      "category": "date",
-      "url": "https://www.ticketmaster.ca/event/Z7r9jZ1A7r_qY",
-      "source": "Ticketmaster",
-      "price": "Check organizer for pricing"
-    },
-    {
-      "id": "tm:1Av7Z_kGkRZLW1c",
-      "title": "Begonia - The Fantasy Life Tour",
-      "date": "2026-11-14",
-      "time": "20:00",
-      "venue": "Burton Cummings Theatre",
-      "category": "music",
-      "url": "https://www.ticketmaster.ca/begonia-the-fantasy-life-tour-winnipeg-manitoba-11-14-2026/event/1100646BC07FD2AD",
-      "source": "Ticketmaster",
-      "price": "Check organizer for pricing"
-    },
-    {
-      "id": "tm:rZ7HnEZ1A4v7bd",
-      "title": "Heated Rivalry Dance Party Winnipeg at Park Theatre - Nov 14 2026",
-      "date": "2026-11-14",
-      "time": "21:00",
-      "venue": "The Park Theatre",
-      "category": "music",
-      "url": "https://www.ticketweb.ca/event/heated-rivalry-dance-party-winnipeg-the-park-theatre-tickets/15044603",
-      "source": "Ticketmaster",
-      "price": "Check organizer for pricing"
-    },
-    {
-      "id": "tm:Z7r9jZ1AAZda_",
-      "title": "Jimmy Carr",
-      "date": "2026-11-14",
-      "time": "21:30",
-      "venue": "Centennial Concert Hall",
-      "category": "date",
-      "url": "https://www.ticketmaster.ca/event/Z7r9jZ1AAZda_",
-      "source": "Ticketmaster",
-      "price": "Check organizer for pricing"
-    },
     {
       "id": "community:wag-free-sunday-2026-11-15",
       "title": "Canada Life Free Sunday at WAG-Qaumajuq",
@@ -3298,6 +3199,61 @@
       "venue": "Sidestage",
       "category": "music",
       "url": "https://www.ticketweb.ca/event/trivia-night-fundraiser-manitoba-eco-sidestage-tickets/14345274",
+      "source": "Ticketmaster",
+      "price": "Check organizer for pricing"
+    },
+    {
+      "id": "tm:1Av7Z_4GkURiaLV",
+      "title": "Taylor Made Dreams",
+      "date": "2027-03-27",
+      "time": "18:00",
+      "venue": "Destination Dinner Stage",
+      "category": "date",
+      "url": "https://www.ticketmaster.ca/taylor-made-dreams-winnipeg-manitoba-03-27-2027/event/1100655DAFB097F4",
+      "source": "Ticketmaster",
+      "price": "Check organizer for pricing"
+    },
+    {
+      "id": "tm:1AoZk4JGkenj9vg",
+      "title": "Melissa Etheridge - Rise Again 2027",
+      "date": "2027-03-30",
+      "time": "20:00",
+      "venue": "Burton Cummings Theatre",
+      "category": "music",
+      "url": "https://www.ticketmaster.ca/melissa-etheridge-rise-again-2027-winnipeg-manitoba-03-30-2027/event/11006566AA717075",
+      "source": "Ticketmaster",
+      "price": "Check organizer for pricing"
+    },
+    {
+      "id": "tm:rZ7HnEZ1A4vK8K",
+      "title": "The Hip Experience",
+      "date": "2027-03-31",
+      "time": "20:00",
+      "venue": "The Park Theatre",
+      "category": "music",
+      "url": "https://www.ticketweb.ca/event/the-hip-experience-the-park-theatre-tickets/15053413",
+      "source": "Ticketmaster",
+      "price": "Check organizer for pricing"
+    },
+    {
+      "id": "tm:1Av7Z_4GkUm7a9N",
+      "title": "Taylor Made Dreams",
+      "date": "2027-04-01",
+      "time": "18:00",
+      "venue": "Destination Dinner Stage",
+      "category": "date",
+      "url": "https://www.ticketmaster.ca/taylor-made-dreams-winnipeg-manitoba-04-01-2027/event/1100655DAE1095E3",
+      "source": "Ticketmaster",
+      "price": "Check organizer for pricing"
+    },
+    {
+      "id": "tm:1Av7Z_fGkU6fJM6",
+      "title": "Ruby Waters, Presented by Winnipeg Folk Festival",
+      "date": "2027-04-01",
+      "time": "20:00",
+      "venue": "Burton Cummings Theatre",
+      "category": "music",
+      "url": "https://www.ticketmaster.ca/ruby-waters-presented-by-winnipeg-folk-winnipeg-manitoba-04-01-2027/event/1100654D87526DC7",
       "source": "Ticketmaster",
       "price": "Check organizer for pricing"
     }

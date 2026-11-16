@@ -1,72 +1,6 @@
 {
-  "updated_at": "2026-11-15T18:36:55.942465+00:00",
+  "updated_at": "2026-11-16T01:06:45.581947+00:00",
   "events": [
-    {
-      "id": "community:wag-free-sunday-2026-11-15",
-      "title": "Canada Life Free Sunday at WAG-Qaumajuq",
-      "date": "2026-11-15",
-      "time": "",
-      "venue": "WAG-Qaumajuq, 300 Memorial Boulevard",
-      "category": "free",
-      "url": "https://www.wag.ca/events/signature-events/canada-life-free-sundays/",
-      "source": "WAG-Qaumajuq",
-      "price": "Free admission"
-    },
-    {
-      "id": "tm:1778v0G62vRYxj_",
-      "title": "Disney On Ice presents Jump In!",
-      "date": "2026-11-15",
-      "time": "14:00",
-      "venue": "Canada Life Centre",
-      "category": "date",
-      "url": "https://www.ticketmaster.ca/disney-on-ice-presents-jump-in-winnipeg-manitoba-11-15-2026/event/110064F06FC22719",
-      "source": "Ticketmaster",
-      "price": "Check organizer for pricing"
-    },
-    {
-      "id": "tm:rZ7HnEZ1Afuw17",
-      "title": "PRIVATE EVENT",
-      "date": "2026-11-15",
-      "time": "16:00",
-      "venue": "The Park Theatre",
-      "category": "date",
-      "url": "https://www.ticketweb.ca/event/private-event-the-park-theatre-tickets/14372284",
-      "source": "Ticketmaster",
-      "price": "Check organizer for pricing"
-    },
-    {
-      "id": "tm:1778v0G62vRs3jN",
-      "title": "Disney On Ice presents Jump In!",
-      "date": "2026-11-15",
-      "time": "18:00",
-      "venue": "Canada Life Centre",
-      "category": "date",
-      "url": "https://www.ticketmaster.ca/disney-on-ice-presents-jump-in-winnipeg-manitoba-11-15-2026/event/110064F06FC52723",
-      "source": "Ticketmaster",
-      "price": "Check organizer for pricing"
-    },
-    {
-      "id": "tm:rZ7HnEZ1Afatp7",
-      "title": "Psycroptic | Inferi | Cognitive | Summoning the Lich",
-      "date": "2026-11-15",
-      "time": "18:00",
-      "venue": "Sidestage",
-      "category": "music",
-      "url": "https://www.ticketweb.ca/event/psycroptic-inferi-cognitive-sidestage-tickets/14269584",
-      "source": "Ticketmaster",
-      "price": "Check organizer for pricing"
-    },
-    {
-      "id": "tm:1Av7Z_FGkgzRwlS",
-      "title": "Nurse Blake - But Did You Die ? Comedy Tour",
-      "date": "2026-11-15",
-      "time": "19:00",
-      "venue": "Club Regent Event Centre",
-      "category": "date",
-      "url": "https://www.ticketmaster.ca/nurse-blake-but-did-you-die-winnipeg-manitoba-11-15-2026/event/1100648D78BF2AF3",
-      "source": "Ticketmaster",
-      "price": "Check organizer for pricing"
-    },
     {
       "id": "tm:rZ7HnEZ1AfCZ_0",
       "title": "Amby | Earth Angel | Diaphanie | Fu Fu Chi Chi Choir",
@@ -1571,6 +1505,17 @@
       "venue": "Club Regent Event Centre",
       "category": "music",
       "url": "https://www.ticketmaster.ca/toque-winnipeg-manitoba-01-02-2027/event/11006529935E5237",
+      "source": "Ticketmaster",
+      "price": "Check organizer for pricing"
+    },
+    {
+      "id": "tm:rZ7HnEZ1AfoauV",
+      "title": "Psycho Holiday with Phantom Killing | Skyraid | Death Adder | Valdraza",
+      "date": "2027-01-02",
+      "time": "20:00",
+      "venue": "Sidestage",
+      "category": "music",
+      "url": "https://www.ticketweb.ca/event/psycho-holiday-with-phantom-killing-sidestage-tickets/14449374",
       "source": "Ticketmaster",
       "price": "Check organizer for pricing"
     },
@@ -3298,6 +3243,50 @@
       "venue": "Destination Dinner Stage",
       "category": "date",
       "url": "https://www.ticketmaster.ca/taylor-made-dreams-winnipeg-manitoba-04-04-2027/event/1100656571231F77",
+      "source": "Ticketmaster",
+      "price": "Check organizer for pricing"
+    },
+    {
+      "id": "tm:1AoZk40Gkd1QE_Q",
+      "title": "2027 JUNO Awards",
+      "date": "2027-04-04",
+      "time": "19:00",
+      "venue": "Canada Life Centre",
+      "category": "music",
+      "url": "https://www.ticketmaster.ca/2027-juno-awards-winnipeg-manitoba-04-04-2027/event/11006564CA6A765A",
+      "source": "Ticketmaster",
+      "price": "Check organizer for pricing"
+    },
+    {
+      "id": "tm:1AoZk4JGkdZ_zS1",
+      "title": "JUNO Awards After Party in support of MusiCounts",
+      "date": "2027-04-04",
+      "time": "22:00",
+      "venue": "Pyramid Cabaret",
+      "category": "music",
+      "url": "https://www.ticketmaster.ca/juno-awards-after-party-in-support-winnipeg-manitoba-04-04-2027/event/11006566C0678CCA",
+      "source": "Ticketmaster",
+      "price": "Check organizer for pricing"
+    },
+    {
+      "id": "tm:1778v0G6G1NaExZ",
+      "title": "Wheeler Walker Jr. - Pullin' Out: The Farewell Tour",
+      "date": "2027-04-05",
+      "time": "20:00",
+      "venue": "Burton Cummings Theatre",
+      "category": "music",
+      "url": "https://www.ticketmaster.ca/wheeler-walker-jr-pullin-out-the-winnipeg-manitoba-04-05-2027/event/110064C2A3267880",
+      "source": "Ticketmaster",
+      "price": "Check organizer for pricing"
+    },
+    {
+      "id": "tm:1Av7Z_fGkXinjNq",
+      "title": "Angine de Poitrine, Presented by Winnipeg Folk Festival",
+      "date": "2027-04-06",
+      "time": "20:00",
+      "venue": "Burton Cummings Theatre",
+      "category": "music",
+      "url": "https://www.ticketmaster.ca/angine-de-poitrine-presented-by-winnipeg-winnipeg-manitoba-04-06-2027/event/1100654FACA9C8DD",
       "source": "Ticketmaster",
       "price": "Check organizer for pricing"
     }

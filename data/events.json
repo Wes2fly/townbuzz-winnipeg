@@ -1,28 +1,6 @@
 {
-  "updated_at": "2026-11-16T18:48:36.485810+00:00",
+  "updated_at": "2026-11-17T00:53:27.957080+00:00",
   "events": [
-    {
-      "id": "tm:rZ7HnEZ1AfCZ_0",
-      "title": "Amby | Earth Angel | Diaphanie | Fu Fu Chi Chi Choir",
-      "date": "2026-11-16",
-      "time": "17:30",
-      "venue": "Sidestage",
-      "category": "music",
-      "url": "https://www.ticketweb.ca/event/amby-earth-angel-sidestage-tickets/14380664",
-      "source": "Ticketmaster",
-      "price": "Check organizer for pricing"
-    },
-    {
-      "id": "tm:1778v0G61sHqSO6",
-      "title": "Dax - The Anger Management Tour",
-      "date": "2026-11-16",
-      "time": "19:00",
-      "venue": "PARK THEATRE",
-      "category": "music",
-      "url": "https://www.ticketmaster.ca/dax-the-anger-management-tour-winnipeg-manitoba-11-16-2026/event/110064AC7C773807",
-      "source": "Ticketmaster",
-      "price": "Check organizer for pricing"
-    },
     {
       "id": "tm:rZ7HnEZ1Afu91f",
       "title": "PRIVATE EVENT",
@@ -3287,6 +3265,28 @@
       "venue": "Burton Cummings Theatre",
       "category": "music",
       "url": "https://www.ticketmaster.ca/wheeler-walker-jr-pullin-out-the-winnipeg-manitoba-04-05-2027/event/110064C2A3267880",
+      "source": "Ticketmaster",
+      "price": "Check organizer for pricing"
+    },
+    {
+      "id": "tm:1Av7Z_fGkXinjNq",
+      "title": "Angine de Poitrine, Presented by Winnipeg Folk Festival",
+      "date": "2027-04-06",
+      "time": "20:00",
+      "venue": "Burton Cummings Theatre",
+      "category": "music",
+      "url": "https://www.ticketmaster.ca/angine-de-poitrine-presented-by-winnipeg-winnipeg-manitoba-04-06-2027/event/1100654FACA9C8DD",
+      "source": "Ticketmaster",
+      "price": "Check organizer for pricing"
+    },
+    {
+      "id": "tm:rZ7HnEZ1A4ZbeK",
+      "title": "Hotel Mira with Con The Artist",
+      "date": "2027-04-06",
+      "time": "20:00",
+      "venue": "West End Cultural Centre",
+      "category": "music",
+      "url": "https://www.ticketweb.ca/event/hotel-mira-with-con-the-west-end-cultural-centre-tickets/15018093",
       "source": "Ticketmaster",
       "price": "Check organizer for pricing"
     }

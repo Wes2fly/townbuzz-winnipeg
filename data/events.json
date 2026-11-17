@@ -1,17 +1,6 @@
 {
-  "updated_at": "2026-11-17T12:55:35.391412+00:00",
+  "updated_at": "2026-11-17T18:52:59.978740+00:00",
   "events": [
-    {
-      "id": "tm:rZ7HnEZ1Afu91f",
-      "title": "PRIVATE EVENT",
-      "date": "2026-11-17",
-      "time": "10:00",
-      "venue": "The Park Theatre",
-      "category": "date",
-      "url": "https://www.ticketweb.ca/event/private-event-the-park-theatre-tickets/14357294",
-      "source": "Ticketmaster",
-      "price": "Check organizer for pricing"
-    },
     {
       "id": "tm:1AoZkfAGkdoj57u",
       "title": "Boot Beer Cup Giveaway | Winnipeg Jets vs. Ottawa Senators",
@@ -2807,6 +2796,17 @@
       "price": "Check organizer for pricing"
     },
     {
+      "id": "tm:1Av7Z_pGkmE7UHx",
+      "title": "Charley Crockett",
+      "date": "2027-03-12",
+      "time": "20:00",
+      "venue": "Burton Cummings Theatre",
+      "category": "music",
+      "url": "https://www.ticketmaster.ca/charley-crockett-winnipeg-manitoba-03-12-2027/event/1100656BA7136F22",
+      "source": "Ticketmaster",
+      "price": "Check organizer for pricing"
+    },
+    {
       "id": "tm:1AoZkfAGkd1g1xP",
       "title": "Hoser Game | Winnipeg Jets vs. Nashville Predators",
       "date": "2027-03-13",
@@ -2968,6 +2968,17 @@
       "venue": "Destination Dinner Stage",
       "category": "date",
       "url": "https://www.ticketmaster.ca/taylor-made-dreams-winnipeg-manitoba-03-19-2027/event/1100655DAF2B9748",
+      "source": "Ticketmaster",
+      "price": "Check organizer for pricing"
+    },
+    {
+      "id": "tm:rZ7HnEZ1Afoa8f",
+      "title": "Tyr | Dynazty presented by Ninjacat Productions",
+      "date": "2027-03-19",
+      "time": "18:30",
+      "venue": "Pyramid Cabaret",
+      "category": "music",
+      "url": "https://www.ticketweb.ca/event/tyr-dynazty-presented-by-pyramid-cabaret-tickets/14449414",
       "source": "Ticketmaster",
       "price": "Check organizer for pricing"
     },
@@ -3148,6 +3159,17 @@
       "price": "Check organizer for pricing"
     },
     {
+      "id": "tm:1Av7Z_pGkUEcbjV",
+      "title": "The Mavericks & Friends",
+      "date": "2027-03-31",
+      "time": "20:00",
+      "venue": "Burton Cummings Theatre",
+      "category": "music",
+      "url": "https://www.ticketmaster.ca/the-mavericks-friends-winnipeg-manitoba-03-31-2027/event/1100656DA7B58734",
+      "source": "Ticketmaster",
+      "price": "Check organizer for pricing"
+    },
+    {
       "id": "tm:rZ7HnEZ1A4vK8K",
       "title": "The Hip Experience",
       "date": "2027-03-31",
@@ -3265,28 +3287,6 @@
       "venue": "Burton Cummings Theatre",
       "category": "music",
       "url": "https://www.ticketmaster.ca/wheeler-walker-jr-pullin-out-the-winnipeg-manitoba-04-05-2027/event/110064C2A3267880",
-      "source": "Ticketmaster",
-      "price": "Check organizer for pricing"
-    },
-    {
-      "id": "tm:1Av7Z_fGkXinjNq",
-      "title": "Angine de Poitrine, Presented by Winnipeg Folk Festival",
-      "date": "2027-04-06",
-      "time": "20:00",
-      "venue": "Burton Cummings Theatre",
-      "category": "music",
-      "url": "https://www.ticketmaster.ca/angine-de-poitrine-presented-by-winnipeg-winnipeg-manitoba-04-06-2027/event/1100654FACA9C8DD",
-      "source": "Ticketmaster",
-      "price": "Check organizer for pricing"
-    },
-    {
-      "id": "tm:rZ7HnEZ1A4ZbeK",
-      "title": "Hotel Mira with Con The Artist",
-      "date": "2027-04-06",
-      "time": "20:00",
-      "venue": "West End Cultural Centre",
-      "category": "music",
-      "url": "https://www.ticketweb.ca/event/hotel-mira-with-con-the-west-end-cultural-centre-tickets/15018093",
       "source": "Ticketmaster",
       "price": "Check organizer for pricing"
     }

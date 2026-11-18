@@ -1,17 +1,6 @@
 {
-  "updated_at": "2026-11-17T18:52:59.978740+00:00",
+  "updated_at": "2026-11-18T00:59:13.468129+00:00",
   "events": [
-    {
-      "id": "tm:1AoZkfAGkdoj57u",
-      "title": "Boot Beer Cup Giveaway | Winnipeg Jets vs. Ottawa Senators",
-      "date": "2026-11-17",
-      "time": "19:00",
-      "venue": "Canada Life Centre",
-      "category": "date",
-      "url": "https://www.ticketmaster.ca/boot-beer-cup-giveaway-winnipeg-jets-winnipeg-manitoba-11-17-2026/event/11006505D170B10D",
-      "source": "Ticketmaster",
-      "price": "Check organizer for pricing"
-    },
     {
       "id": "tm:1k78vPAaGAu5m0Z",
       "title": "DZIDZIO",
@@ -3287,6 +3276,17 @@
       "venue": "Burton Cummings Theatre",
       "category": "music",
       "url": "https://www.ticketmaster.ca/wheeler-walker-jr-pullin-out-the-winnipeg-manitoba-04-05-2027/event/110064C2A3267880",
+      "source": "Ticketmaster",
+      "price": "Check organizer for pricing"
+    },
+    {
+      "id": "tm:1Av7Z_fGkXinjNq",
+      "title": "Angine de Poitrine, Presented by Winnipeg Folk Festival",
+      "date": "2027-04-06",
+      "time": "20:00",
+      "venue": "Burton Cummings Theatre",
+      "category": "music",
+      "url": "https://www.ticketmaster.ca/angine-de-poitrine-presented-by-winnipeg-winnipeg-manitoba-04-06-2027/event/1100654FACA9C8DD",
       "source": "Ticketmaster",
       "price": "Check organizer for pricing"
     }

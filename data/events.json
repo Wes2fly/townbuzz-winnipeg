@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-18T12:59:25.130062+00:00",
+  "updated_at": "2026-11-18T18:48:44.580530+00:00",
   "events": [
     {
       "id": "tm:1k78vPAaGAu5m0Z",
@@ -2686,6 +2686,17 @@
       "price": "Check organizer for pricing"
     },
     {
+      "id": "tm:1AoZk40GkenXPxL",
+      "title": "Gob/Less Than Jake - All My Best Friends Are Canadian Tour",
+      "date": "2027-03-09",
+      "time": "19:00",
+      "venue": "Burton Cummings Theatre",
+      "category": "music",
+      "url": "https://www.ticketmaster.ca/gobless-than-jake-all-my-best-winnipeg-manitoba-03-09-2027/event/11006564AAFA589F",
+      "source": "Ticketmaster",
+      "price": "Check organizer for pricing"
+    },
+    {
       "id": "tm:1AoZkfAGkd8EQTC",
       "title": "Winnipeg Jets vs. Detroit Red Wings",
       "date": "2027-03-09",
@@ -3276,17 +3287,6 @@
       "venue": "Burton Cummings Theatre",
       "category": "music",
       "url": "https://www.ticketmaster.ca/wheeler-walker-jr-pullin-out-the-winnipeg-manitoba-04-05-2027/event/110064C2A3267880",
-      "source": "Ticketmaster",
-      "price": "Check organizer for pricing"
-    },
-    {
-      "id": "tm:1Av7Z_fGkXinjNq",
-      "title": "Angine de Poitrine, Presented by Winnipeg Folk Festival",
-      "date": "2027-04-06",
-      "time": "20:00",
-      "venue": "Burton Cummings Theatre",
-      "category": "music",
-      "url": "https://www.ticketmaster.ca/angine-de-poitrine-presented-by-winnipeg-winnipeg-manitoba-04-06-2027/event/1100654FACA9C8DD",
       "source": "Ticketmaster",
       "price": "Check organizer for pricing"
     }

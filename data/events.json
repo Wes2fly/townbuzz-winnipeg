@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-20T00:53:44.436797+00:00",
+  "updated_at": "2026-11-20T07:04:10.903884+00:00",
   "events": [
     {
       "id": "tm:1778v0G6CXpMPw9",
@@ -3276,6 +3276,17 @@
       "venue": "West End Cultural Centre",
       "category": "music",
       "url": "https://www.ticketweb.ca/event/hotel-mira-with-con-the-west-end-cultural-centre-tickets/15018093",
+      "source": "Ticketmaster",
+      "price": "Check organizer for pricing"
+    },
+    {
+      "id": "tm:1AoZkfAGkd6cn3J",
+      "title": "Parkinson's Awareness Night | Winnipeg Jets vs. Edmonton Oilers",
+      "date": "2027-04-07",
+      "time": "19:00",
+      "venue": "Canada Life Centre",
+      "category": "date",
+      "url": "https://www.ticketmaster.ca/parkinsons-awareness-night-winnipeg-jets-vs-winnipeg-manitoba-04-07-2027/event/11006505C7B6A4A6",
       "source": "Ticketmaster",
       "price": "Check organizer for pricing"
     }

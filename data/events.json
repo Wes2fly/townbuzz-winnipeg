@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-21T00:57:16.826668+00:00",
+  "updated_at": "2026-11-21T06:58:01.541546+00:00",
   "events": [
     {
       "id": "tm:1778v0G6CXpz4wj",
@@ -3243,6 +3243,50 @@
       "venue": "PARK THEATRE",
       "category": "music",
       "url": "https://www.ticketmaster.ca/alex-sampson-winnipeg-manitoba-04-08-2027/event/11006548C8EAB761",
+      "source": "Ticketmaster",
+      "price": "Check organizer for pricing"
+    },
+    {
+      "id": "tm:1AoZkfAGkd1RQx7",
+      "title": "Fan Appreciation | Winnipeg Jets vs. Vancouver Canucks",
+      "date": "2027-04-09",
+      "time": "18:00",
+      "venue": "Canada Life Centre",
+      "category": "date",
+      "url": "https://www.ticketmaster.ca/fan-appreciation-winnipeg-jets-vs-vancouver-winnipeg-manitoba-04-09-2027/event/11006505CABDA884",
+      "source": "Ticketmaster",
+      "price": "Check organizer for pricing"
+    },
+    {
+      "id": "tm:1Av7Z_4GkUR5yqo",
+      "title": "Taylor Made Dreams",
+      "date": "2027-04-09",
+      "time": "18:00",
+      "venue": "Destination Dinner Stage",
+      "category": "date",
+      "url": "https://www.ticketmaster.ca/taylor-made-dreams-winnipeg-manitoba-04-09-2027/event/1100655DAF2F9751",
+      "source": "Ticketmaster",
+      "price": "Check organizer for pricing"
+    },
+    {
+      "id": "tm:1AoZkf6GkegFnMr",
+      "title": "Mascot Palooza | Manitoba Moose vs. Grand Rapids Griffins ",
+      "date": "2027-04-10",
+      "time": "14:00",
+      "venue": "Canada Life Centre",
+      "category": "date",
+      "url": "https://www.ticketmaster.ca/mascot-palooza-manitoba-moose-vs-grand-winnipeg-manitoba-04-10-2027/event/11006507B522ADDE",
+      "source": "Ticketmaster",
+      "price": "Check organizer for pricing"
+    },
+    {
+      "id": "tm:Z7r9jZ1A7JFC6",
+      "title": "Manitoba Moose vs. Grand Rapids Griffins",
+      "date": "2027-04-10",
+      "time": "14:00",
+      "venue": "Canada Life Centre",
+      "category": "date",
+      "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7JFC6",
       "source": "Ticketmaster",
       "price": "Check organizer for pricing"
     }

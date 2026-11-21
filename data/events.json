@@ -1,83 +1,6 @@
 {
-  "updated_at": "2026-11-20T18:53:48.364588+00:00",
+  "updated_at": "2026-11-21T00:57:16.826668+00:00",
   "events": [
-    {
-      "id": "tm:1778v0G6CXpMPw9",
-      "title": "Grandpa's Home Alone",
-      "date": "2026-11-20",
-      "time": "18:00",
-      "venue": "Destination Dinner Stage",
-      "category": "date",
-      "url": "https://www.ticketmaster.ca/grandpas-home-alone-winnipeg-manitoba-11-20-2026/event/110064EF96DE5C97",
-      "source": "Ticketmaster",
-      "price": "Check organizer for pricing"
-    },
-    {
-      "id": "tm:1AoZkf6GkeM557p",
-      "title": "Soiree Francophone | Manitoba Moose vs. Rockford IceHogs",
-      "date": "2026-11-20",
-      "time": "19:00",
-      "venue": "Canada Life Centre",
-      "category": "date",
-      "url": "https://www.ticketmaster.ca/soiree-francophone-manitoba-moose-vs-rockford-winnipeg-manitoba-11-20-2026/event/11006507B72CB116",
-      "source": "Ticketmaster",
-      "price": "Check organizer for pricing"
-    },
-    {
-      "id": "tm:1AoZku9GkeTX6N5",
-      "title": "Killers of Kill Tony",
-      "date": "2026-11-20",
-      "time": "19:00",
-      "venue": "Burton Cummings Theatre",
-      "category": "date",
-      "url": "https://www.ticketmaster.ca/killers-of-kill-tony-winnipeg-manitoba-11-20-2026/event/11006357BFF878CB",
-      "source": "Ticketmaster",
-      "price": "Check organizer for pricing"
-    },
-    {
-      "id": "tm:Z7r9jZ1AAZfP6",
-      "title": "Manitoba Moose vs. Rockford IceHogs",
-      "date": "2026-11-20",
-      "time": "19:00",
-      "venue": "Canada Life Centre",
-      "category": "date",
-      "url": "https://www.ticketmaster.com/event/Z7r9jZ1AAZfP6",
-      "source": "Ticketmaster",
-      "price": "Check organizer for pricing"
-    },
-    {
-      "id": "tm:rZ7HnEZ1AfGkGf",
-      "title": "Big Sociable 11",
-      "date": "2026-11-20",
-      "time": "19:00",
-      "venue": "The Park Theatre",
-      "category": "music",
-      "url": "https://www.ticketweb.ca/event/big-sociable-11-the-park-theatre-tickets/14306314",
-      "source": "Ticketmaster",
-      "price": "Check organizer for pricing"
-    },
-    {
-      "id": "tm:rZ7HnEZ1AfuO-0",
-      "title": "*LOW TICKETS* Quinzy",
-      "date": "2026-11-20",
-      "time": "19:00",
-      "venue": "Sidestage",
-      "category": "music",
-      "url": "https://www.ticketweb.ca/event/low-tickets-quinzy-sidestage-tickets/14360864",
-      "source": "Ticketmaster",
-      "price": "Check organizer for pricing"
-    },
-    {
-      "id": "tm:16v7Z_7pdG7c7nu",
-      "title": "Killers of Kill Tony",
-      "date": "2026-11-20",
-      "time": "21:30",
-      "venue": "Burton Cummings Theatre",
-      "category": "date",
-      "url": "https://www.ticketmaster.ca/killers-of-kill-tony-winnipeg-manitoba-11-20-2026/event/1100644583B44A8D",
-      "source": "Ticketmaster",
-      "price": "Check organizer for pricing"
-    },
     {
       "id": "tm:1778v0G6CXpz4wj",
       "title": "Grandpa's Home Alone",
@@ -3287,6 +3210,39 @@
       "venue": "Canada Life Centre",
       "category": "date",
       "url": "https://www.ticketmaster.ca/parkinsons-awareness-night-winnipeg-jets-vs-winnipeg-manitoba-04-07-2027/event/11006505C7B6A4A6",
+      "source": "Ticketmaster",
+      "price": "Check organizer for pricing"
+    },
+    {
+      "id": "tm:1Av7Z_fGkXinHNt",
+      "title": "Angine de Poitrine, Presented by Winnipeg Folk Festival",
+      "date": "2027-04-07",
+      "time": "20:00",
+      "venue": "Burton Cummings Theatre",
+      "category": "music",
+      "url": "https://www.ticketmaster.ca/angine-de-poitrine-presented-by-winnipeg-winnipeg-manitoba-04-07-2027/event/1100654FACABC8E9",
+      "source": "Ticketmaster",
+      "price": "Check organizer for pricing"
+    },
+    {
+      "id": "tm:1Av7Z_4GkUm7t9c",
+      "title": "Taylor Made Dreams",
+      "date": "2027-04-08",
+      "time": "18:00",
+      "venue": "Destination Dinner Stage",
+      "category": "date",
+      "url": "https://www.ticketmaster.ca/taylor-made-dreams-winnipeg-manitoba-04-08-2027/event/1100655DAE1295ED",
+      "source": "Ticketmaster",
+      "price": "Check organizer for pricing"
+    },
+    {
+      "id": "tm:1AoZk4FGkdFBlq-",
+      "title": "Alex Sampson",
+      "date": "2027-04-08",
+      "time": "19:00",
+      "venue": "PARK THEATRE",
+      "category": "music",
+      "url": "https://www.ticketmaster.ca/alex-sampson-winnipeg-manitoba-04-08-2027/event/11006548C8EAB761",
       "source": "Ticketmaster",
       "price": "Check organizer for pricing"
     }

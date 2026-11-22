@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-22T00:51:15.337934+00:00",
+  "updated_at": "2026-11-22T06:58:12.325423+00:00",
   "events": [
     {
       "id": "tm:rZ7HnEZ1AfC8-0",
@@ -3265,6 +3265,28 @@
       "venue": "Canada Life Centre",
       "category": "date",
       "url": "https://www.ticketmaster.ca/fan-appreciation-manitoba-moose-vs-grand-winnipeg-manitoba-04-11-2027/event/11006507B3BCAB9C",
+      "source": "Ticketmaster",
+      "price": "Check organizer for pricing"
+    },
+    {
+      "id": "tm:Z7r9jZ1AAZfP_",
+      "title": "Manitoba Moose vs. Grand Rapids Griffins",
+      "date": "2027-04-11",
+      "time": "14:00",
+      "venue": "Canada Life Centre",
+      "category": "date",
+      "url": "https://www.ticketmaster.com/event/Z7r9jZ1AAZfP_",
+      "source": "Ticketmaster",
+      "price": "Check organizer for pricing"
+    },
+    {
+      "id": "tm:1av7Z_p4sa-Zd8F2",
+      "title": "Taylor Made Dreams",
+      "date": "2027-04-11",
+      "time": "17:00",
+      "venue": "Destination Dinner Stage",
+      "category": "date",
+      "url": "https://www.ticketmaster.ca/taylor-made-dreams-winnipeg-manitoba-04-11-2027/event/1100656571261F7E",
       "source": "Ticketmaster",
       "price": "Check organizer for pricing"
     }

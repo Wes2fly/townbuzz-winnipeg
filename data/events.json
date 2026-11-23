@@ -1,83 +1,6 @@
 {
-  "updated_at": "2026-11-22T18:39:21.273495+00:00",
+  "updated_at": "2026-11-23T00:54:56.284351+00:00",
   "events": [
-    {
-      "id": "tm:rZ7HnEZ1AfC8-0",
-      "title": "George Cotter Retrospective: 'Wilderness Trails'",
-      "date": "2026-11-22",
-      "time": "13:00",
-      "venue": "Sidestage",
-      "category": "date",
-      "url": "https://www.ticketweb.ca/event/george-cotter-retrospective-wilderness-trails-sidestage-tickets/14390864",
-      "source": "Ticketmaster",
-      "price": "Check organizer for pricing"
-    },
-    {
-      "id": "tm:1AoZkf6GkegmQDd",
-      "title": "Teddy Bear Toss | Manitoba Moose vs. Rockford IceHogs",
-      "date": "2026-11-22",
-      "time": "14:00",
-      "venue": "Canada Life Centre",
-      "category": "date",
-      "url": "https://www.ticketmaster.ca/teddy-bear-toss-manitoba-moose-vs-winnipeg-manitoba-11-22-2026/event/11006507B5B9AEC3",
-      "source": "Ticketmaster",
-      "price": "Check organizer for pricing"
-    },
-    {
-      "id": "tm:Z7r9jZ1AAZfPF",
-      "title": "Manitoba Moose vs. Rockford IceHogs",
-      "date": "2026-11-22",
-      "time": "14:00",
-      "venue": "Canada Life Centre",
-      "category": "date",
-      "url": "https://www.ticketmaster.com/event/Z7r9jZ1AAZfPF",
-      "source": "Ticketmaster",
-      "price": "Check organizer for pricing"
-    },
-    {
-      "id": "tm:1778v0G6CXbjAH2",
-      "title": "Grandpa's Home Alone",
-      "date": "2026-11-22",
-      "time": "17:00",
-      "venue": "Destination Dinner Stage",
-      "category": "date",
-      "url": "https://www.ticketmaster.ca/grandpas-home-alone-winnipeg-manitoba-11-22-2026/event/110064EF98705F0F",
-      "source": "Ticketmaster",
-      "price": "Check organizer for pricing"
-    },
-    {
-      "id": "tm:rZ7HnEZ1Af84A7",
-      "title": "Top Dog: A Competitive Improv Show",
-      "date": "2026-11-22",
-      "time": "18:00",
-      "venue": "Sidestage",
-      "category": "date",
-      "url": "https://www.ticketweb.ca/event/top-dog-a-competitive-improv-sidestage-tickets/14415144",
-      "source": "Ticketmaster",
-      "price": "Check organizer for pricing"
-    },
-    {
-      "id": "tm:rZ7HnEZ1Afu_aV",
-      "title": "Women Helping Women 2026",
-      "date": "2026-11-22",
-      "time": "18:00",
-      "venue": "The Park Theatre",
-      "category": "date",
-      "url": "https://www.ticketweb.ca/event/women-helping-women-2026-the-park-theatre-tickets/14359274",
-      "source": "Ticketmaster",
-      "price": "Check organizer for pricing"
-    },
-    {
-      "id": "tm:1778v0G6GC2igCE",
-      "title": "Tape Face",
-      "date": "2026-11-22",
-      "time": "19:00",
-      "venue": "Club Regent Event Centre",
-      "category": "date",
-      "url": "https://www.ticketmaster.ca/tape-face-winnipeg-manitoba-11-22-2026/event/110064C38FB353A7",
-      "source": "Ticketmaster",
-      "price": "Check organizer for pricing"
-    },
     {
       "id": "tm:1778v0G6uk0s5Zf",
       "title": "Turnover - Down On Earth Tour",
@@ -3287,6 +3210,83 @@
       "venue": "Destination Dinner Stage",
       "category": "date",
       "url": "https://www.ticketmaster.ca/taylor-made-dreams-winnipeg-manitoba-04-11-2027/event/1100656571261F7E",
+      "source": "Ticketmaster",
+      "price": "Check organizer for pricing"
+    },
+    {
+      "id": "tm:1Av7Z_4GkUmA_9w",
+      "title": "Taylor Made Dreams",
+      "date": "2027-04-15",
+      "time": "18:00",
+      "venue": "Destination Dinner Stage",
+      "category": "date",
+      "url": "https://www.ticketmaster.ca/taylor-made-dreams-winnipeg-manitoba-04-15-2027/event/1100655DAE1595F2",
+      "source": "Ticketmaster",
+      "price": "Check organizer for pricing"
+    },
+    {
+      "id": "tm:1AoZk4JGkeIHUDj",
+      "title": "The Phil Collins Story",
+      "date": "2027-04-15",
+      "time": "19:30",
+      "venue": "Burton Cummings Theatre",
+      "category": "music",
+      "url": "https://www.ticketmaster.ca/the-phil-collins-story-winnipeg-manitoba-04-15-2027/event/11006566A8F36EDC",
+      "source": "Ticketmaster",
+      "price": "Check organizer for pricing"
+    },
+    {
+      "id": "tm:1Av7Z_4GkURGtqK",
+      "title": "Taylor Made Dreams",
+      "date": "2027-04-16",
+      "time": "18:00",
+      "venue": "Destination Dinner Stage",
+      "category": "date",
+      "url": "https://www.ticketmaster.ca/taylor-made-dreams-winnipeg-manitoba-04-16-2027/event/1100655DAF329753",
+      "source": "Ticketmaster",
+      "price": "Check organizer for pricing"
+    },
+    {
+      "id": "tm:1Av7Z_4GkURmaLW",
+      "title": "Taylor Made Dreams",
+      "date": "2027-04-17",
+      "time": "18:00",
+      "venue": "Destination Dinner Stage",
+      "category": "date",
+      "url": "https://www.ticketmaster.ca/taylor-made-dreams-winnipeg-manitoba-04-17-2027/event/1100655DAFB897FD",
+      "source": "Ticketmaster",
+      "price": "Check organizer for pricing"
+    },
+    {
+      "id": "tm:1Av7Z_pGkwA7dVm",
+      "title": "Charlie Cunningham, presented by Winnipeg Folk Festival",
+      "date": "2027-04-17",
+      "time": "20:00",
+      "venue": "West End Cultural Centre",
+      "category": "music",
+      "url": "https://www.ticketmaster.ca/charlie-cunningham-presented-by-winnipeg-folk-winnipeg-manitoba-04-17-2027/event/1100656C85103D2E",
+      "source": "Ticketmaster",
+      "price": "Check organizer for pricing"
+    },
+    {
+      "id": "tm:1k78vPCaGA59Ijp",
+      "title": "Bruce Cockburn, Presented by Winnipeg Folk Festival",
+      "date": "2027-04-17",
+      "time": "20:00",
+      "venue": "Burton Cummings Theatre",
+      "category": "music",
+      "url": "https://www.ticketmaster.ca/bruce-cockburn-presented-by-winnipeg-folk-winnipeg-manitoba-04-17-2027/event/110065389B5E8716",
+      "source": "Ticketmaster",
+      "price": "Check organizer for pricing"
+    },
+    {
+      "id": "tm:1av7Z_p4s1vZd8aF",
+      "title": "Taylor Made Dreams",
+      "date": "2027-04-18",
+      "time": "17:00",
+      "venue": "Destination Dinner Stage",
+      "category": "date",
+      "url": "https://www.ticketmaster.ca/taylor-made-dreams-winnipeg-manitoba-04-18-2027/event/1100656571281F87",
       "source": "Ticketmaster",
       "price": "Check organizer for pricing"
     }

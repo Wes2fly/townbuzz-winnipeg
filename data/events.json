@@ -1,28 +1,6 @@
 {
-  "updated_at": "2026-11-24T13:06:40.508576+00:00",
+  "updated_at": "2026-11-24T18:53:06.823447+00:00",
   "events": [
-    {
-      "id": "tm:1AoZkf6GkeMal75",
-      "title": "Project 11 School Day Game | Manitoba Moose vs Grand Rapids Griffins ",
-      "date": "2026-11-24",
-      "time": "10:30",
-      "venue": "Canada Life Centre",
-      "category": "date",
-      "url": "https://www.ticketmaster.ca/project-11-school-day-game-manitoba-winnipeg-manitoba-11-24-2026/event/11006507B726B10B",
-      "source": "Ticketmaster",
-      "price": "Check organizer for pricing"
-    },
-    {
-      "id": "tm:Z7r9jZ1AAZfPa",
-      "title": "Manitoba Moose vs. Grand Rapids Griffins",
-      "date": "2026-11-24",
-      "time": "10:30",
-      "venue": "Canada Life Centre",
-      "category": "date",
-      "url": "https://www.ticketmaster.com/event/Z7r9jZ1AAZfPa",
-      "source": "Ticketmaster",
-      "price": "Check organizer for pricing"
-    },
     {
       "id": "tm:1AoZkf4GkeNBhyD",
       "title": "Boy Golden - Good Goddamn Another Tour",
@@ -680,6 +658,17 @@
       "venue": "The Park Theatre",
       "category": "music",
       "url": "https://www.ticketweb.ca/event/the-jp-hoe-hoe-hoe-the-park-theatre-tickets/15054703",
+      "source": "Ticketmaster",
+      "price": "Check organizer for pricing"
+    },
+    {
+      "id": "tm:rZ7HnEZ1A4vIPN",
+      "title": "Living Music Winnipeg: Winter Recital",
+      "date": "2026-12-13",
+      "time": "12:30",
+      "venue": "Sidestage",
+      "category": "music",
+      "url": "https://www.ticketweb.ca/event/living-music-winnipeg-winter-recital-sidestage-tickets/15068963",
       "source": "Ticketmaster",
       "price": "Check organizer for pricing"
     },
@@ -1751,6 +1740,17 @@
       "price": "Check organizer for pricing"
     },
     {
+      "id": "tm:rZ7HnEZ1A4vJAN",
+      "title": "Beyond Creation - Decrepit Birth - Vulvodynia",
+      "date": "2027-02-10",
+      "time": "17:45",
+      "venue": "Sidestage",
+      "category": "music",
+      "url": "https://www.ticketweb.ca/event/beyond-creation-decrepit-sidestage-tickets/15066163",
+      "source": "Ticketmaster",
+      "price": "Check organizer for pricing"
+    },
+    {
       "id": "tm:1Av7Z_KGkUB_13D",
       "title": "Warrant",
       "date": "2027-02-10",
@@ -2455,6 +2455,17 @@
       "price": "Check organizer for pricing"
     },
     {
+      "id": "tm:1AoZk4MGkeBKF1O",
+      "title": "Burton Cummings & His Band",
+      "date": "2027-03-09",
+      "time": "20:00",
+      "venue": "Club Regent Event Centre",
+      "category": "music",
+      "url": "https://www.ticketmaster.ca/burton-cummings-his-band-winnipeg-manitoba-03-09-2027/event/11006577BA4C82A0",
+      "source": "Ticketmaster",
+      "price": "Check organizer for pricing"
+    },
+    {
       "id": "tm:rZ7HnEZ1Af8_0V",
       "title": "Booze & Glory",
       "date": "2027-03-10",
@@ -2473,6 +2484,17 @@
       "venue": "Canada Life Centre",
       "category": "date",
       "url": "https://www.ticketmaster.ca/puppers-presents-letterkenny-live-winnipeg-manitoba-03-10-2027/event/110064C973282B61",
+      "source": "Ticketmaster",
+      "price": "Check organizer for pricing"
+    },
+    {
+      "id": "tm:1AoZk4MGkeBKz1N",
+      "title": "Burton Cummings & His Band",
+      "date": "2027-03-10",
+      "time": "20:00",
+      "venue": "Club Regent Event Centre",
+      "category": "music",
+      "url": "https://www.ticketmaster.ca/burton-cummings-his-band-winnipeg-manitoba-03-10-2027/event/11006577BA4F82A3",
       "source": "Ticketmaster",
       "price": "Check organizer for pricing"
     },
@@ -3265,28 +3287,6 @@
       "venue": "West End Cultural Centre",
       "category": "music",
       "url": "https://www.ticketmaster.ca/charlie-cunningham-presented-by-winnipeg-folk-winnipeg-manitoba-04-17-2027/event/1100656C85103D2E",
-      "source": "Ticketmaster",
-      "price": "Check organizer for pricing"
-    },
-    {
-      "id": "tm:1k78vPCaGA59Ijp",
-      "title": "Bruce Cockburn, Presented by Winnipeg Folk Festival",
-      "date": "2027-04-17",
-      "time": "20:00",
-      "venue": "Burton Cummings Theatre",
-      "category": "music",
-      "url": "https://www.ticketmaster.ca/bruce-cockburn-presented-by-winnipeg-folk-winnipeg-manitoba-04-17-2027/event/110065389B5E8716",
-      "source": "Ticketmaster",
-      "price": "Check organizer for pricing"
-    },
-    {
-      "id": "tm:1av7Z_p4s1vZd8aF",
-      "title": "Taylor Made Dreams",
-      "date": "2027-04-18",
-      "time": "17:00",
-      "venue": "Destination Dinner Stage",
-      "category": "date",
-      "url": "https://www.ticketmaster.ca/taylor-made-dreams-winnipeg-manitoba-04-18-2027/event/1100656571281F87",
       "source": "Ticketmaster",
       "price": "Check organizer for pricing"
     }

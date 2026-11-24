@@ -1,28 +1,6 @@
 {
-  "updated_at": "2026-11-23T18:53:57.693341+00:00",
+  "updated_at": "2026-11-24T00:56:34.947692+00:00",
   "events": [
-    {
-      "id": "tm:1778v0G6uk0s5Zf",
-      "title": "Turnover - Down On Earth Tour",
-      "date": "2026-11-23",
-      "time": "18:30",
-      "venue": "PARK THEATRE",
-      "category": "music",
-      "url": "https://www.ticketmaster.ca/turnover-down-on-earth-tour-winnipeg-manitoba-11-23-2026/event/110064D1A4C4B014",
-      "source": "Ticketmaster",
-      "price": "Check organizer for pricing"
-    },
-    {
-      "id": "tm:1AoZkfAGkdoLh7O",
-      "title": "Collector Cup Giveaway & Non-Stop Pop | Winnipeg Jets vs. Utah Mammoth",
-      "date": "2026-11-23",
-      "time": "19:30",
-      "venue": "Canada Life Centre",
-      "category": "date",
-      "url": "https://www.ticketmaster.ca/collector-cup-giveaway-nonstop-pop-winnipeg-winnipeg-manitoba-11-23-2026/event/11006505D17DB120",
-      "source": "Ticketmaster",
-      "price": "Check organizer for pricing"
-    },
     {
       "id": "tm:1AoZkf6GkeMal75",
       "title": "Project 11 School Day Game | Manitoba Moose vs Grand Rapids Griffins ",
@@ -3287,6 +3265,28 @@
       "venue": "West End Cultural Centre",
       "category": "music",
       "url": "https://www.ticketmaster.ca/charlie-cunningham-presented-by-winnipeg-folk-winnipeg-manitoba-04-17-2027/event/1100656C85103D2E",
+      "source": "Ticketmaster",
+      "price": "Check organizer for pricing"
+    },
+    {
+      "id": "tm:1k78vPCaGA59Ijp",
+      "title": "Bruce Cockburn, Presented by Winnipeg Folk Festival",
+      "date": "2027-04-17",
+      "time": "20:00",
+      "venue": "Burton Cummings Theatre",
+      "category": "music",
+      "url": "https://www.ticketmaster.ca/bruce-cockburn-presented-by-winnipeg-folk-winnipeg-manitoba-04-17-2027/event/110065389B5E8716",
+      "source": "Ticketmaster",
+      "price": "Check organizer for pricing"
+    },
+    {
+      "id": "tm:1av7Z_p4s1vZd8aF",
+      "title": "Taylor Made Dreams",
+      "date": "2027-04-18",
+      "time": "17:00",
+      "venue": "Destination Dinner Stage",
+      "category": "date",
+      "url": "https://www.ticketmaster.ca/taylor-made-dreams-winnipeg-manitoba-04-18-2027/event/1100656571281F87",
       "source": "Ticketmaster",
       "price": "Check organizer for pricing"
     }

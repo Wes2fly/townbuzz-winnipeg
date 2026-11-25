@@ -1,17 +1,6 @@
 {
-  "updated_at": "2026-11-24T18:53:06.823447+00:00",
+  "updated_at": "2026-11-25T00:59:35.695588+00:00",
   "events": [
-    {
-      "id": "tm:1AoZkf4GkeNBhyD",
-      "title": "Boy Golden - Good Goddamn Another Tour",
-      "date": "2026-11-24",
-      "time": "19:00",
-      "venue": "PARK THEATRE",
-      "category": "music",
-      "url": "https://www.ticketmaster.ca/boy-golden-good-goddamn-another-tour-winnipeg-manitoba-11-24-2026/event/11006515A3E9BE7B",
-      "source": "Ticketmaster",
-      "price": "Check organizer for pricing"
-    },
     {
       "id": "tm:1778v0G6GWMjeVr",
       "title": "The Tenors - Season of Hope Tour",
@@ -3287,6 +3276,17 @@
       "venue": "West End Cultural Centre",
       "category": "music",
       "url": "https://www.ticketmaster.ca/charlie-cunningham-presented-by-winnipeg-folk-winnipeg-manitoba-04-17-2027/event/1100656C85103D2E",
+      "source": "Ticketmaster",
+      "price": "Check organizer for pricing"
+    },
+    {
+      "id": "tm:1k78vPCaGA59Ijp",
+      "title": "Bruce Cockburn, Presented by Winnipeg Folk Festival",
+      "date": "2027-04-17",
+      "time": "20:00",
+      "venue": "Burton Cummings Theatre",
+      "category": "music",
+      "url": "https://www.ticketmaster.ca/bruce-cockburn-presented-by-winnipeg-folk-winnipeg-manitoba-04-17-2027/event/110065389B5E8716",
       "source": "Ticketmaster",
       "price": "Check organizer for pricing"
     }

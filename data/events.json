@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-25T00:59:35.695588+00:00",
+  "updated_at": "2026-11-25T07:08:25.139743+00:00",
   "events": [
     {
       "id": "tm:1778v0G6GWMjeVr",
@@ -1307,6 +1307,17 @@
       "venue": "Canada Life Centre",
       "category": "date",
       "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7JFCk",
+      "source": "Ticketmaster",
+      "price": "Check organizer for pricing"
+    },
+    {
+      "id": "tm:rZ7HnEZ1A4vs-d",
+      "title": "The Great Plains | Strange & Unusual | Floral Green",
+      "date": "2027-01-08",
+      "time": "19:00",
+      "venue": "Sidestage",
+      "category": "music",
+      "url": "https://www.ticketweb.ca/event/the-great-plains-strange-sidestage-tickets/15071843",
       "source": "Ticketmaster",
       "price": "Check organizer for pricing"
     },
@@ -3276,17 +3287,6 @@
       "venue": "West End Cultural Centre",
       "category": "music",
       "url": "https://www.ticketmaster.ca/charlie-cunningham-presented-by-winnipeg-folk-winnipeg-manitoba-04-17-2027/event/1100656C85103D2E",
-      "source": "Ticketmaster",
-      "price": "Check organizer for pricing"
-    },
-    {
-      "id": "tm:1k78vPCaGA59Ijp",
-      "title": "Bruce Cockburn, Presented by Winnipeg Folk Festival",
-      "date": "2027-04-17",
-      "time": "20:00",
-      "venue": "Burton Cummings Theatre",
-      "category": "music",
-      "url": "https://www.ticketmaster.ca/bruce-cockburn-presented-by-winnipeg-folk-winnipeg-manitoba-04-17-2027/event/110065389B5E8716",
       "source": "Ticketmaster",
       "price": "Check organizer for pricing"
     }

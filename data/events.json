@@ -1,50 +1,6 @@
 {
-  "updated_at": "2026-11-26T21:07:28.557401+00:00",
+  "updated_at": "2026-11-27T07:25:38.954140+00:00",
   "events": [
-    {
-      "id": "tm:1778v0G6CXKaAOv",
-      "title": "Grandpa's Home Alone",
-      "date": "2026-11-26",
-      "time": "18:00",
-      "venue": "Destination Dinner Stage",
-      "category": "date",
-      "url": "https://www.ticketmaster.ca/grandpas-home-alone-winnipeg-manitoba-11-26-2026/event/110064EF93245801",
-      "source": "Ticketmaster",
-      "price": "Check organizer for pricing"
-    },
-    {
-      "id": "tm:rZ7HnEZ1A4Z63d",
-      "title": "Protest the Hero Presented by Ninjacat Productions at the Pyramid Cabaret",
-      "date": "2026-11-26",
-      "time": "18:30",
-      "venue": "Pyramid Cabaret",
-      "category": "music",
-      "url": "https://www.ticketweb.ca/event/protest-the-hero-presented-by-pyramid-cabaret-tickets/15007483",
-      "source": "Ticketmaster",
-      "price": "Check organizer for pricing"
-    },
-    {
-      "id": "tm:1778v0G6GCfTPc4",
-      "title": "Folsom Prison Revisited - The Music - Story - Legend of Johnny Cash",
-      "date": "2026-11-26",
-      "time": "19:00",
-      "venue": "Club Regent Event Centre",
-      "category": "music",
-      "url": "https://www.ticketmaster.ca/folsom-prison-revisited-the-music-story-winnipeg-manitoba-11-26-2026/event/110064C394FE5B55",
-      "source": "Ticketmaster",
-      "price": "Check organizer for pricing"
-    },
-    {
-      "id": "tm:1AoZkf4Gkexq5c5",
-      "title": "Boy Golden - Good Goddamn Another Tour",
-      "date": "2026-11-26",
-      "time": "19:00",
-      "venue": "PARK THEATRE",
-      "category": "music",
-      "url": "https://www.ticketmaster.ca/boy-golden-good-goddamn-another-tour-winnipeg-manitoba-11-26-2026/event/11006515A274BB4B",
-      "source": "Ticketmaster",
-      "price": "Check organizer for pricing"
-    },
     {
       "id": "tm:1778v0G6CXpzgwI",
       "title": "Grandpa's Home Alone",
@@ -3287,6 +3243,50 @@
       "venue": "Canada Life Centre",
       "category": "music",
       "url": "https://www.ticketmaster.ca/a-perfect-circle-with-special-guest-winnipeg-manitoba-04-19-2027/event/1100653986EB54E6",
+      "source": "Ticketmaster",
+      "price": "Check organizer for pricing"
+    },
+    {
+      "id": "tm:1Av7Z_4GkUmk_9M",
+      "title": "Taylor Made Dreams",
+      "date": "2027-04-22",
+      "time": "18:00",
+      "venue": "Destination Dinner Stage",
+      "category": "date",
+      "url": "https://www.ticketmaster.ca/taylor-made-dreams-winnipeg-manitoba-04-22-2027/event/1100655DAE1995F7",
+      "source": "Ticketmaster",
+      "price": "Check organizer for pricing"
+    },
+    {
+      "id": "tm:rZ7HnEZ1A4vorK",
+      "title": "Haywire - Beton Arme",
+      "date": "2027-04-22",
+      "time": "19:30",
+      "venue": "The Park Theatre",
+      "category": "music",
+      "url": "https://www.ticketweb.ca/event/haywire-beton-arme-the-park-theatre-tickets/15051793",
+      "source": "Ticketmaster",
+      "price": "Check organizer for pricing"
+    },
+    {
+      "id": "tm:1Av7Z_4GkURuaqb",
+      "title": "Taylor Made Dreams",
+      "date": "2027-04-23",
+      "time": "18:00",
+      "venue": "Destination Dinner Stage",
+      "category": "date",
+      "url": "https://www.ticketmaster.ca/taylor-made-dreams-winnipeg-manitoba-04-23-2027/event/1100655DAF349758",
+      "source": "Ticketmaster",
+      "price": "Check organizer for pricing"
+    },
+    {
+      "id": "tm:1Av7Z_pGkwqqAl2",
+      "title": "Alex Warren - Finding (More) Family On The Road",
+      "date": "2027-04-23",
+      "time": "19:30",
+      "venue": "Canada Life Centre",
+      "category": "music",
+      "url": "https://www.ticketmaster.ca/alex-warren-finding-more-family-on-winnipeg-manitoba-04-23-2027/event/1100656C9D745ACF",
       "source": "Ticketmaster",
       "price": "Check organizer for pricing"
     }

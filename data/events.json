@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-27T07:25:38.954140+00:00",
+  "updated_at": "2026-11-27T20:51:07.438828+00:00",
   "events": [
     {
       "id": "tm:1778v0G6CXpzgwI",
@@ -1608,6 +1608,28 @@
       "price": "Check organizer for pricing"
     },
     {
+      "id": "tm:1Av7Z_9GkINVXGo",
+      "title": "Club Regent Casino - Monster Bingo",
+      "date": "2027-02-06",
+      "time": "12:00",
+      "venue": "Club Regent Casino - Electronic Bingo Area",
+      "category": "date",
+      "url": "https://www.ticketmaster.ca/club-regent-casino-monster-bingo-winnipeg-manitoba-02-06-2027/event/1100657A23D3E311",
+      "source": "Ticketmaster",
+      "price": "Check organizer for pricing"
+    },
+    {
+      "id": "tm:1Av7Z_9GkIx6CF3",
+      "title": "McPhillips Station Casino - Monster Bingo",
+      "date": "2027-02-06",
+      "time": "12:00",
+      "venue": "McPhillips Station Casino - Electronic Bingo Area",
+      "category": "date",
+      "url": "https://www.ticketmaster.ca/mcphillips-station-casino-monster-bingo-winnipeg-manitoba-02-06-2027/event/1100657A221CE212",
+      "source": "Ticketmaster",
+      "price": "Check organizer for pricing"
+    },
+    {
       "id": "tm:1AoZk4vGkdJnGzE",
       "title": "RAM Motorsports Spectacular",
       "date": "2027-02-06",
@@ -2081,6 +2103,17 @@
       "price": "Check organizer for pricing"
     },
     {
+      "id": "tm:rZ7HnEZ1A4vVGS",
+      "title": "Frank Spadone - Comedy in the Park",
+      "date": "2027-02-25",
+      "time": "18:30",
+      "venue": "The Park Theatre",
+      "category": "date",
+      "url": "https://www.ticketweb.ca/event/frank-spadone-comedy-the-park-theatre-tickets/15074333",
+      "source": "Ticketmaster",
+      "price": "Check organizer for pricing"
+    },
+    {
       "id": "tm:1Av7Z_4GkURFyjW",
       "title": "Taylor Made Dreams",
       "date": "2027-02-26",
@@ -2467,12 +2500,12 @@
     },
     {
       "id": "tm:1AoZk4yGkeUY_f5",
-      "title": "Yeng Constantino",
+      "title": "Yeng Constantino BIYAHENG BENTE 20TH Anniversary Concert",
       "date": "2027-03-12",
       "time": "19:00",
       "venue": "Canada Life Centre",
       "category": "music",
-      "url": "https://www.ticketmaster.ca/yeng-constantino-winnipeg-manitoba-03-12-2027/event/11006579B6C1950B",
+      "url": "https://www.ticketmaster.ca/yeng-constantino-biyaheng-bente-20th-anniversary-winnipeg-manitoba-03-12-2027/event/11006579B6C1950B",
       "source": "Ticketmaster",
       "price": "Check organizer for pricing"
     },
@@ -3254,39 +3287,6 @@
       "venue": "Destination Dinner Stage",
       "category": "date",
       "url": "https://www.ticketmaster.ca/taylor-made-dreams-winnipeg-manitoba-04-22-2027/event/1100655DAE1995F7",
-      "source": "Ticketmaster",
-      "price": "Check organizer for pricing"
-    },
-    {
-      "id": "tm:rZ7HnEZ1A4vorK",
-      "title": "Haywire - Beton Arme",
-      "date": "2027-04-22",
-      "time": "19:30",
-      "venue": "The Park Theatre",
-      "category": "music",
-      "url": "https://www.ticketweb.ca/event/haywire-beton-arme-the-park-theatre-tickets/15051793",
-      "source": "Ticketmaster",
-      "price": "Check organizer for pricing"
-    },
-    {
-      "id": "tm:1Av7Z_4GkURuaqb",
-      "title": "Taylor Made Dreams",
-      "date": "2027-04-23",
-      "time": "18:00",
-      "venue": "Destination Dinner Stage",
-      "category": "date",
-      "url": "https://www.ticketmaster.ca/taylor-made-dreams-winnipeg-manitoba-04-23-2027/event/1100655DAF349758",
-      "source": "Ticketmaster",
-      "price": "Check organizer for pricing"
-    },
-    {
-      "id": "tm:1Av7Z_pGkwqqAl2",
-      "title": "Alex Warren - Finding (More) Family On The Road",
-      "date": "2027-04-23",
-      "time": "19:30",
-      "venue": "Canada Life Centre",
-      "category": "music",
-      "url": "https://www.ticketmaster.ca/alex-warren-finding-more-family-on-winnipeg-manitoba-04-23-2027/event/1100656C9D745ACF",
       "source": "Ticketmaster",
       "price": "Check organizer for pricing"
     }

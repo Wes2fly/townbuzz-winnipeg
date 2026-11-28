@@ -1,17 +1,6 @@
 {
-  "updated_at": "2026-11-28T06:55:41.676296+00:00",
+  "updated_at": "2026-11-28T19:42:36.234000+00:00",
   "events": [
-    {
-      "id": "tm:1AoZkf6GkegRnDG",
-      "title": "Military Appreciation | Manitoba Moose vs. Belleville Senators ",
-      "date": "2026-11-28",
-      "time": "14:00",
-      "venue": "Canada Life Centre",
-      "category": "date",
-      "url": "https://www.ticketmaster.ca/military-appreciation-manitoba-moose-vs-belleville-winnipeg-manitoba-11-28-2026/event/11006507B5BEAECC",
-      "source": "Ticketmaster",
-      "price": "Check organizer for pricing"
-    },
     {
       "id": "tm:Z7r9jZ1AAZfPo",
       "title": "Manitoba Moose vs. Belleville Senators",
@@ -3287,6 +3276,17 @@
       "venue": "Canada Life Centre",
       "category": "music",
       "url": "https://www.ticketmaster.ca/alex-warren-finding-more-family-on-winnipeg-manitoba-04-23-2027/event/1100656C9D745ACF",
+      "source": "Ticketmaster",
+      "price": "Check organizer for pricing"
+    },
+    {
+      "id": "tm:1Av7Z_4GkURmtO6",
+      "title": "Taylor Made Dreams",
+      "date": "2027-04-24",
+      "time": "18:00",
+      "venue": "Destination Dinner Stage",
+      "category": "date",
+      "url": "https://www.ticketmaster.ca/taylor-made-dreams-winnipeg-manitoba-04-24-2027/event/1100655DAFBA9807",
       "source": "Ticketmaster",
       "price": "Check organizer for pricing"
     }

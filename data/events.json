@@ -1,39 +1,6 @@
 {
-  "updated_at": "2026-11-27T20:51:07.438828+00:00",
+  "updated_at": "2026-11-28T06:55:41.676296+00:00",
   "events": [
-    {
-      "id": "tm:1778v0G6CXpzgwI",
-      "title": "Grandpa's Home Alone",
-      "date": "2026-11-27",
-      "time": "18:00",
-      "venue": "Destination Dinner Stage",
-      "category": "date",
-      "url": "https://www.ticketmaster.ca/grandpas-home-alone-winnipeg-manitoba-11-27-2026/event/110064EF96E35CA8",
-      "source": "Ticketmaster",
-      "price": "Check organizer for pricing"
-    },
-    {
-      "id": "tm:rZ7HnEZ1AfGpA7",
-      "title": "Michael Bernard Fitzgerald",
-      "date": "2026-11-27",
-      "time": "19:00",
-      "venue": "Sidestage",
-      "category": "music",
-      "url": "https://www.ticketweb.ca/event/michael-bernard-fitzgerald-sidestage-tickets/14316144",
-      "source": "Ticketmaster",
-      "price": "Check organizer for pricing"
-    },
-    {
-      "id": "tm:1778v0G6C2h_76n",
-      "title": "Faouzia & The WSO",
-      "date": "2026-11-27",
-      "time": "19:30",
-      "venue": "Burton Cummings Theatre",
-      "category": "music",
-      "url": "https://www.ticketmaster.ca/faouzia-the-wso-winnipeg-manitoba-11-27-2026/event/110064E3DB6441EA",
-      "source": "Ticketmaster",
-      "price": "Check organizer for pricing"
-    },
     {
       "id": "tm:1AoZkf6GkegRnDG",
       "title": "Military Appreciation | Manitoba Moose vs. Belleville Senators ",
@@ -3287,6 +3254,39 @@
       "venue": "Destination Dinner Stage",
       "category": "date",
       "url": "https://www.ticketmaster.ca/taylor-made-dreams-winnipeg-manitoba-04-22-2027/event/1100655DAE1995F7",
+      "source": "Ticketmaster",
+      "price": "Check organizer for pricing"
+    },
+    {
+      "id": "tm:rZ7HnEZ1A4vorK",
+      "title": "Haywire - Beton Arme",
+      "date": "2027-04-22",
+      "time": "19:30",
+      "venue": "The Park Theatre",
+      "category": "music",
+      "url": "https://www.ticketweb.ca/event/haywire-beton-arme-the-park-theatre-tickets/15051793",
+      "source": "Ticketmaster",
+      "price": "Check organizer for pricing"
+    },
+    {
+      "id": "tm:1Av7Z_4GkURuaqb",
+      "title": "Taylor Made Dreams",
+      "date": "2027-04-23",
+      "time": "18:00",
+      "venue": "Destination Dinner Stage",
+      "category": "date",
+      "url": "https://www.ticketmaster.ca/taylor-made-dreams-winnipeg-manitoba-04-23-2027/event/1100655DAF349758",
+      "source": "Ticketmaster",
+      "price": "Check organizer for pricing"
+    },
+    {
+      "id": "tm:1Av7Z_pGkwqqAl2",
+      "title": "Alex Warren - Finding (More) Family On The Road",
+      "date": "2027-04-23",
+      "time": "19:30",
+      "venue": "Canada Life Centre",
+      "category": "music",
+      "url": "https://www.ticketmaster.ca/alex-warren-finding-more-family-on-winnipeg-manitoba-04-23-2027/event/1100656C9D745ACF",
       "source": "Ticketmaster",
       "price": "Check organizer for pricing"
     }
